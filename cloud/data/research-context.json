@@ -13,13 +13,13 @@
   "lastResearchAt": "2026-11-14",
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-14T07:21:25.822Z",
-    "completedAt": "2026-11-14T07:23:04.391Z",
-    "lastSuccessfulAt": "2026-11-14T07:23:04.391Z",
+    "checkedAt": "2026-11-14T07:24:25.499Z",
+    "completedAt": "2026-11-14T07:26:09.523Z",
+    "lastSuccessfulAt": "2026-11-14T07:26:09.523Z",
     "fetchedSources": 53,
     "failedSources": 66,
-    "changedSources": 0,
-    "pendingLeads": 15,
+    "changedSources": 2,
+    "pendingLeads": 16,
     "lastResearchAt": "2026-11-14",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
@@ -493,6 +493,15 @@
       "source": "https://recruit.zibchina.com/campus.html",
       "firstSeenAt": "2026-11-14",
       "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "key": "21c758dd3463d96a6ac8971ba2c2b8ca9e47cc04b634931e06cf778613c159f3",
+      "url": "https://job.nbmetro.com/apply/index.action",
+      "title": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控",
+      "jobId": "soe-11",
+      "source": "https://job.nbmetro.com/apply/index.action",
+      "firstSeenAt": "2026-11-14",
+      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
     }
   ],
   "upcomingDeadlines": [
@@ -580,7 +589,7 @@
       "date": "2026-11-14",
       "type": "云端检查",
       "title": "云端每日检查：53项来源可读，66项待重试",
-      "detail": "已保留全部历史岗位与人工状态；13条新增候选，167条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
+      "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
       "cloudOperational": true
     },
     {
