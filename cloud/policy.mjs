@@ -40,10 +40,16 @@ function eligibility(job, evidence) {
   const declared = job.eligibility || {};
   const yearClear = /2027\s*届|2027\s*年.{0,12}(?:应届|毕业生)|(?:应届|毕业生).{0,12}2027/.test(quoted);
   const majorClear = /专业不限|不限专业|125300|会计专业硕士|会计硕士专业学位|MPAcc/i.test(quoted);
+  const compact=quoted.replace(/\s+/g,'');
+  const majorDenied=/(?:不接受|不含|不包括|不招收|不招|不接收)[^；。\n]{0,16}(?:125300|会计专业硕士|会计硕士专业学位|会计专硕|MPAcc)|(?:125300|会计专业硕士|会计专硕|MPAcc)[（()）]*[^；。\n]{0,10}(?:不在招聘范围|不符合(?:本岗位)?(?:专业|报名)条件|不得报考|不能报考)/i.test(compact);
+  const hardIdentityClauses=compact.split(/[；;\n。，]/).filter(s=>!/优先|加分/.test(s));
+  const maleOnly=hardIdentityClauses.some(s=>/(?:仅限|限|只招|只限|性别(?:要求)?[:：为]?)(?:男性|男生|男)(?!女)/.test(s)&&!/男女不限|性别不限|不限性别/.test(s));
+  const directedOnly=hardIdentityClauses.some(s=>/(?:仅限|只限|限定|面向|限|招录对象为|招聘对象为)[^；。\n]{0,18}(?:服务基层项目人员|基层服务项目人员|大学生村官|村社区干部|村[（(]社区[）)]干部)/.test(s)&&!/不限|不限定|并非仅限/.test(s));
+  const excludedReason=majorDenied?'官方明确不接受会计专硕/125300':maleOnly?'官方限男性，与暂按女性筛选口径不符':directedOnly?'官方限定基层项目或基层定向身份，与当前筛选口径不符':'';
   const hardClauses = quoted.split(/[；;\n。，]/).filter(s=>! /优先|加分|不要求|无需|不限/.test(s)).join('；');
   const requiredExperience = /(?:至少|须|需|具备|具有|要求|不低于).{0,10}[一二三四五六七八九十1-9]\s*年.{0,12}(?:工作|从业|相关|管理)经验|[一二三四五六七八九十1-9]\s*年(?:及以上|以上)(?:工作|从业|相关|管理)经验/.test(hardClauses);
   const scoped = declared.graduationYear === 2027 && declared.experienceRequired === false && ['unrestricted', '125300'].includes(declared.majorScope);
-  return { yearClear, majorClear, requiredExperience, activeAllowed: yearClear && majorClear && !requiredExperience && scoped };
+  return { yearClear, majorClear, requiredExperience, excludedReason, activeAllowed: yearClear && majorClear && !requiredExperience && !excludedReason && scoped };
 }
 function normalizeItem(item, old, date, hosts) {
   if (!item || typeof item !== 'object' || !/^[a-zA-Z0-9][a-zA-Z0-9_-]{1,180}$/.test(item.id || '')) throw new Error('Invalid job ID');
@@ -64,7 +70,9 @@ function normalizeItem(item, old, date, hosts) {
   if(old&&item.checkedAt&&ev.scope!=='qualification')throw new Error('A full qualification scope is required to update checkedAt');
   const e = eligibility(item, ev);
   if (qualificationChange && LIVE_STAGES.has(out.stage)) {
-    if (e.requiredExperience) {
+    if(e.excludedReason) {
+      out.stage='excluded'; out.match='低匹配'; out.status=e.excludedReason; out.priority=Math.min(out.priority,20);
+    } else if (e.requiredExperience) {
       out.stage='excluded'; out.match='低匹配'; out.status='官方条件要求工作经验，暂不匹配应届生'; out.priority=Math.min(out.priority,20);
     } else if (!e.activeAllowed) {
       out.stage='watch'; out.match='需咨询'; out.priority=Math.min(out.priority,85);

@@ -86,3 +86,22 @@ test('explicit official reopening may move a historical deadline forward',()=>{
  const r=applyDelta(b,delta({patches:[{id:'old-one',stage:'active',deadline:'2026-12-01',eligibility:{graduationYear:2027,majorScope:'unrestricted',experienceRequired:false},evidence:evidence({change:'reopened',excerpt:'2027届应届毕业生，专业不限；恢复报名，延期至2026年12月1日17:00截止，本科及以上，无经验要求。'})}]}),opts);
  assert.equal(r.data.jobs[0].stage,'active');assert.equal(r.data.jobs[0].deadline,'2026-12-01');
 });
+
+test('explicit rejection of 125300 cannot be activated by a claimed eligibility flag',()=>{
+ for(const restriction of ['不接受125300','专业不含会计专硕（125300）','125300不得报考']) {
+  const j=newJob({evidence:evidence({excerpt:'2027届应届毕业生，本科及以上；'+restriction+'；其余专业不限，工作地点宁波。'})});
+  const r=applyDelta(base(),delta({jobs:[j]}),opts).data.jobs.at(-1);assert.equal(r.stage,'excluded');assert.match(r.status,/不接受/);
+ }
+});
+test('explicit male and directed-grassroots restrictions are excluded for the saved applicant profile',()=>{
+ for(const restriction of ['限男性','性别要求：男','面向服务基层项目人员','仅限大学生村官']) {
+  const j=newJob({evidence:evidence({excerpt:'2027届应届毕业生，专业不限；'+restriction+'；本科及以上，工作地点宁波。'})});
+  assert.equal(applyDelta(base(),delta({jobs:[j]}),opts).data.jobs.at(-1).stage,'excluded');
+ }
+});
+test('unrestricted genders and priority preferences are not mistaken for hard exclusions',()=>{
+ for(const restriction of ['男女不限','性别不限','中共党员优先','服务基层项目人员优先','并非仅限服务基层项目人员']) {
+  const j=newJob({evidence:evidence({excerpt:'2027届应届毕业生，专业不限；'+restriction+'；本科及以上，工作地点宁波。'})});
+  assert.equal(applyDelta(base(),delta({jobs:[j]}),opts).data.jobs.at(-1).stage,'active');
+ }
+});
