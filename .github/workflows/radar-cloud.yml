@@ -1,0 +1,61 @@
+name: Job radar cloud refresh
+on:
+  schedule:
+    - cron: '30 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'cloud/**'
+      - '.github/workflows/radar-cloud.yml'
+      - 'index.html'
+      - 'assets/**'
+      - 'favicon.svg'
+      - 'og.png'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: job-radar-cloud-publication
+  cancel-in-progress: false
+jobs:
+  update-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check merge and qualification rules
+        run: node --test cloud/*.test.mjs
+      - name: Fetch official sources and merge verified increments
+        run: node cloud/refresh.mjs
+      - name: Preserve daily results
+        run: |
+          git config user.name 'job-radar-cloud[bot]'
+          git config user.email 'job-radar-cloud@users.noreply.github.com'
+          git add cloud
+          if ! git diff --cached --quiet; then
+            git commit -m "Update job radar from official sources"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Assemble the existing protected website
+        run: node cloud/package-pages.mjs
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - name: Publish fixed GitHub Pages URL
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Verify published data
+        run: node cloud/verify-published.mjs

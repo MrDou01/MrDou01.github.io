@@ -1,0 +1,358 @@
+{
+  "schemaVersion": 1,
+  "officialHosts": [
+    "app-tc.mokahr.com",
+    "app.mokahr.com",
+    "applyjob.chinahr.com",
+    "bjxapp.cn",
+    "bm.cpta.com.cn",
+    "bm.scs.gov.cn",
+    "campus.51job.com",
+    "campus.chinahr.com",
+    "campus.geely.com",
+    "campus.wzgroup.cn",
+    "career.abchina.com",
+    "career.cmbc.com.cn",
+    "career.cmbchina.com",
+    "career.hfbank.com.cn",
+    "careers.ey.com",
+    "cdn.cpta.com.cn",
+    "chinalife.zhiye.com",
+    "cmb-recruitment-mobile.paas.cmbchina.com",
+    "coamc.zhiye.com",
+    "dhr.cncico.com",
+    "dl.scs.gov.cn",
+    "eximbank2027.iguopin.com",
+    "faw-vw.hotjob.cn",
+    "fe.zhaopin.com",
+    "ginlong.zhiye.com",
+    "gongniu.zhiye.com",
+    "gwy.cpta.com.cn",
+    "gwy.zjks.gov.cn",
+    "gzw.jiaxing.gov.cn",
+    "gzw.ningbo.gov.cn",
+    "hrx.zjenergy.com.cn",
+    "iguopin-activity.oss-cn-beijing.aliyuncs.com",
+    "jilin.chinapost.com.cn",
+    "job.10086.cn",
+    "job.bankcomm.com",
+    "job.chinatelecom.com.cn",
+    "job.citicbank.com",
+    "job.icbc.com.cn",
+    "job.nbmetro.com",
+    "job.sinopec.com",
+    "job.spdb.com.cn",
+    "job.zszhcpa.cn",
+    "job1.ccb.com",
+    "kpmg.com",
+    "m.dsmp.voyah.com.cn",
+    "myjob.hzbank.com.cn",
+    "nci.zhiye.com",
+    "ningbo.chinatax.gov.cn",
+    "ningbo.pbc.gov.cn",
+    "omwb.oss-cn-beijing.aliyuncs.com",
+    "picc.zhiye.com",
+    "psbc2027.zhaopin.com",
+    "recruit.zibchina.com",
+    "rencaishichang.chd.com.cn",
+    "ronbay.zhiye.com",
+    "rst.xinjiang.gov.cn",
+    "shanghai.chinatax.gov.cn",
+    "sinotrans.zhiye.com",
+    "wap.nbdj.gov.cn",
+    "web.nbdj.gov.cn",
+    "wecruit.hotjob.cn",
+    "www.adbc.com.cn",
+    "www.bankofchina.com",
+    "www.boc.cn",
+    "www.cgbchina.com.cn",
+    "www.china-tower.com",
+    "www.chinapost.com.cn",
+    "www.chinatax.gov.cn",
+    "www.chinatelecom.com.cn",
+    "www.cixi.gov.cn",
+    "www.cpta.com.cn",
+    "www.csrc.gov.cn",
+    "www.deloitte.com",
+    "www.dfmc.com.cn",
+    "www.fh.gov.cn",
+    "www.grantthornton.cn",
+    "www.iguopin.com",
+    "www.mcc20.com.cn",
+    "www.nbmetro.com",
+    "www.nbport.com.cn",
+    "www.ncbank.cn",
+    "www.ndig.com.cn",
+    "www.nfra.gov.cn",
+    "www.ninghai.gov.cn",
+    "www.psbc.com",
+    "www.qianwan.gov.cn",
+    "www.scs.gov.cn",
+    "www.sxccb.com",
+    "www.tobacco.gov.cn",
+    "www.ujob360.com",
+    "www.xiangshan.gov.cn",
+    "www.yy.gov.cn",
+    "www.zj.msa.gov.cn",
+    "www.zjseaport.com",
+    "xd.zjks.com",
+    "xiaoyuan.zhaopin.com",
+    "ycyg.nbhr.org.cn",
+    "zglt.zhaopin.com",
+    "zhaopin.airchina.com.cn",
+    "zhaopin.chnenergy.com.cn",
+    "zhaopin.nbcb.com.cn",
+    "zhaopin.pccpa.cn",
+    "zhaopin.sgcc.com.cn",
+    "zhaopin.zj.sgcc.com.cn",
+    "zhcpa.zhiye.com",
+    "zhejiang.chinatax.gov.cn",
+    "zjseaport.m.zhiye.com",
+    "zjyc.tobacco.gov.cn",
+    "zp.borf.cn",
+    "zp.czbank.com.cn"
+  ],
+  "sources": [
+    {
+      "name": "宁波通商银行校园招聘",
+      "url": "https://www.ncbank.cn/ncbank/jrts/rczp/xyzp/index.shtml",
+      "kind": "listing"
+    },
+    {
+      "name": "容百集团校园招聘",
+      "url": "https://ronbay.zhiye.com/Campus",
+      "kind": "listing"
+    },
+    {
+      "name": "中国邮政储蓄银行2027年度校园招聘",
+      "url": "https://www.psbc.com/cn/gyyc/rczp/xyzp/202609/t20260907_460394.html",
+      "kind": "listing"
+    },
+    {
+      "name": "广发银行招聘公告",
+      "url": "https://www.cgbchina.com.cn/career/job_notice2.jsp",
+      "kind": "listing"
+    },
+    {
+      "name": "中国人保校园招聘",
+      "url": "https://picc.zhiye.com/campus",
+      "kind": "listing"
+    },
+    {
+      "name": "公牛集团2027校园招聘",
+      "url": "https://gongniu.zhiye.com/campus/jobs",
+      "kind": "listing"
+    },
+    {
+      "name": "吉利控股集团校园招聘",
+      "url": "https://campus.geely.com/campus-recruitment/geely/78436/#/jobs",
+      "kind": "listing"
+    },
+    {
+      "name": "中国农业银行人才招聘（2027校招）",
+      "url": "https://career.abchina.com/build/index.html#/RecruitmentNoticeList/99/-1",
+      "kind": "listing"
+    },
+    {
+      "name": "中国建设银行2027校园招聘",
+      "url": "https://job1.ccb.com/cn/job/plan_index.html?planType=XY",
+      "kind": "listing"
+    },
+    {
+      "name": "中国工商银行人才招聘",
+      "url": "https://job.icbc.com.cn/pc/index.html#/main/school/home/struct",
+      "kind": "listing"
+    },
+    {
+      "name": "中信银行人才招聘",
+      "url": "https://job.citicbank.com/",
+      "kind": "listing"
+    },
+    {
+      "name": "招商银行校园招聘",
+      "url": "https://career.cmbchina.com/notice/school",
+      "kind": "listing"
+    },
+    {
+      "name": "中国民生银行校园招聘",
+      "url": "https://career.cmbc.com.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "中国银行2027全球校园招聘公告",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html",
+      "kind": "listing"
+    },
+    {
+      "name": "中国银行2027校园招聘平台",
+      "url": "https://campus.chinahr.com/pages/2027-boc",
+      "kind": "listing"
+    },
+    {
+      "name": "中国东方校园招聘（具体职位待核）",
+      "url": "https://coamc.zhiye.com/campus",
+      "kind": "listing"
+    },
+    {
+      "name": "杭州银行招聘（具体职位待核）",
+      "url": "https://myjob.hzbank.com.cn",
+      "kind": "listing"
+    },
+    {
+      "name": "浙江省公务员考试录用网",
+      "url": "https://gwy.zjks.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "国家电网人力资源招聘平台",
+      "url": "https://zhaopin.sgcc.com.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "国家烟草专卖局招聘信息",
+      "url": "https://www.tobacco.gov.cn/gjyc/zpxx/list.shtml",
+      "kind": "listing"
+    },
+    {
+      "name": "中国电信招聘",
+      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/index?brandCode=1",
+      "kind": "listing"
+    },
+    {
+      "name": "中国联通校园招聘",
+      "url": "https://zglt.zhaopin.com/home/index.html",
+      "kind": "listing"
+    },
+    {
+      "name": "中国石化人才招聘",
+      "url": "https://job.sinopec.com/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波市国资委招聘公告",
+      "url": "http://gzw.ningbo.gov.cn/col/col1229116730/index.html",
+      "kind": "listing"
+    },
+    {
+      "name": "余姚政府",
+      "url": "https://www.yy.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波银行招聘",
+      "url": "https://zhaopin.nbcb.com.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "中汇校园招聘",
+      "url": "https://zhcpa.zhiye.com/campus/jobs",
+      "kind": "listing"
+    },
+    {
+      "name": "致同2027校园招聘",
+      "url": "https://www.grantthornton.cn/campus-recruitment/",
+      "kind": "listing"
+    },
+    {
+      "name": "中国华电招聘平台",
+      "url": "https://rencaishichang.chd.com.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "国家能源集团2027统招公告",
+      "url": "https://zhaopin.chnenergy.com.cn/annc/showgg?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "kind": "listing"
+    },
+    {
+      "name": "中国石化镇海炼化公司校园招聘",
+      "url": "https://job.sinopec.com/#/school/recruitmentPositionsDetail?postId=77C34DEB-A442-4305-8D80-720AA75FAC5C",
+      "kind": "listing"
+    },
+    {
+      "name": "中国石化浙江石油分公司校园招聘",
+      "url": "https://job.sinopec.com/#/school/recruitmentPositionsDetail?postId=F443B6C8-FAB9-41EF-AE01-524A9D36D2CC",
+      "kind": "listing"
+    },
+    {
+      "name": "天健会计师事务所杭州总所校园招聘",
+      "url": "https://zhaopin.pccpa.cn/hr/recruit/school",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波党建网",
+      "url": "https://web.nbdj.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波国资招聘",
+      "url": "https://gzw.ningbo.gov.cn/col/col1229116730/index.html",
+      "kind": "listing"
+    },
+    {
+      "name": "慈溪政府",
+      "url": "https://www.cixi.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "奉化政府",
+      "url": "https://www.fh.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁海政府",
+      "url": "https://www.ninghai.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "象山政府",
+      "url": "https://www.xiangshan.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "前湾新区",
+      "url": "https://www.qianwan.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "国家公务员局",
+      "url": "http://www.scs.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "国家税务总局",
+      "url": "https://www.chinatax.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "浙江国贸校园招聘",
+      "url": "https://recruit.zibchina.com/campus.html",
+      "kind": "listing"
+    },
+    {
+      "name": "浙江海港",
+      "url": "https://www.zjseaport.com/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波舟山港",
+      "url": "https://www.nbport.com.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波轨道交通",
+      "url": "https://www.nbmetro.com/",
+      "kind": "listing"
+    },
+    {
+      "name": "中国进出口银行2027",
+      "url": "https://eximbank2027.iguopin.com/notice",
+      "kind": "listing"
+    }
+  ],
+  "limits": {
+    "timeoutMs": 12000,
+    "maxBytes": 2000000,
+    "concurrency": 6,
+    "maxDetails": 110
+  }
+}
