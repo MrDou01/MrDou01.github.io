@@ -1,0 +1,2929 @@
+{
+  "schemaVersion": 1,
+  "runId": "2026-11-14T07-21-25-858Z-81b7532e",
+  "date": "2026-11-14",
+  "startedAt": "2026-11-14T07:21:25.822Z",
+  "inbox": [
+    {
+      "id": "migration-2026-11-14-verified-1111",
+      "file": "migration-2026-11-14-verified-1111.json",
+      "sha256": "8791880fb155e7c9ede1e4373fca573a97920e1e799644dd516256dc67abf429",
+      "status": "accepted",
+      "changes": 18
+    }
+  ],
+  "changes": [
+    {
+      "id": "live-picc-nb-provincial-trainee-j79020-2027",
+      "kind": "added",
+      "source": "https://picc.zhiye.com/campus/detail?jobAdId=4e442409-7c0d-4ebb-ac04-26c45687be2d",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "code",
+        "role",
+        "priority",
+        "action",
+        "year",
+        "category",
+        "employer",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "source",
+        "verificationSource",
+        "officialJobAdId",
+        "officialPositionId",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "live-picc-life-nb-training-j80787-2027",
+      "kind": "added",
+      "source": "https://picc.zhiye.com/campus/detail?jobAdId=5a556536-25d1-4aa5-add1-ae33d6c49ea4",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "code",
+        "role",
+        "priority",
+        "action",
+        "year",
+        "category",
+        "employer",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "source",
+        "verificationSource",
+        "officialJobAdId",
+        "officialPositionId",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "live-picc-life-nb-basic-management-j78605-2027",
+      "kind": "added",
+      "source": "https://picc.zhiye.com/campus/detail?jobAdId=45dfdd5f-bcb0-43be-af77-738de70947d1",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "code",
+        "role",
+        "priority",
+        "action",
+        "year",
+        "category",
+        "employer",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "source",
+        "verificationSource",
+        "officialJobAdId",
+        "officialPositionId",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "watch-zibchina-860321515864985600-20261111",
+      "kind": "added",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=860321515864985600&channel=1",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "year",
+        "category",
+        "employer",
+        "role",
+        "code",
+        "officialPositionId",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "priority",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "action",
+        "source",
+        "verificationSource",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "watch-zibchina-2105263893756612608-20261111",
+      "kind": "added",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105263893756612608&channel=1",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "year",
+        "category",
+        "employer",
+        "role",
+        "code",
+        "officialPositionId",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "priority",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "action",
+        "source",
+        "verificationSource",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "watch-zibchina-2105187265479770112-20261111",
+      "kind": "added",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105187265479770112&channel=1",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "year",
+        "category",
+        "employer",
+        "role",
+        "code",
+        "officialPositionId",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "priority",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "action",
+        "source",
+        "verificationSource",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "watch-zibchina-2105259902172708864-20261111",
+      "kind": "added",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105259902172708864&channel=1",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "year",
+        "category",
+        "employer",
+        "role",
+        "code",
+        "officialPositionId",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "priority",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "action",
+        "source",
+        "verificationSource",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "watch-zibchina-2105214546063966208-20261111",
+      "kind": "added",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105214546063966208&channel=1",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "year",
+        "category",
+        "employer",
+        "role",
+        "code",
+        "officialPositionId",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "priority",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "action",
+        "source",
+        "verificationSource",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "watch-zibchina-2105206121233448960-20261111",
+      "kind": "added",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105206121233448960&channel=1",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "year",
+        "category",
+        "employer",
+        "role",
+        "code",
+        "officialPositionId",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "priority",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "action",
+        "source",
+        "verificationSource",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "watch-zibchina-2105199012068036610-20261111",
+      "kind": "added",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105199012068036610&channel=1",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "year",
+        "category",
+        "employer",
+        "role",
+        "code",
+        "officialPositionId",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "priority",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "action",
+        "source",
+        "verificationSource",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "watch-zibchina-2105206121237643264-20261111",
+      "kind": "added",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105206121237643264&channel=1",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "year",
+        "category",
+        "employer",
+        "role",
+        "code",
+        "officialPositionId",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "priority",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "action",
+        "source",
+        "verificationSource",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "watch-zibchina-2105214546063966209-20261111",
+      "kind": "added",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105214546063966209&channel=1",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "year",
+        "category",
+        "employer",
+        "role",
+        "code",
+        "officialPositionId",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "priority",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "action",
+        "source",
+        "verificationSource",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "watch-zibchina-2109533088640974850-20261111",
+      "kind": "added",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2109533088640974850&channel=1",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "id",
+        "year",
+        "category",
+        "employer",
+        "role",
+        "code",
+        "officialPositionId",
+        "location",
+        "region",
+        "direction",
+        "match",
+        "stage",
+        "priority",
+        "headcount",
+        "education",
+        "audience",
+        "deadline",
+        "deadlineTime",
+        "officialDeadlineRaw",
+        "status",
+        "requirements",
+        "note",
+        "action",
+        "source",
+        "verificationSource",
+        "checkedAt",
+        "verificationScope",
+        "evidenceLevel"
+      ]
+    },
+    {
+      "id": "watch-unicom-ningbo-accounting-40890716205",
+      "kind": "patched",
+      "source": "https://xiaoyuan.zhaopin.com/job/CC145093010J40890716205",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "status",
+        "stage",
+        "note",
+        "action",
+        "priority",
+        "verificationScope",
+        "statusCheckedAt",
+        "statusUpdatedAt",
+        "verificationSource"
+      ]
+    },
+    {
+      "id": "watch-unicom-hangzhou-accounting-40896690605",
+      "kind": "patched",
+      "source": "https://xiaoyuan.zhaopin.com/job/CC145093010J40896690605",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "status",
+        "stage",
+        "note",
+        "action",
+        "priority",
+        "verificationScope",
+        "statusCheckedAt",
+        "statusUpdatedAt",
+        "verificationSource"
+      ]
+    },
+    {
+      "id": "watch-unicom-zhoushan-accounting-40896690505",
+      "kind": "patched",
+      "source": "https://xiaoyuan.zhaopin.com/job/CC145093010J40896690505",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "status",
+        "stage",
+        "note",
+        "action",
+        "priority",
+        "verificationScope",
+        "statusCheckedAt",
+        "statusUpdatedAt",
+        "verificationSource"
+      ]
+    },
+    {
+      "id": "watch-unicom-taizhou-accounting-40896690705",
+      "kind": "patched",
+      "source": "https://xiaoyuan.zhaopin.com/job/CC145093010J40896690705",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "status",
+        "stage",
+        "note",
+        "action",
+        "priority",
+        "verificationScope",
+        "statusCheckedAt",
+        "statusUpdatedAt",
+        "verificationSource"
+      ]
+    },
+    {
+      "id": "live-nycfc-hq-trainee-2027",
+      "kind": "patched",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "observedAt": "2026-11-11",
+      "changedFields": [
+        "checkedAt",
+        "note",
+        "verificationScope"
+      ]
+    }
+  ],
+  "expired": [
+    {
+      "id": "live-zhejiang-gwy-2027-13302007007000012",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302007005000010",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302003005000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302004005000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302004016000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "watch-nbwater-trainee-finance-20261029",
+      "deadline": "2026-11-12",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302008013000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302006007000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302001011000028",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302001003000003",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302005014000023",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302003001000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302009008000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302008016000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302008015000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302008025000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302008017000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302008017000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302008006000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302006009000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302009021000006",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302010015000034",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302010002000003",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302010003000011",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304006008000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304006017000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304006009000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301009007000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301002009000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301010005000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301007006000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301001018000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304003013000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301013008000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310005007000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310010006000014",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306003002000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306005015000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310003006000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310002008000010",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310004004000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310004004000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310004007000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310001008000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301011007000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304007007000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304007008000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310006010000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310006011000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310009007000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306006005000008",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13309005001000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306004007000010",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306004007000012",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306004014000021",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "watch-nbwater-trainee-investment-20261029",
+      "deadline": "2026-11-12",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302007004000009",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304006004000003",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304006020000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304005003000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304005018000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304005017000004",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304005020000003",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304005011000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301009004000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301003015000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301005022000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301001012000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301008004000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301008003000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301003016000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301005026000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301005015000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304003017000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304008005000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301013003000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310005024000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310005020000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310005026000007",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310005011000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304004018000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306002030000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306003008000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306003006000005",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306003011000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306005025000002",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306005009000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310003018000004",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310002010000012",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310006022000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310003016000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310007017000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301011017000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304007016000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304007026000008",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310006006000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310006024000004",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306006012000022",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310007012000001",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306004004000004",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306004015000022",
+      "deadline": "2026-11-11",
+      "previousStage": "active"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301012003000003",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301012010000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301012019000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301012017000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301012017000003",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302008023000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13309003005000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304005010000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304005019000005",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301009018000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301009012000004",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301009030000005",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301007021000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301007007000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301005025000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301005011000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301005014000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301005012000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304002003000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302006005000008",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310010011000025",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306002005000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306002018000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306002020000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306001006000004",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306001005000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13309004013000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310003008000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301011013000008",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310006023000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310009008000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301005006000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306006011000019",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306006018000042",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302007025000043",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13302007023000041",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13309003001000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306003001000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301011016000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "watch-nbwater-cashier-20261029",
+      "deadline": "2026-11-12",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13309003002000006",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304006026000008",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301006011000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304003024000005",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13309004002000004",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310002007000009",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310002017000027",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310008003000003",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306006010000016",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310007006000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13301003004000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310010001000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304007001000004",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310006001000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310003002000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13304003021000001",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "watch-nbwater-marketing-service-20261029",
+      "deadline": "2026-11-12",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310010011000027",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13306003016000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13309004018000004",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310008010000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310008010000004",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310009004000003",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310009009000005",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13310009009000007",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    },
+    {
+      "id": "live-zhejiang-gwy-2027-13309004007000002",
+      "deadline": "2026-11-11",
+      "previousStage": "watch"
+    }
+  ],
+  "checks": [
+    {
+      "name": "广发银行招聘公告",
+      "url": "https://www.cgbchina.com.cn/career/job_notice2.jsp",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "3c6c2ffc3126e66769e916264f2615fda2bf00919d943c18ca8e50726fe419d8",
+      "bytes": 1464,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国人保校园招聘",
+      "url": "https://picc.zhiye.com/campus",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "410a78caa49029325fde1ad47aadaddd5066c0c859ea5b658bbf6f25f276a685",
+      "bytes": 239185,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国邮政储蓄银行2027年度校园招聘",
+      "url": "https://www.psbc.com/cn/gyyc/rczp/xyzp/202609/t20260907_460394.html",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "8930e765352f92f1e5354f91b4c93e87fdf93a96e3d2a2f9b2aac2c8caa5f450",
+      "bytes": 69562,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "容百集团校园招聘",
+      "url": "https://ronbay.zhiye.com/Campus",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "a07a8b0448f4d8e617f124e0747e47c49f21bd4b946fcfce597dbda2002c5bb5",
+      "bytes": 15519,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "公牛集团2027校园招聘",
+      "url": "https://gongniu.zhiye.com/campus/jobs",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "7e93be5f67118ad57ae8aff6fe5cf68e7225151376196092ce545bb0a79e8d99",
+      "bytes": 39530,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国农业银行人才招聘（2027校招）",
+      "url": "https://career.abchina.com/build/index.html#/RecruitmentNoticeList/99/-1",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "宁波通商银行校园招聘",
+      "url": "https://www.ncbank.cn/ncbank/jrts/rczp/xyzp/index.shtml",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国建设银行2027校园招聘",
+      "url": "https://job1.ccb.com/cn/job/plan_index.html?planType=XY",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国工商银行人才招聘",
+      "url": "https://job.icbc.com.cn/pc/index.html#/main/school/home/struct",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "吉利控股集团校园招聘",
+      "url": "https://campus.geely.com/campus-recruitment/geely/78436/#/jobs",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中信银行人才招聘",
+      "url": "https://job.citicbank.com/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "ebcf7d9685bee12d9ce944144f50af185dd0d03513cd854ee4be1b2dc586253b",
+      "bytes": 139900,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行校园招聘",
+      "url": "https://career.cmbchina.com/notice/school",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "blocked",
+      "sha256": "8a7373c79728b5160557030715162e1bf711401d33d244983aca6576305fec43",
+      "bytes": 594,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国民生银行校园招聘",
+      "url": "https://career.cmbc.com.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "bf49e8745fd30d71070f517b4af50d7b8d4dd76dc5be0965266aeac2eb7ed538",
+      "bytes": 1931,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国东方校园招聘（具体职位待核）",
+      "url": "https://coamc.zhiye.com/campus",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "bccbd3ea2ed1418a78f6076481e5c3996785cd5b5fae64e64e992b58953cb119",
+      "bytes": 76231,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国银行2027全球校园招聘公告",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "f25a31fcd98c70b00691206bde3e7a99ac18ffcae7313fe900f88c210ac39ba6",
+      "bytes": 37544,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "中国电信招聘",
+      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/index?brandCode=1",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "d478d59b1322833cd9740e0535bba70f118c65b1c5f557feeae51dfd5424d688",
+      "bytes": 1463,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "杭州银行招聘（具体职位待核）",
+      "url": "https://myjob.hzbank.com.cn",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "04ee32eff7a3cb3777673925f6db8aa51cee11ca8f4e71084c889e0f45d37217",
+      "bytes": 1030,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国联通校园招聘",
+      "url": "https://zglt.zhaopin.com/home/index.html",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "b59dff13c1d7203302ad1c4ef0c9b2afe79850a64c0e51190c6efdbbad417d31",
+      "bytes": 1748,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国银行2027校园招聘平台",
+      "url": "https://campus.chinahr.com/pages/2027-boc",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "f783a27a718e8a274888dae85882e0f10ba45ec3069d15c24ef396352c96f242",
+      "bytes": 55362,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "国家电网人力资源招聘平台",
+      "url": "https://zhaopin.sgcc.com.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 412,
+      "state": "http-412",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国石化人才招聘",
+      "url": "https://job.sinopec.com/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "96b09febdcba66422b0611024360145aad2ab4da49f90cac0f6c9fea9de42992",
+      "bytes": 2617,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "宁波银行招聘",
+      "url": "https://zhaopin.nbcb.com.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中汇校园招聘",
+      "url": "https://zhcpa.zhiye.com/campus/jobs",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "fd21b81abda7fa89ac0929334d2e629c554a1360c59b73c5b5923db02b2fee01",
+      "bytes": 38298,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "致同2027校园招聘",
+      "url": "https://www.grantthornton.cn/campus-recruitment/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "0b2d8421cb41daa4a44dc5921314536e627a242d62d3a73f10cf1c18cae1fa0d",
+      "bytes": 124330,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "中国华电招聘平台",
+      "url": "https://rencaishichang.chd.com.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "c901a7a6e3d69f8f8df38854e3303bfa2ded61c5e2ff7a18e527a335be4deeee",
+      "bytes": 391,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "国家能源集团2027统招公告",
+      "url": "https://zhaopin.chnenergy.com.cn/annc/showgg?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "41239099ea0230e6727ade4f5a8f0f8a7a758e0df6d56bbd0337a57d9298509f",
+      "bytes": 46190,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "中国石化镇海炼化公司校园招聘",
+      "url": "https://job.sinopec.com/#/school/recruitmentPositionsDetail?postId=77C34DEB-A442-4305-8D80-720AA75FAC5C",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "96b09febdcba66422b0611024360145aad2ab4da49f90cac0f6c9fea9de42992",
+      "bytes": 2617,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "天健会计师事务所杭州总所校园招聘",
+      "url": "https://zhaopin.pccpa.cn/hr/recruit/school",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "81910a0894c5f524b3403febbb095ba68000f12940b15c12cc7b29ef20dfa562",
+      "bytes": 2075,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国石化浙江石油分公司校园招聘",
+      "url": "https://job.sinopec.com/#/school/recruitmentPositionsDetail?postId=F443B6C8-FAB9-41EF-AE01-524A9D36D2CC",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "96b09febdcba66422b0611024360145aad2ab4da49f90cac0f6c9fea9de42992",
+      "bytes": 2617,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "国家烟草专卖局招聘信息",
+      "url": "https://www.tobacco.gov.cn/gjyc/zpxx/list.shtml",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "浙江省公务员考试录用网",
+      "url": "https://gwy.zjks.gov.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "余姚政府",
+      "url": "https://www.yy.gov.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "宁波市国资委招聘公告",
+      "url": "http://gzw.ningbo.gov.cn/col/col1229116730/index.html",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "timeout",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "象山政府",
+      "url": "https://www.xiangshan.gov.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 420,
+      "state": "http-420",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "奉化政府",
+      "url": "https://www.fh.gov.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "国家公务员局",
+      "url": "http://www.scs.gov.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "ede3030ab32cbfd8b983423f3becec5d8954ee75fe26cd8c9ac1bcbb98c44093",
+      "bytes": 989,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "宁波党建网",
+      "url": "https://web.nbdj.gov.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "宁波国资招聘",
+      "url": "https://gzw.ningbo.gov.cn/col/col1229116730/index.html",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "国家税务总局",
+      "url": "https://www.chinatax.gov.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "90757d8fc65c0d9077ae53e07f391757b72b5716c61eb3342ba697b0ce78cc17",
+      "bytes": 144025,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "宁波舟山港",
+      "url": "https://www.nbport.com.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "98b575289c0717cb19c6b4a68439319e9df606551247d446935f416d0adb8bba",
+      "bytes": 497,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "浙江海港",
+      "url": "https://www.zjseaport.com/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "89ca3035b5ad025ee0f773932f702a4944c7b0bf61c4400f7e1f4d478e6c1eb8",
+      "bytes": 497,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "浙江国贸校园招聘",
+      "url": "https://recruit.zibchina.com/campus.html",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "2ceed81f6d0a9c8dffce30e6fb22041021838d19720877e9e85f0eca29955546",
+      "bytes": 75375,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "中国进出口银行2027",
+      "url": "https://eximbank2027.iguopin.com/notice",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "blocked",
+      "sha256": "6e4d9b8a406be501dff3ea7fd2cdbb3b4215a103a5f98d31787aa00248db4a46",
+      "bytes": 604,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "宁波轨道交通",
+      "url": "https://www.nbmetro.com/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 404,
+      "state": "http-404",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "广发银行宁波分行 分行财务管理类（宁波，1人）",
+      "url": "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=6b90390f-31c7-47fd-832b-cc643617dbb5&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D",
+      "kind": "detail",
+      "jobId": "live-cgb-nb-finance-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "6250b466c399ae61091315305ba12c285897910525903465d7e38707ae86d3e0",
+      "bytes": 2911,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "广发银行宁波分行 分行营销英才（宁波，8人）",
+      "url": "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=76aee9ff-fe8c-47c0-a709-dbb5cfa8f573&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D",
+      "kind": "detail",
+      "jobId": "live-cgb-nb-marketing-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "4b85704611cbc90eb8ee7a2f91b3d3a2d69ae366c01b395f451a57e085c393f3",
+      "bytes": 2887,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "中国进出口银行宁波分行 财务会计类（2027校园招聘）",
+      "url": "https://iguopin-activity.oss-cn-beijing.aliyuncs.com/activity/exclusive/20261030/224838521939036303.pdf",
+      "kind": "detail",
+      "jobId": "watch-eximbank-nb-finance-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "attachment",
+      "sha256": "59558f1c5b79c7b669e7017f6f64f6e9ff999237790e0cbdcbb94104a1f7d7bf",
+      "bytes": 221521,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "瑞丰银行 管理培训生（总行职能／支行管理方向，2人）",
+      "url": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+      "kind": "detail",
+      "jobId": "active-ruifeng-bank-2027-management-trainee",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "6452166186630adcdd6a5fe983d79d4b32a912e4867b0008ad4f8c1678c18129",
+      "bytes": 117358,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "中国国际航空股份有限公司浙江分公司（含温州分公司） 地面业务类岗位（杭州方向，非专门财会岗）",
+      "url": "https://zhaopin.airchina.com.cn/campus/jobs/2026/10/185639.shtml",
+      "kind": "detail",
+      "jobId": "watch-airchina-zhejiang-ground-business-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "fe56313cc20e7b4ec001315cd92ec18b0fa1371a99917ac28b4740a755b2a2ae",
+      "bytes": 38615,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "慈溪政府",
+      "url": "https://www.cixi.gov.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "浙江省交通投资集团财务共享服务中心 数据分析岗（专家室，1人）",
+      "url": "https://dhr.cncico.com:18443/postDetail/263842323484499202",
+      "kind": "detail",
+      "jobId": "watch-cncico-data-analysis-2027-263842323484499202",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "a4d378f8398517525c4f8ad594ed521ff585d0a3bd3bd999c942e404bd8670c9",
+      "bytes": 405,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "宁波容百新能源科技股份有限公司（容百集团） 财务—资金专员（J12144）",
+      "url": "https://ronbay.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=c08b3534-965d-403c-882b-895af0e8a2af&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22DetailAddress%22%5D",
+      "kind": "detail",
+      "jobId": "watch-ronbay-nb-treasury-j12144",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "7162f9cf2ede03995670cebdb4bc7ef32828fb69bb024518dde5a56a8fa61600",
+      "bytes": 2808,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "中国外运（宁波货代） 综合业务部结算（2027届秋招，岗位线索待核）",
+      "url": "https://sinotrans.zhiye.com/",
+      "kind": "detail",
+      "jobId": "watch-sinotrans-ningbo-settlement-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "e84e9b8cf3148a51193bb2ddfb23d247811abb16993a1ce0c02a4703bedf3e01",
+      "bytes": 69071,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中汇集团 风险咨询（财务咨询）（J11539）",
+      "url": "https://zhcpa.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=d5535ab1-8bb9-422f-87af-41a2bc5c43b7&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22DetailAddress%22%5D",
+      "kind": "detail",
+      "jobId": "live-zhcpa-hz-financial-consulting-j11539-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "ebe2d10ecf2addc92b224c4cbd970802b44f6b221166eb3cc207b8747b169309",
+      "bytes": 2467,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "宁海政府",
+      "url": "https://www.ninghai.gov.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国联合网络通信有限公司 财务、经营分析、运营支撑、风险内控",
+      "url": "https://zglt.zhaopin.com/scjobs/index.html",
+      "kind": "detail",
+      "jobId": "soe-6",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "e771549ce8ad7b921b62218f4e802a986a53c90fe3d8766795039ec704af6912",
+      "bytes": 1888,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "人保财险宁波分公司 省级机构管理培训生（1人）",
+      "url": "https://picc.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=4e442409-7c0d-4ebb-ac04-26c45687be2d&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D",
+      "kind": "detail",
+      "jobId": "live-picc-nb-provincial-trainee-j79020-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "42f8e9521fa6e692618b45612e788f09769ba5f2c5e17a35c64b81c561a614f9",
+      "bytes": 2197,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "中国人民财产保险股份有限公司宁波市分公司 管理培训生（J79021，1人）",
+      "url": "https://picc.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=01f88eca-62ed-443c-be3a-dc4a3ce50be8&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D",
+      "kind": "detail",
+      "jobId": "live-picc-nb-trainee-j79021-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "610c6d628281d84856348fca7bd0c9f678f0bb30f5f36f01211e9ac5e6d5f399",
+      "bytes": 2325,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "浙江省国际贸易集团供应链有限公司 管培生（财务方向）",
+      "url": "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105199012068036610",
+      "kind": "detail",
+      "jobId": "watch-zibchina-2105199012068036610-20261111",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "088f9a9f636d4ee764f5d6eda13b97fa43c5b03db5c6f74c17a8fd57453a84ba",
+      "bytes": 1935,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "浙江康恩贝制药股份有限公司 财务管培生",
+      "url": "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2109533088640974850",
+      "kind": "detail",
+      "jobId": "watch-zibchina-2109533088640974850-20261111",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "de6e95cfc457c106cb7a5f97c004750fb65b93e5e0659abe7adf769dba1f77b1",
+      "bytes": 1173,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "浙江省国贸资产运营有限公司 管培生（职能方向）",
+      "url": "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105206121233448960",
+      "kind": "detail",
+      "jobId": "watch-zibchina-2105206121233448960-20261111",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "867f1af1f512e21c0f3623620302679ffc80a4a87a3ec937c825820a53d239f8",
+      "bytes": 1521,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "浙江国贸资源管理有限公司 管培生（业务方向）",
+      "url": "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105206121237643264",
+      "kind": "detail",
+      "jobId": "watch-zibchina-2105206121237643264-20261111",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "0478c3d061e8672aa56732489b42001d2d84f933a566fe19add2b24809caf9c4",
+      "bytes": 1648,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "前湾新区",
+      "url": "https://www.qianwan.gov.cn/",
+      "kind": "listing",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "岚图汽车（东风汽车集团） 区域财务BP",
+      "url": "https://app.mokahr.com/campus-recruitment/voyah/146293",
+      "kind": "detail",
+      "jobId": "live-voyah",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 302,
+      "state": "http-302",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "浙江东方控股集团股份有限公司 管培生",
+      "url": "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/860321515864985600",
+      "kind": "detail",
+      "jobId": "watch-zibchina-860321515864985600-20261111",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "cd942abcc97f91c4668b04893d4094c95d4f0df22b6db5fa04b66ee22b2276d1",
+      "bytes": 2495,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "浙商金汇信托股份有限公司 管培生",
+      "url": "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105263893756612608",
+      "kind": "detail",
+      "jobId": "watch-zibchina-2105263893756612608-20261111",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "205d4d27ec3a5d32c812fa66b65823b2d801f1c4ec14d3b8c81ee994f2dbb814",
+      "bytes": 1375,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "浙江省浙商资产管理股份有限公司 管培生（项目方向）",
+      "url": "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105187265479770112",
+      "kind": "detail",
+      "jobId": "watch-zibchina-2105187265479770112-20261111",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "9398322da7ef85b2e9fef14e4481db6f0cb4b2fd1ddfede1c66aa2014e0bc5f6",
+      "bytes": 2290,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "吉利汽车集团 财务会计岗",
+      "url": "https://campus.geely.com/campus-recruitment/geely/78436/#/job/da5eea72-5298-4360-bdee-cd3e5ef4272e",
+      "kind": "detail",
+      "jobId": "live-geely-hz-financial-accounting-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "浙江省医药健康产业集团有限公司 管培生",
+      "url": "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105214546063966208",
+      "kind": "detail",
+      "jobId": "watch-zibchina-2105214546063966208-20261111",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "de4d20f06819624b117d00c5dc781c6be32fa6c03483d542f242704d5fb93dd8",
+      "bytes": 2075,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "浙江省国际贸易集团有限公司 浙江省国际贸易集团有限公司管培生",
+      "url": "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105259902172708864",
+      "kind": "detail",
+      "jobId": "watch-zibchina-2105259902172708864-20261111",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "6faa5554fe2fa987e1cae98d051c756487654a3481af3afa53299be34aa6a145",
+      "bytes": 2888,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "浙江省医药健康产业集团有限公司 投资经理",
+      "url": "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105214546063966209",
+      "kind": "detail",
+      "jobId": "watch-zibchina-2105214546063966209-20261111",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "a79327321d05b9eb31c7ca0aec3967a4db17a5cecbd104fb6f07599f18ceca1e",
+      "bytes": 2069,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "人保寿险宁波分公司 培训管理岗（1人）",
+      "url": "https://picc.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=5a556536-25d1-4aa5-add1-ae33d6c49ea4&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D",
+      "kind": "detail",
+      "jobId": "live-picc-life-nb-training-j80787-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "10959a713cdac24f69272ca1c7cd49ef5d27c90ed3115a679497be23588d3f9a",
+      "bytes": 2385,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "人保寿险宁波分公司 基础管理岗（1人）",
+      "url": "https://picc.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=45dfdd5f-bcb0-43be-af77-738de70947d1&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D",
+      "kind": "detail",
+      "jobId": "live-picc-life-nb-basic-management-j78605-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "f7256ed8668fee1247a9a3ed523dd5fc331c8d336097ca0f5f156966e126b198",
+      "bytes": 2557,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "国有大型银行宁波分行 财务会计、运营管理、风险合规、审计、公司金融",
+      "url": "https://job.icbc.com.cn/",
+      "kind": "detail",
+      "jobId": "soe-20",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国移动通信集团浙江有限公司 宁波／余姚财务管理岗位监控",
+      "url": "https://job.10086.cn/",
+      "kind": "detail",
+      "jobId": "soe-4",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "a4224fc037e9e09d8d651caf73e0e52c4029eeaaf1ee8d3c19972822e5628fb8",
+      "bytes": 48891,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "绍兴银行 管培生（5人）",
+      "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "kind": "detail",
+      "jobId": "live-sxccb-trainee-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "72e0d0be9f055c10595b621d8d6798a90ff7de1a2fccd813470b1e7b266e08b2",
+      "bytes": 174368,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行杭州分行 定向培养生（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=D9F73A27-9DA9-4F6E-BC96-BB40824DAE51",
+      "kind": "detail",
+      "jobId": "live-cmb-winter-dz-2027-1-1-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "66bfa814ce122ce21d634c860e2c7da5e03096b86a7f3776a3b40838ec552ad7",
+      "bytes": 3519,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行宁波分行 公司、零售金融方向定向培养生（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=CE718516-C0C8-4BE2-8B31-DBB508301E1E",
+      "kind": "detail",
+      "jobId": "watch-cmb-winter-nbxz20270103-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "b8747b373872204e7b3d88119538662df83b7e51d84b985e22901c1178493252",
+      "bytes": 1964,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行杭州分行 运营支持岗（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=E12ABBA4-214E-4389-AEFE-2849F208E5DB",
+      "kind": "detail",
+      "jobId": "live-cmb-winter-dz-2027-1-4-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "8fae938ce9f1b96a118e53d985825388ae974775337d9096a42605ed09556d46",
+      "bytes": 3489,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行宁波分行 运营支持岗（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=8518A717-10BF-45B3-8232-8E07CDCD097B",
+      "kind": "detail",
+      "jobId": "watch-cmb-winter-nbxz20270403-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "e796fad86180b4e33a288a892822a1ac80c651ad5648155b89387f33c15b1ba0",
+      "bytes": 1584,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行宁波分行 运营支持岗（县域支行）（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=B5870183-65CC-45AC-9388-18CCDDF95384",
+      "kind": "detail",
+      "jobId": "watch-cmb-winter-nbxz20270503-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "f1b79f12e12b5cf8119aa51bc02e70323a201c250dc4a3c129a5fd48a92cd684",
+      "bytes": 1530,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行宁波分行 公司、零售金融方向定向培养生（台州分行）（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=96C3AA66-4E60-4F64-AB6C-B6D2B91E3B61",
+      "kind": "detail",
+      "jobId": "watch-cmb-winter-nbxz20270803-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "968f21901135372a6d09d1329c64e09644cb0c5a3d9c9f645e60b638a9c26d13",
+      "bytes": 1674,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行杭州分行 市场营销岗（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=DAC805B6-D588-4A7B-9CCD-24678927BC80",
+      "kind": "detail",
+      "jobId": "live-cmb-winter-dz-2027-1-3-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "72fd21ab1818a7626db50674af9ecb21e26b7a0d22ad0231e65d4c2d2ea3c38c",
+      "bytes": 3395,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行宁波分行 运营支持岗（台州分行）（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=D5513C9D-D6B0-4BCA-AE7B-9908B07E6A7E",
+      "kind": "detail",
+      "jobId": "watch-cmb-winter-nbxz20271003-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "fd861b325b13d1b9597a4d96d019d327e8fbb8f37f2ce53a5d208d6d55a81328",
+      "bytes": 1603,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "宁波数据集团有限公司 管培生（6人；非财会定向）",
+      "url": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_8680a5def5d34427a3677344538abd95.html",
+      "kind": "detail",
+      "jobId": "watch-nbdata-trainee-2027-20261105",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "招商银行杭州分行 综合培养生（嘉兴分行）（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=1DBE40B8-3105-441C-A40D-73B63BFF3532",
+      "kind": "detail",
+      "jobId": "live-cmb-winter-dz-2027-1-6-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "405b555d4bf82b4040db8aac9ef5810a03b7d8d19e982eda89061cf493c66a64",
+      "bytes": 3469,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行杭州分行 综合培养生（舟山分行）（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=F998A136-46ED-433A-A1A2-71E9EF60365B",
+      "kind": "detail",
+      "jobId": "live-cmb-winter-dz-2027-1-10-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "bc52802175c3f40fea4b068734d74e0b84edffd428ea8ba7eac0acee6ff7148c",
+      "bytes": 3470,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行杭州分行 综合培养生（绍兴分行）（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=6C375AF6-03D0-4518-829F-42397F12088F",
+      "kind": "detail",
+      "jobId": "live-cmb-winter-dz-2027-1-5-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "faffaa60563d99430a1b06ed8e7f7de1a4a3a48ed40ea5365730d531bbcff4c2",
+      "bytes": 3469,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行宁波分行 市场营销岗（台州分行）（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=DDBBDDFD-E76E-4659-9C90-3AB74C679D42",
+      "kind": "detail",
+      "jobId": "watch-cmb-winter-nbxz20270903-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "c55eb708094accdda74a1890a9634eacfef6eceb6ecf928110a349d0a1de3ee0",
+      "bytes": 1621,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行宁波分行 市场营销岗（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=12C654CD-5DCA-4B98-BB1A-C9BF0593933C",
+      "kind": "detail",
+      "jobId": "watch-cmb-winter-nbxz20270203-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "c53b69e4a0471ff11aa1180b4b69354d7c18b1a1e82939582379b2b16d2639b2",
+      "bytes": 1909,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "招商银行宁波分行 市场营销岗（县域支行）（冬季校招）",
+      "url": "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=D43975EF-450C-4FE4-9C7D-EDA8DE3F66CE",
+      "kind": "detail",
+      "jobId": "watch-cmb-winter-nbxz20270303-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "2a0dcf3da60a3d91072829a8e8b1ed32825f7822782e4bf4574c3cd4dcb8389b",
+      "bytes": 1927,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "国投吉能（舟山）燃气发电有限公司 财务会计岗（学员，1人）",
+      "url": "https://www.iguopin.com/job/detail?id=217446702968210710",
+      "kind": "detail",
+      "jobId": "watch-sdic-jineng-zhoushan-accounting-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "blocked",
+      "sha256": "0c7ff0ffba6f727c66194db2e6cef605a21cf17709c811eac23cbff4c00bd763",
+      "bytes": 1539,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "物产中大欧泰有限公司（物产中大化工集团所属） 27届校招-财务管理（欧泰公司，6人）",
+      "url": "https://campus.wzgroup.cn/#/job/5cfb49b6-b958-4f62-ae65-1d91877327bf",
+      "kind": "detail",
+      "jobId": "watch-wzgroup-outai-finance-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "新华人寿保险股份有限公司浙江分公司 浙江分公司—会计核算岗（J16824）",
+      "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&c=-1&p=1%5E9",
+      "kind": "detail",
+      "jobId": "watch-nci-zj-accounting-j16824-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "8029aff20883276d049ab426a6fbdb38a817ef3eac8773eb2c43ec1e6984d02a",
+      "bytes": 26693,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "公牛集团股份有限公司 财务管理岗（J23834）",
+      "url": "https://gongniu.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=8e974282-4306-427d-82eb-309ab9463f6d&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D",
+      "kind": "detail",
+      "jobId": "live-bull-cixi-finance-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "d06492344caafa8ddc6eda69763ba538b3cf6998f30d7d0b1bf76662bec91e1e",
+      "bytes": 2757,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "中国人寿保险股份有限公司宁波市分公司 费用会计岗（1人）",
+      "url": "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=64946a06-48f5-4f4b-884c-ca31d7e786ab&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D",
+      "kind": "detail",
+      "jobId": "live-chinalife-nb-expense-accountant-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "25224fd2ba481e0dc3ebf9890aeb6b3c3c5cf78c8e59ec8f72f8580b4ae551e9",
+      "bytes": 2900,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "锦浪科技股份有限公司 财务专员（27届，J11636）",
+      "url": "https://ginlong.zhiye.com/campus/jobs",
+      "kind": "detail",
+      "jobId": "watch-ginlong-nb-finance-j11636-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "1e8305dee5ad6eb9e312be3dd7b4943f83d6801345e6a417c9a2712cd83a7e42",
+      "bytes": 34398,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "物产中大（浙江）产业投资有限公司 27届校招-财务管理岗（2人）",
+      "url": "https://campus.wzgroup.cn/#/job/8ed12f17-e75d-4421-9df2-68926644a42f",
+      "kind": "detail",
+      "jobId": "watch-wzgroup-industry-investment-finance-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "德勤中国宁波办公室 税务助理｜Associate - General Tax - Tax and Business Advisory - NB",
+      "url": "https://wecruit.hotjob.cn/wecruit/positionInfo/listPositionDetail/SU64365a780dcad43c5ae82bab?iSaJAx=isAjax&request_locale=zh_CN",
+      "kind": "detail",
+      "jobId": "live-deloitte-2027-7285",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "2e12991a4b6441ed0ee1b16183a9e59a839902a2e267742a24a25ee912135d2b",
+      "bytes": 65,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "得力集团有限公司 财务管理管培生／财务管理",
+      "url": "https://app.mokahr.com/campus-recruitment/nbdeli/70019?locale=zh-CN",
+      "kind": "detail",
+      "jobId": "live-deli-nb-finance-trainee-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 302,
+      "state": "http-302",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "杉杉商业集团有限公司 财务管培生（5人）",
+      "url": "https://app-tc.mokahr.com/m/campus-recruitment/vipshophr/16060?locale=zh-CN",
+      "kind": "detail",
+      "jobId": "live-shanshan-commercial-nb-finance-trainee-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 302,
+      "state": "http-302",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "宁波江丰电子材料股份有限公司 财务岗",
+      "url": "https://www.ujob360.com/article/178876297149375893",
+      "kind": "detail",
+      "jobId": "watch-kfmi-yuyao-finance-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "9c3bb474fd37f030693e5ebf932210780e2e1b25f0702b8c36e83b1e8a11d23e",
+      "bytes": 45819,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "吉利汽车集团 项目财务BP岗",
+      "url": "https://campus.geely.com/campus-recruitment/geely/78436/#/job/d87576d2-5d8f-4fdc-86a5-027b61ede5ee",
+      "kind": "detail",
+      "jobId": "live-geely-nb-project-finance-bp-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中国人民财产保险股份有限公司宁波市分公司 综合岗（J79022，1人）",
+      "url": "https://picc.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=e5104210-5314-4002-8489-806bfc13da7b&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D",
+      "kind": "detail",
+      "jobId": "live-picc-nb-comprehensive-j79022-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "2ad1b4347a434abcb78ea517756ae3bed987a8ac7e1f28fdd0b0620ecfc55dad",
+      "bytes": 2269,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "吉利汽车集团 财务BP岗（孵化项目）",
+      "url": "https://campus.geely.com/campus-recruitment/geely/78436/#/job/780de565-3ef9-4abb-8bfb-8f3f5e389c88",
+      "kind": "detail",
+      "jobId": "live-geely-nb-finance-bp-incubation-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "物产中大国际贸易集团有限公司 27届校招-业财资金岗（4人）",
+      "url": "https://campus.wzgroup.cn/#/job/9ab775a3-3815-4d0b-b57c-79e6cffd60fd",
+      "kind": "detail",
+      "jobId": "watch-wzgroup-international-business-finance-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "浙江省海港投资运营集团/宁波舟山港集团 财务会计、资金结算、司库、审计风控、经营管理",
+      "url": "https://zjseaport.m.zhiye.com/",
+      "kind": "detail",
+      "jobId": "soe-10",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "httpStatus": 200,
+      "state": "empty-or-javascript",
+      "sha256": "07cfd4d090b2c6f65b9542b74c5c7cb6d07c0ce20a1641147437d13d5a54fdb0",
+      "bytes": 3325,
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "吉利汽车集团 财务管理岗（宁波等多地）",
+      "url": "https://campus.geely.com/campus-recruitment/geely/78436/#/job/6fce8fa1-53ad-4a71-ac39-2690fd9e44cd",
+      "kind": "detail",
+      "jobId": "live-geely-nb-finance-management-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "中汇集团 税务岗（J11536）",
+      "url": "https://zhcpa.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=51069812-6ea8-484a-bfd4-5f44be09bc0a&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22DetailAddress%22%5D",
+      "kind": "detail",
+      "jobId": "live-zhcpa-hz-tax-j11536-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "c5cb8ba8e8c7fe2be38fee656a91be24145c9c210414d22863906a13d7d4e744",
+      "bytes": 2756,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "中汇集团 会计服务岗（J11557）",
+      "url": "https://zhcpa.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=d4e9c564-a868-44fb-8be9-255e252c735d&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22DetailAddress%22%5D",
+      "kind": "detail",
+      "jobId": "live-zhcpa-hz-accounting-service-j11557-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "44b39cdc4323043e9b49dd5d580d05a6f11c80f01b63c230319e35464ddeaec2",
+      "bytes": 2281,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "浙江吉利控股集团 财务BP岗（预算与核算）",
+      "url": "https://campus.geely.com/campus-recruitment/geely/78436/#/job/40bdd782-8e22-4551-b925-5ed05e47db76",
+      "kind": "detail",
+      "jobId": "live-geely-nb-finance-bp-holding-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "宁波容百新能源科技股份有限公司（容百集团） 财务共享专员（J12148）",
+      "url": "https://ronbay.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=28fc722a-5067-48e6-942a-d547ac9c4796&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22DetailAddress%22%5D",
+      "kind": "detail",
+      "jobId": "watch-ronbay-nb-finance-shared-j12148",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "409d0251031503008e696df3efd1af09b68a15e64e7c8f4cfab534e0ab34e2bf",
+      "bytes": 2335,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控",
+      "url": "https://job.nbmetro.com/apply/index.action",
+      "kind": "detail",
+      "jobId": "soe-11",
+      "attemptedAt": "2026-11-14",
+      "ok": true,
+      "httpStatus": 200,
+      "state": "readable",
+      "sha256": "a68699ef0be7d2d80246d137a1eeb3c104cbe8f9662546647f037c5c06d0cd70",
+      "bytes": 27662,
+      "changed": false,
+      "scope": "仅公开页面/接口可读及内容摘要；不等同岗位资格复核"
+    },
+    {
+      "name": "宁波开发投资集团有限公司 管理培训生岗位六（经济类，4人）",
+      "url": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_99fb8ddc004b437094eb509bd5633f4c.html",
+      "kind": "detail",
+      "jobId": "watch-nbkaitou-economic-trainee-2027-20261106",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "国家电网有限公司 财务会计、资金管理、审计、内控、经营管理",
+      "url": "https://zhaopin.zj.sgcc.com.cn/index.html",
+      "kind": "detail",
+      "jobId": "soe-1",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "宁波开发投资集团有限公司 财务管理、会计、资金、投资分析、审计风控",
+      "url": "https://www.ndig.com.cn/",
+      "kind": "detail",
+      "jobId": "soe-12",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "物产中大（浙江）产业投资有限公司 27届校招-资金管理岗（1人）",
+      "url": "https://campus.wzgroup.cn/#/job/baba9d92-0dea-45ef-b464-33f7105ed1a8",
+      "kind": "detail",
+      "jobId": "watch-wzgroup-industry-investment-treasury-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "物产中大国际贸易集团有限公司 27届校招-内审内控岗（杭州，1人）",
+      "url": "https://campus.wzgroup.cn/#/job/115b00a8-f86c-4224-b0b4-3f70161d5b3d",
+      "kind": "detail",
+      "jobId": "watch-wzgroup-international-internal-audit-2027",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    },
+    {
+      "name": "宁波银行校园岗位列表（第1页）",
+      "url": "https://zhaopin.nbcb.com.cn/api/position/schoolByPage/list",
+      "kind": "structured-list",
+      "attemptedAt": "2026-11-14",
+      "ok": false,
+      "state": "network-error",
+      "changed": false,
+      "scope": "访问未完成；保留历史岗位条件与核验日期"
+    }
+  ],
+  "completedAt": "2026-11-14T07:23:04.391Z",
+  "summary": {
+    "totalJobs": 578,
+    "added": 13,
+    "patched": 5,
+    "expired": 167,
+    "fetchedSources": 53,
+    "failedSources": 66,
+    "changedSources": 0,
+    "newLeads": 15,
+    "inboxAccepted": 1,
+    "inboxRejected": 0
+  }
+}

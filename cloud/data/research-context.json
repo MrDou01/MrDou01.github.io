@@ -1,0 +1,1554 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-14",
+  "purpose": "供云端研究任务核验官方招聘。页面可读/哈希变化并不表示资格已复核。收件规则见 cloud/README.md。",
+  "profile": {
+    "graduation": "2027届",
+    "degree": "会计专业硕士",
+    "code": "125300",
+    "region": "宁波全域、舟山、绍兴、杭州、台州、嘉兴",
+    "screen": "暂按女性、应届、无基层定向身份；不推定专业包含125300"
+  },
+  "dataUpdatedAt": "2026-11-14",
+  "lastResearchAt": "2026-11-14",
+  "cloudStatus": {
+    "mode": "cloud",
+    "checkedAt": "2026-11-14T07:21:25.822Z",
+    "completedAt": "2026-11-14T07:23:04.391Z",
+    "lastSuccessfulAt": "2026-11-14T07:23:04.391Z",
+    "fetchedSources": 53,
+    "failedSources": 66,
+    "changedSources": 0,
+    "pendingLeads": 15,
+    "lastResearchAt": "2026-11-14",
+    "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
+    "rejectedInbox": 0
+  },
+  "sources": [
+    {
+      "name": "宁波通商银行校园招聘",
+      "url": "https://www.ncbank.cn/ncbank/jrts/rczp/xyzp/index.shtml",
+      "kind": "listing"
+    },
+    {
+      "name": "容百集团校园招聘",
+      "url": "https://ronbay.zhiye.com/Campus",
+      "kind": "listing"
+    },
+    {
+      "name": "中国邮政储蓄银行2027年度校园招聘",
+      "url": "https://www.psbc.com/cn/gyyc/rczp/xyzp/202609/t20260907_460394.html",
+      "kind": "listing"
+    },
+    {
+      "name": "广发银行招聘公告",
+      "url": "https://www.cgbchina.com.cn/career/job_notice2.jsp",
+      "kind": "listing"
+    },
+    {
+      "name": "中国人保校园招聘",
+      "url": "https://picc.zhiye.com/campus",
+      "kind": "listing"
+    },
+    {
+      "name": "公牛集团2027校园招聘",
+      "url": "https://gongniu.zhiye.com/campus/jobs",
+      "kind": "listing"
+    },
+    {
+      "name": "吉利控股集团校园招聘",
+      "url": "https://campus.geely.com/campus-recruitment/geely/78436/#/jobs",
+      "kind": "listing"
+    },
+    {
+      "name": "中国农业银行人才招聘（2027校招）",
+      "url": "https://career.abchina.com/build/index.html#/RecruitmentNoticeList/99/-1",
+      "kind": "listing"
+    },
+    {
+      "name": "中国建设银行2027校园招聘",
+      "url": "https://job1.ccb.com/cn/job/plan_index.html?planType=XY",
+      "kind": "listing"
+    },
+    {
+      "name": "中国工商银行人才招聘",
+      "url": "https://job.icbc.com.cn/pc/index.html#/main/school/home/struct",
+      "kind": "listing"
+    },
+    {
+      "name": "中信银行人才招聘",
+      "url": "https://job.citicbank.com/",
+      "kind": "listing"
+    },
+    {
+      "name": "招商银行校园招聘",
+      "url": "https://career.cmbchina.com/notice/school",
+      "kind": "listing"
+    },
+    {
+      "name": "中国民生银行校园招聘",
+      "url": "https://career.cmbc.com.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "中国银行2027全球校园招聘公告",
+      "url": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html",
+      "kind": "listing"
+    },
+    {
+      "name": "中国银行2027校园招聘平台",
+      "url": "https://campus.chinahr.com/pages/2027-boc",
+      "kind": "listing"
+    },
+    {
+      "name": "中国东方校园招聘（具体职位待核）",
+      "url": "https://coamc.zhiye.com/campus",
+      "kind": "listing"
+    },
+    {
+      "name": "杭州银行招聘（具体职位待核）",
+      "url": "https://myjob.hzbank.com.cn",
+      "kind": "listing"
+    },
+    {
+      "name": "浙江省公务员考试录用网",
+      "url": "https://gwy.zjks.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "国家电网人力资源招聘平台",
+      "url": "https://zhaopin.sgcc.com.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "国家烟草专卖局招聘信息",
+      "url": "https://www.tobacco.gov.cn/gjyc/zpxx/list.shtml",
+      "kind": "listing"
+    },
+    {
+      "name": "中国电信招聘",
+      "url": "https://job.chinatelecom.com.cn/wt/TELE/web/index?brandCode=1",
+      "kind": "listing"
+    },
+    {
+      "name": "中国联通校园招聘",
+      "url": "https://zglt.zhaopin.com/home/index.html",
+      "kind": "listing"
+    },
+    {
+      "name": "中国石化人才招聘",
+      "url": "https://job.sinopec.com/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波市国资委招聘公告",
+      "url": "http://gzw.ningbo.gov.cn/col/col1229116730/index.html",
+      "kind": "listing"
+    },
+    {
+      "name": "余姚政府",
+      "url": "https://www.yy.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波银行招聘",
+      "url": "https://zhaopin.nbcb.com.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "中汇校园招聘",
+      "url": "https://zhcpa.zhiye.com/campus/jobs",
+      "kind": "listing"
+    },
+    {
+      "name": "致同2027校园招聘",
+      "url": "https://www.grantthornton.cn/campus-recruitment/",
+      "kind": "listing"
+    },
+    {
+      "name": "中国华电招聘平台",
+      "url": "https://rencaishichang.chd.com.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "国家能源集团2027统招公告",
+      "url": "https://zhaopin.chnenergy.com.cn/annc/showgg?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "kind": "listing"
+    },
+    {
+      "name": "中国石化镇海炼化公司校园招聘",
+      "url": "https://job.sinopec.com/#/school/recruitmentPositionsDetail?postId=77C34DEB-A442-4305-8D80-720AA75FAC5C",
+      "kind": "listing"
+    },
+    {
+      "name": "中国石化浙江石油分公司校园招聘",
+      "url": "https://job.sinopec.com/#/school/recruitmentPositionsDetail?postId=F443B6C8-FAB9-41EF-AE01-524A9D36D2CC",
+      "kind": "listing"
+    },
+    {
+      "name": "天健会计师事务所杭州总所校园招聘",
+      "url": "https://zhaopin.pccpa.cn/hr/recruit/school",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波党建网",
+      "url": "https://web.nbdj.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波国资招聘",
+      "url": "https://gzw.ningbo.gov.cn/col/col1229116730/index.html",
+      "kind": "listing"
+    },
+    {
+      "name": "慈溪政府",
+      "url": "https://www.cixi.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "奉化政府",
+      "url": "https://www.fh.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁海政府",
+      "url": "https://www.ninghai.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "象山政府",
+      "url": "https://www.xiangshan.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "前湾新区",
+      "url": "https://www.qianwan.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "国家公务员局",
+      "url": "http://www.scs.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "国家税务总局",
+      "url": "https://www.chinatax.gov.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "浙江国贸校园招聘",
+      "url": "https://recruit.zibchina.com/campus.html",
+      "kind": "listing"
+    },
+    {
+      "name": "浙江海港",
+      "url": "https://www.zjseaport.com/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波舟山港",
+      "url": "https://www.nbport.com.cn/",
+      "kind": "listing"
+    },
+    {
+      "name": "宁波轨道交通",
+      "url": "https://www.nbmetro.com/",
+      "kind": "listing"
+    },
+    {
+      "name": "中国进出口银行2027",
+      "url": "https://eximbank2027.iguopin.com/notice",
+      "kind": "listing"
+    }
+  ],
+  "approvedSourceHosts": [
+    "app-tc.mokahr.com",
+    "app.mokahr.com",
+    "applyjob.chinahr.com",
+    "bjxapp.cn",
+    "bm.cpta.com.cn",
+    "bm.scs.gov.cn",
+    "campus.51job.com",
+    "campus.chinahr.com",
+    "campus.geely.com",
+    "campus.wzgroup.cn",
+    "career.abchina.com",
+    "career.cmbc.com.cn",
+    "career.cmbchina.com",
+    "career.hfbank.com.cn",
+    "careers.ey.com",
+    "cdn.cpta.com.cn",
+    "chinalife.zhiye.com",
+    "cmb-recruitment-mobile.paas.cmbchina.com",
+    "coamc.zhiye.com",
+    "dhr.cncico.com",
+    "dl.scs.gov.cn",
+    "eximbank2027.iguopin.com",
+    "faw-vw.hotjob.cn",
+    "fe.zhaopin.com",
+    "ginlong.zhiye.com",
+    "gongniu.zhiye.com",
+    "gwy.cpta.com.cn",
+    "gwy.zjks.gov.cn",
+    "gzw.jiaxing.gov.cn",
+    "gzw.ningbo.gov.cn",
+    "hrx.zjenergy.com.cn",
+    "iguopin-activity.oss-cn-beijing.aliyuncs.com",
+    "jilin.chinapost.com.cn",
+    "job.10086.cn",
+    "job.bankcomm.com",
+    "job.chinatelecom.com.cn",
+    "job.citicbank.com",
+    "job.icbc.com.cn",
+    "job.nbmetro.com",
+    "job.sinopec.com",
+    "job.spdb.com.cn",
+    "job.zszhcpa.cn",
+    "job1.ccb.com",
+    "kpmg.com",
+    "m.dsmp.voyah.com.cn",
+    "myjob.hzbank.com.cn",
+    "nci.zhiye.com",
+    "ningbo.chinatax.gov.cn",
+    "ningbo.pbc.gov.cn",
+    "omwb.oss-cn-beijing.aliyuncs.com",
+    "picc.zhiye.com",
+    "psbc2027.zhaopin.com",
+    "recruit.zibchina.com",
+    "rencaishichang.chd.com.cn",
+    "ronbay.zhiye.com",
+    "rst.xinjiang.gov.cn",
+    "shanghai.chinatax.gov.cn",
+    "sinotrans.zhiye.com",
+    "wap.nbdj.gov.cn",
+    "web.nbdj.gov.cn",
+    "wecruit.hotjob.cn",
+    "www.adbc.com.cn",
+    "www.bankofchina.com",
+    "www.boc.cn",
+    "www.cgbchina.com.cn",
+    "www.china-tower.com",
+    "www.chinapost.com.cn",
+    "www.chinatax.gov.cn",
+    "www.chinatelecom.com.cn",
+    "www.cixi.gov.cn",
+    "www.cpta.com.cn",
+    "www.csrc.gov.cn",
+    "www.deloitte.com",
+    "www.dfmc.com.cn",
+    "www.fh.gov.cn",
+    "www.grantthornton.cn",
+    "www.iguopin.com",
+    "www.mcc20.com.cn",
+    "www.nbmetro.com",
+    "www.nbport.com.cn",
+    "www.ncbank.cn",
+    "www.ndig.com.cn",
+    "www.nfra.gov.cn",
+    "www.ninghai.gov.cn",
+    "www.psbc.com",
+    "www.qianwan.gov.cn",
+    "www.scs.gov.cn",
+    "www.sxccb.com",
+    "www.tobacco.gov.cn",
+    "www.ujob360.com",
+    "www.xiangshan.gov.cn",
+    "www.yy.gov.cn",
+    "www.zj.msa.gov.cn",
+    "www.zjseaport.com",
+    "xd.zjks.com",
+    "xiaoyuan.zhaopin.com",
+    "ycyg.nbhr.org.cn",
+    "zglt.zhaopin.com",
+    "zhaopin.airchina.com.cn",
+    "zhaopin.chnenergy.com.cn",
+    "zhaopin.nbcb.com.cn",
+    "zhaopin.pccpa.cn",
+    "zhaopin.sgcc.com.cn",
+    "zhaopin.zj.sgcc.com.cn",
+    "zhcpa.zhiye.com",
+    "zhejiang.chinatax.gov.cn",
+    "zjseaport.m.zhiye.com",
+    "zjyc.tobacco.gov.cn",
+    "zp.borf.cn",
+    "zp.czbank.com.cn"
+  ],
+  "pendingLeads": [
+    {
+      "url": "https://www.psbc.com/cn/gyyc/rczp/xyzp/",
+      "title": "人才招聘",
+      "key": "056418a3f6e2baa21a28fe62be4d227d8ab9c0811083a6232db915b02f197d67",
+      "source": "https://www.psbc.com/cn/gyyc/rczp/xyzp/202609/t20260907_460394.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://www.psbc.com/cn/gyyc/rczp/",
+      "title": "人才招聘",
+      "key": "0a82190b8db5bef9c4003ecc935fd07356d3934c200e10e0a1a948ddd9cef0dc",
+      "source": "https://www.psbc.com/cn/gyyc/rczp/xyzp/202609/t20260907_460394.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://www.psbc.com/cn/gyyc/tzzgx/cwxx/",
+      "title": "财务信息",
+      "key": "59aa43e9467387b7ab63079818bae88206e58b5b6d974bd3ab147d772e077dd5",
+      "source": "https://www.psbc.com/cn/gyyc/rczp/xyzp/202609/t20260907_460394.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://www.boc.cn/investor/ir3/",
+      "title": "财务报告",
+      "key": "0a8c944376bc04ec057d9e39b3a3a4b987ac22c4d6c9a7965215107c9496fe11",
+      "source": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://www.boc.cn/aboutboc/bi4/",
+      "title": "招聘公告",
+      "key": "7340f6f32c2c958ea665b1262ccb345d9ab02b408aac5bff6c2da301326707da",
+      "source": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://zhaopin.chnenergy.com.cn/annc/showgg?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "title": "校园招聘",
+      "key": "df2686c85c64e86ef40862fed668475dcb03f6370945242fa94261405240da42",
+      "source": "https://zhaopin.chnenergy.com.cn/annc/showgg?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://zhaopin.chnenergy.com.cn/annc/showggStationList?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "title": "招聘职位列表",
+      "key": "07b4411418bcf74075f6768909f50ff7cb25cc8b1ca4fac383f1ffff9b7e9889",
+      "source": "https://zhaopin.chnenergy.com.cn/annc/showgg?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://www.chinatax.gov.cn/chinatax/n810214/c102374/c102375d/c5252977/content.html",
+      "title": "国家税务总局税收科学研究所 北京国家会计学院2027年税务专业学位硕士研究生联合招生简章",
+      "key": "2ec9d8090c9e148dde7f220fa77a322e4cf97f229e6e27722e7113be38b03688",
+      "source": "https://www.chinatax.gov.cn/",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://www.chinatax.gov.cn/chinatax/n896543r/c5252957/content.html",
+      "title": "税务系统2027年度考试录用公务员相关事项通知",
+      "key": "1f3c567f1386d5b15326230fec94e2cb494da055eb4c17b0cfca39d82edee323",
+      "source": "https://www.chinatax.gov.cn/",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://www.chinatax.gov.cn/chinatax/n896543r/c5250158/content.html",
+      "title": "国家税务总局部分直属事业单位2026年度公开招聘面试人员名单公告",
+      "key": "de718f122865ef5b9f0a1eb859ba7ae5dbf5a57b7c5877e35df44e3e892d1e99",
+      "source": "https://www.chinatax.gov.cn/",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "http://www.audit.gov.cn/",
+      "title": "审计署",
+      "key": "32351723ed1dab53a987fda59aac9db4dfa73ef7b796c5c226057d49bf78a336",
+      "source": "https://www.chinatax.gov.cn/",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://recruit.zibchina.com/social.html",
+      "title": "社会招聘",
+      "key": "2b3932edf79c95f8260f433f1fbda13f9f3d5cdf9e27146405b400f1a415d96b",
+      "source": "https://recruit.zibchina.com/campus.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://recruit.zibchina.com/campus.html",
+      "title": "校园招聘",
+      "key": "cc42a9fb5d05d21c4bcc76984c824bae9765f7f2a5131b6581058c1c8cb7a729",
+      "source": "https://recruit.zibchina.com/campus.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://recruit.zibchina.com/internship.html",
+      "title": "实习招聘",
+      "key": "fff502197ce0f5a83d4e6894521043599a73a3dc00ba7bbf5a8b8d6a2cc55e94",
+      "source": "https://recruit.zibchina.com/campus.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://recruit.zibchina.com/internal.html",
+      "title": "内部招聘",
+      "key": "a0949e54d46bf8c13e981fc7696f04e84ab26b0515b6fd4c7acacb86ef519da5",
+      "source": "https://recruit.zibchina.com/campus.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    }
+  ],
+  "upcomingDeadlines": [
+    {
+      "id": "live-cgb-nb-finance-2027",
+      "employer": "广发银行宁波分行",
+      "role": "分行财务管理类（宁波，1人）",
+      "deadline": "2026-11-15",
+      "deadlineTime": "",
+      "source": "https://chinalife.zhiye.com/campus/detail?jobAdId=6b90390f-31c7-47fd-832b-cc643617dbb5",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "watch-eximbank-nb-finance-2027",
+      "employer": "中国进出口银行宁波分行",
+      "role": "财务会计类（2027校园招聘）",
+      "deadline": "2026-11-15",
+      "deadlineTime": "24:00",
+      "source": "https://eximbank2027.iguopin.com/notice",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "live-cgb-nb-marketing-2027",
+      "employer": "广发银行宁波分行",
+      "role": "分行营销英才（宁波，8人）",
+      "deadline": "2026-11-15",
+      "deadlineTime": "",
+      "source": "https://chinalife.zhiye.com/campus/detail?jobAdId=76aee9ff-fe8c-47c0-a709-dbb5cfa8f573",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "watch-eximbank-zj-finance-2027",
+      "employer": "中国进出口银行浙江省分行",
+      "role": "财务会计类（2027校园招聘）",
+      "deadline": "2026-11-15",
+      "deadlineTime": "24:00",
+      "source": "https://eximbank2027.iguopin.com/notice",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "active-ruifeng-bank-2027-management-trainee",
+      "employer": "瑞丰银行",
+      "role": "管理培训生（总行职能／支行管理方向，2人）",
+      "deadline": "2026-11-20",
+      "deadlineTime": "",
+      "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+      "match": "专业需咨询"
+    },
+    {
+      "id": "watch-nbdata-trainee-2027-20261105",
+      "employer": "宁波数据集团有限公司",
+      "role": "管培生（6人；非财会定向）",
+      "deadline": "2026-11-19",
+      "deadlineTime": "17:00",
+      "source": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_8680a5def5d34427a3677344538abd95.html",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "watch-ruifeng-bank-2027-comprehensive-trainee",
+      "employer": "瑞丰银行",
+      "role": "综合培训生（支行轮岗，10人）",
+      "deadline": "2026-11-20",
+      "deadlineTime": "",
+      "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+      "match": "生源地需咨询"
+    },
+    {
+      "id": "watch-airchina-zhejiang-ground-business-2027",
+      "employer": "中国国际航空股份有限公司浙江分公司（含温州分公司）",
+      "role": "地面业务类岗位（杭州方向，非专门财会岗）",
+      "deadline": "2026-11-15",
+      "deadlineTime": "24:00",
+      "source": "https://zhaopin.airchina.com.cn/campus/jobs/2026/10/185639.shtml",
+      "checkedAt": "2026-11-09",
+      "match": "专业需咨询"
+    }
+  ],
+  "recentUpdates": [
+    {
+      "date": "2026-11-14",
+      "type": "云端检查",
+      "title": "云端每日检查：53项来源可读，66项待重试",
+      "detail": "已保留全部历史岗位与人工状态；13条新增候选，167条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
+      "cloudOperational": true
+    },
+    {
+      "date": "2026-11-14",
+      "type": "报名时点",
+      "title": "省考与水务报名期已过；开投、数据集团进入已公布报名窗口",
+      "detail": "依据11月11日已复核官方公告：浙江省考报名11月11日17:00结束，缴费窗口11月14日09:00至11月18日17:00；宁波水务11月12日17:00截止；开投经济类管培报名11月12日09:00至12月10日16:00；数据集团管培报名11月13日09:00至11月19日17:00。这里只按已公布时间整理，不代表重新核验公告或任何个人报名、审核及缴费状态。"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "下线与条件变化",
+      "title": "补录联通4地会计岗位下线及宁银消金方向变化",
+      "detail": "11月11日同ID页面显示宁波、杭州、舟山、台州联通会计核算与管理岗位下线，已移出可行动岗位；宁银消金总部培训生增加法律合规方向，财务核算预算方向、15人及11月30日期限未变。此处均使用11月11日核验日期。"
+    },
+    {
+      "date": "2026-11-14",
+      "type": "历史核验补录",
+      "title": "补入11月11日已核实的人保3岗、浙江国贸10条待核线索",
+      "detail": "这些记录为11月11日取得的官方证据，现迁入云端数据，不表示11月14日新发布或重新核验。人保3岗明确2027届、专业不限，寿险两岗偏营销培训和个险管理；浙江国贸10岗均保留专业需咨询，只有其中2岗明确27届。平台占位或统一结束日期未作为批次截止。"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "临近截止",
+      "title": "2027浙江省考11月11日17:00截止：现有163条候选条件未变",
+      "detail": "官方省级及六市公告、8份职位表重核无条件或人数变化，现有163条保持98条优先核对投递、65条条件待核。余姚财政局1人（0574-89553073）、民政局1人（0574-89280964）、镇海会计核算中心女2人（0574-89287223）可优先核对。每人限报一岗，通过初审不能改报。"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "来源补齐",
+      "title": "2024余姚历史分数新增官方原件佐证，三年209条省考来源已核",
+      "detail": "新定位官方原公告及首批资格复审/体测附件，2024年77条与原镜像逐字节一致；2025/26年132条继续一致。228条历史最低分本次重新聚合全部一致，数值不变。19条税务仍保留镜像来源，不能将合格线或最终面试成绩混入。"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "临近截止",
+      "title": "广发宁波财务与进出口银行财会11月15日截止",
+      "detail": "广发宁波财务管理1人、营销岗及本行公告均复核；进出口银行宁波/浙江财务会计官方PDF重新下载且与11月7日一致，11月15日24时截止。专业口径仍须咨询；国航浙江非财会方向同为11月15日24时截止。"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "截止提醒",
+      "title": "宁波水务财务管培本周四17:00截止，开投和数据集团本周陆续开放",
+      "detail": "水务11月12日17:00截止，财务管培1人明确2027硕士但只列会计学/财管/审计，125300请工作日咨询0574-27878672、27878807、83867523。开投经济类4人11月12日09:00开放，需兼核本科专业；数据集团管培6人11月13日09:00开放，宽泛管理类需确认125300。官方公告均与11月7日一致。",
+      "source": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_6037432d69814634bf9f4e932628667c.html"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "资格核查",
+      "title": "官方2027专业目录补充工商管理类佐证，39条专业咨询标记保留",
+      "detail": "目录将研究生“会计”列入工商管理类，“会计学”另列；目录本身未给125300编码。原岗位只写会计学、财务管理或宽泛类别的仍需咨询招录机关，不自动转为明确可报。"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "核验",
+      "title": "国考及选调生维持原截止状态，注意后续考试时点",
+      "detail": "国考确认缴费已11月6日24:00截止；已完成者11月23日起打印准考证。浙江应届选调生维持原报名已截止，11月14日笔试提示沿用既有公告记录，未验证个人打印状态；公开遴选/公开选调不是应届选调新机会。"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "新增岗位",
+      "title": "宁波银行余姚中心区新增公司客户经理2人",
+      "detail": "今日同ID列表与详情均核验：2027届、本科及以上、专业不限，12月31日截止（列表与详情小时冲突，建议12月30日前）。为公司客户营销方向，非财务核算岗；不覆盖余姚其他两条不同ID岗位。"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "条件冲突",
+      "title": "浙能富兴会计页面恢复入口，截止冲突须先确认",
+      "detail": "本次复核同ID重新在列，详情标注11月5日更新且显示申请入口，但系统closePositionDate仍10月27日，正文此前已有2027年6月30日。保持已截止和历史日期，联系0571-57888191确认延期、2027届、125300及CPA至少3科要求。"
+    }
+  ],
+  "rejectedInbox": [],
+  "jobIndex": [
+    {
+      "id": "live-bull-cixi-finance-2027",
+      "employer": "公牛集团股份有限公司",
+      "role": "财务管理岗（J23834）",
+      "source": "https://gongniu.zhiye.com/campus/detail?jobAdId=8e974282-4306-427d-82eb-309ab9463f6d",
+      "stage": "active",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "live-cgb-nb-finance-2027",
+      "employer": "广发银行宁波分行",
+      "role": "分行财务管理类（宁波，1人）",
+      "source": "https://chinalife.zhiye.com/campus/detail?jobAdId=6b90390f-31c7-47fd-832b-cc643617dbb5",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-nbcb-hq-trainee-2027",
+      "employer": "宁波银行总行",
+      "role": "总行培训生（公司金融／财富管理／量化风控）",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-chinalife-nb-expense-accountant-2027",
+      "employer": "中国人寿保险股份有限公司宁波市分公司",
+      "role": "费用会计岗（1人）",
+      "source": "https://chinalife.zhiye.com/campus/detail?jobAdId=64946a06-48f5-4f4b-884c-ca31d7e786ab",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-deli-nb-finance-trainee-2027",
+      "employer": "得力集团有限公司",
+      "role": "财务管理管培生／财务管理",
+      "source": "https://app.mokahr.com/campus-recruitment/nbdeli/70019?locale=zh-CN",
+      "stage": "active"
+    },
+    {
+      "id": "watch-ginlong-nb-finance-j11636-2027",
+      "employer": "锦浪科技股份有限公司",
+      "role": "财务专员（27届，J11636）",
+      "source": "https://ginlong.zhiye.com/campus/jobs",
+      "stage": "watch"
+    },
+    {
+      "id": "live-crnmc-yuyao-accounting-assistant-2027",
+      "employer": "宁波创润新材料有限公司",
+      "role": "会计助理（5人）",
+      "source": "https://jdjyw.jlu.edu.cn/mportal/recruit/details?id=aae4df3279fe4303a3c2790ff7b74088",
+      "stage": "active"
+    },
+    {
+      "id": "live-ncbank-nb-finance-trainee-2027",
+      "employer": "宁波通商银行",
+      "role": "金融培训生",
+      "source": "https://www.ncbank.cn/ncbank/jrts/rczp/xyzp/index.shtml",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-nbcb-ningbo-trainee-2027",
+      "employer": "宁波银行",
+      "role": "宁波地区培训生",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-nbcb-ningbo-ops-2027",
+      "employer": "宁波银行",
+      "role": "宁波地区运营培训生",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-shanshan-commercial-nb-finance-trainee-2027",
+      "employer": "杉杉商业集团有限公司",
+      "role": "财务管培生（5人）",
+      "source": "https://app-tc.mokahr.com/m/campus-recruitment/vipshophr/16060?locale=zh-CN",
+      "stage": "active"
+    },
+    {
+      "id": "live-grantthornton-nb",
+      "employer": "致同会计师事务所",
+      "role": "审计、税务、咨询、评估与估值",
+      "source": "https://www.grantthornton.cn/campus-recruitment/",
+      "stage": "watch"
+    },
+    {
+      "id": "live-deloitte-2027-7285",
+      "employer": "德勤中国宁波办公室",
+      "role": "税务助理｜Associate - General Tax - Tax and Business Advisory - NB",
+      "source": "https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/position.html?postId=6a2266b11d4c30777ad8a158&postType=campus",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-kfmi-yuyao-finance-2027",
+      "employer": "宁波江丰电子材料股份有限公司",
+      "role": "财务岗",
+      "source": "https://www.ujob360.com/article/178876297149375893",
+      "stage": "watch"
+    },
+    {
+      "id": "watch-eximbank-nb-finance-2027",
+      "employer": "中国进出口银行宁波分行",
+      "role": "财务会计类（2027校园招聘）",
+      "source": "https://eximbank2027.iguopin.com/notice",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-picc-nb-comprehensive-2027",
+      "employer": "中国人民财产保险股份有限公司宁波市分公司",
+      "role": "宁波财险校招导航（综合岗／管理培训生）",
+      "source": "https://picc.zhiye.com/campus",
+      "stage": "watch"
+    },
+    {
+      "id": "live-picc-nb-comprehensive-j79022-2027",
+      "employer": "中国人民财产保险股份有限公司宁波市分公司",
+      "role": "综合岗（J79022，1人）",
+      "source": "https://picc.zhiye.com/campus/detail?jobAdId=e5104210-5314-4002-8489-806bfc13da7b",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "soe-1",
+      "employer": "国家电网有限公司",
+      "role": "财务会计、资金管理、审计、内控、经营管理",
+      "source": "https://zhaopin.zj.sgcc.com.cn/index.html",
+      "stage": "watch",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "live-nycfc-hq-trainee-2027",
+      "employer": "宁银消金",
+      "role": "总部培训生（含综合管理方向，15人）",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "active",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "live-geely-nb-project-finance-bp-2027",
+      "employer": "吉利汽车集团",
+      "role": "项目财务BP岗",
+      "source": "https://campus.geely.com/campus-recruitment/geely/78436/#/job/d87576d2-5d8f-4fdc-86a5-027b61ede5ee",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-nywm-trainee-2027",
+      "employer": "宁银理财",
+      "role": "定向生（资产管理方向，20人）",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-wzgroup-finance-audit-2027",
+      "employer": "物产中大集团股份有限公司",
+      "role": "财务审计类校招岗位",
+      "source": "https://jobs.tiangong.edu.cn/correcruit/content/id/56164.html",
+      "stage": "watch"
+    },
+    {
+      "id": "live-zhcpa-audit",
+      "employer": "中汇会计师事务所",
+      "role": "审计岗",
+      "source": "https://zhcpa.zhiye.com/campus/jobs",
+      "stage": "watch"
+    },
+    {
+      "id": "live-deloitte-2027-7254",
+      "employer": "德勤中国杭州办公室",
+      "role": "审计助理｜Associate - General Audit - Audit & Assurance - HZ",
+      "source": "https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/position.html?postId=6a226133c7606e0d83aefe68&postType=campus",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-cgb-nb-marketing-2027",
+      "employer": "广发银行宁波分行",
+      "role": "分行营销英才（宁波，8人）",
+      "source": "https://chinalife.zhiye.com/campus/detail?jobAdId=76aee9ff-fe8c-47c0-a709-dbb5cfa8f573",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-geely-nb-finance-bp-incubation-2027",
+      "employer": "吉利汽车集团",
+      "role": "财务BP岗（孵化项目）",
+      "source": "https://campus.geely.com/campus-recruitment/geely/78436/#/job/780de565-3ef9-4abb-8bfb-8f3f5e389c88",
+      "stage": "watch",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "id": "watch-eximbank-zj-finance-2027",
+      "employer": "中国进出口银行浙江省分行",
+      "role": "财务会计类（2027校园招聘）",
+      "source": "https://eximbank2027.iguopin.com/notice",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-deloitte-2027-7284",
+      "employer": "德勤中国杭州办公室",
+      "role": "税务助理｜Associate - General Tax - Tax and Business Advisory - HZ",
+      "source": "https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/position.html?postId=6a22667c3d5b657f38b67924&postType=campus",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "soe-12",
+      "employer": "宁波开发投资集团有限公司",
+      "role": "财务管理、会计、资金、投资分析、审计风控",
+      "source": "https://www.ndig.com.cn/",
+      "stage": "watch"
+    },
+    {
+      "id": "soe-14",
+      "employer": "宁波能源集团股份有限公司",
+      "role": "会计、财务管理、税务、资金、审计",
+      "source": "http://gzw.ningbo.gov.cn/col/col1229116730/index.html",
+      "stage": "watch"
+    },
+    {
+      "id": "soe-11",
+      "employer": "宁波市轨道交通集团有限公司",
+      "role": "财务会计、预算、成本、资金、审计内控",
+      "source": "https://job.nbmetro.com/apply/index.action",
+      "stage": "watch"
+    },
+    {
+      "id": "soe-13",
+      "employer": "宁波通商控股集团/宁波工业投资集团",
+      "role": "财务管理、会计核算、投融资、审计风控",
+      "source": "http://gzw.ningbo.gov.cn/col/col1229116730/index.html",
+      "stage": "watch"
+    },
+    {
+      "id": "active-ruifeng-bank-2027-management-trainee",
+      "employer": "瑞丰银行",
+      "role": "管理培训生（总行职能／支行管理方向，2人）",
+      "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+      "stage": "active"
+    },
+    {
+      "id": "soe-18",
+      "employer": "余姚市舜通客运站场经营有限公司等交通类国企",
+      "role": "财务、绩效评价、综合经营、审计内控",
+      "source": "https://www.yy.gov.cn/",
+      "stage": "watch"
+    },
+    {
+      "id": "soe-10",
+      "employer": "浙江省海港投资运营集团/宁波舟山港集团",
+      "role": "财务会计、资金结算、司库、审计风控、经营管理",
+      "source": "https://zjseaport.m.zhiye.com/",
+      "stage": "watch",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "id": "soe-9",
+      "employer": "浙江省烟草专卖局（公司）",
+      "role": "财务管理、会计、审计、综合管理",
+      "source": "https://www.tobacco.gov.cn/gjyc/zpxx/list.shtml",
+      "stage": "watch"
+    },
+    {
+      "id": "live-zhcpa-hz-tax-j11536-2027",
+      "employer": "中汇集团",
+      "role": "税务岗（J11536）",
+      "source": "https://zhcpa.zhiye.com/campus/detail?jobAdId=51069812-6ea8-484a-bfd4-5f44be09bc0a",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-nbkaitou-economic-trainee-2027-20261106",
+      "employer": "宁波开发投资集团有限公司",
+      "role": "管理培训生岗位六（经济类，4人）",
+      "source": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_99fb8ddc004b437094eb509bd5633f4c.html",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-geely-nb-finance-management-2027",
+      "employer": "吉利汽车集团",
+      "role": "财务管理岗（宁波等多地）",
+      "source": "https://campus.geely.com/campus-recruitment/geely/78436/#/job/6fce8fa1-53ad-4a71-ac39-2690fd9e44cd",
+      "stage": "watch",
+      "checkedAt": "2026-10-28"
+    },
+    {
+      "id": "live-geely-nb-finance-bp-holding-2027",
+      "employer": "浙江吉利控股集团",
+      "role": "财务BP岗（预算与核算）",
+      "source": "https://campus.geely.com/campus-recruitment/geely/78436/#/job/40bdd782-8e22-4551-b925-5ed05e47db76",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-chd-zj-2027",
+      "employer": "中国华电集团有限公司浙江公司",
+      "role": "财会类／财务管理方向",
+      "source": "https://rencaishichang.chd.com.cn/",
+      "stage": "active"
+    },
+    {
+      "id": "live-zhcpa-hz-accounting-service-j11557-2027",
+      "employer": "中汇集团",
+      "role": "会计服务岗（J11557）",
+      "source": "https://zhcpa.zhiye.com/campus/detail?jobAdId=d4e9c564-a868-44fb-8be9-255e252c735d",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-ronbay-nb-finance-shared-j12148",
+      "employer": "宁波容百新能源科技股份有限公司（容百集团）",
+      "role": "财务共享专员（J12148）",
+      "source": "https://ronbay.zhiye.com/campus/detail?jobAdId=28fc722a-5067-48e6-942a-d547ac9c4796",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-deloitte-2027-7298",
+      "employer": "德勤中国杭州办公室",
+      "role": "雇主人力资源全球服务税务助理｜Associate - Global Employer Services - HZ",
+      "source": "https://wecruit.hotjob.cn/SU64365a780dcad43c5ae82bab/pb/position.html?postId=6a2269491d4c30777ad8a2ce&postType=campus",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-wzgroup-industry-investment-treasury-2027",
+      "employer": "物产中大（浙江）产业投资有限公司",
+      "role": "27届校招-资金管理岗（1人）",
+      "source": "https://campus.wzgroup.cn/#/job/baba9d92-0dea-45ef-b464-33f7105ed1a8",
+      "stage": "watch",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "watch-wzgroup-international-internal-audit-2027",
+      "employer": "物产中大国际贸易集团有限公司",
+      "role": "27届校招-内审内控岗（杭州，1人）",
+      "source": "https://campus.wzgroup.cn/#/job/115b00a8-f86c-4224-b0b4-3f70161d5b3d",
+      "stage": "watch",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "watch-wzgroup-outai-finance-2027",
+      "employer": "物产中大欧泰有限公司（物产中大化工集团所属）",
+      "role": "27届校招-财务管理（欧泰公司，6人）",
+      "source": "https://campus.wzgroup.cn/#/job/5cfb49b6-b958-4f62-ae65-1d91877327bf",
+      "stage": "watch",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "live-cmb-winter-dz-2027-1-1-2027",
+      "employer": "招商银行杭州分行",
+      "role": "定向培养生（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=D9F73A27-9DA9-4F6E-BC96-BB40824DAE51",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-zhcpa-tax",
+      "employer": "中汇会计师事务所",
+      "role": "税务／咨询／资产评估岗",
+      "source": "https://zhcpa.zhiye.com/campus/jobs",
+      "stage": "watch"
+    },
+    {
+      "id": "watch-cncico-data-analysis-2027-263842323484499202",
+      "employer": "浙江省交通投资集团财务共享服务中心",
+      "role": "数据分析岗（专家室，1人）",
+      "source": "https://dhr.cncico.com:18443/postDetail/263842323484499202",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270103-2027",
+      "employer": "招商银行宁波分行",
+      "role": "公司、零售金融方向定向培养生（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=CE718516-C0C8-4BE2-8B31-DBB508301E1E",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270803-2027",
+      "employer": "招商银行宁波分行",
+      "role": "公司、零售金融方向定向培养生（台州分行）（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=96C3AA66-4E60-4F64-AB6C-B6D2B91E3B61",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-sdic-jineng-zhoushan-accounting-2027",
+      "employer": "国投吉能（舟山）燃气发电有限公司",
+      "role": "财务会计岗（学员，1人）",
+      "source": "https://www.iguopin.com/job/detail?id=217446702968210710",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-ronbay-nb-treasury-j12144",
+      "employer": "宁波容百新能源科技股份有限公司（容百集团）",
+      "role": "财务—资金专员（J12144）",
+      "source": "https://ronbay.zhiye.com/campus/detail?jobAdId=c08b3534-965d-403c-882b-895af0e8a2af",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-sinotrans-ningbo-settlement-2027",
+      "employer": "中国外运（宁波货代）",
+      "role": "综合业务部结算（2027届秋招，岗位线索待核）",
+      "source": "https://sinotrans.zhiye.com/",
+      "stage": "watch"
+    },
+    {
+      "id": "live-zhcpa-hz-financial-consulting-j11539-2027",
+      "employer": "中汇集团",
+      "role": "风险咨询（财务咨询）（J11539）",
+      "source": "https://zhcpa.zhiye.com/campus/detail?jobAdId=d5535ab1-8bb9-422f-87af-41a2bc5c43b7",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-nbcb-2041-2027",
+      "employer": "宁波银行宁波地区",
+      "role": "宁波地区综合柜员",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-nbcb-yuyao-central-corporate-b8587a965e164ca78d914133e9d3fd4f-2027",
+      "employer": "宁波银行余姚中心区支行",
+      "role": "公司银行客户经理（公司业务一部，2人）",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-wzgroup-industry-investment-finance-2027",
+      "employer": "物产中大（浙江）产业投资有限公司",
+      "role": "27届校招-财务管理岗（2人）",
+      "source": "https://campus.wzgroup.cn/#/job/8ed12f17-e75d-4421-9df2-68926644a42f",
+      "stage": "watch",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "live-maxwealthfl-hq-trainee-2027",
+      "employer": "永赢金融租赁有限公司",
+      "role": "总部培训生（10人）",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-sinotrans-ningbo-taiping-settlement-2027",
+      "employer": "中国外运（宁波太平）",
+      "role": "结算部货代结算费收专员（2027届秋招，岗位线索待核）",
+      "source": "https://sinotrans.zhiye.com/",
+      "stage": "watch"
+    },
+    {
+      "id": "live-sxccb-trainee-2027",
+      "employer": "绍兴银行",
+      "role": "管培生（5人）",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-pccpa-hangzhou-audit-2027",
+      "employer": "天健会计师事务所杭州总所",
+      "role": "财务审计（2027校招，480人）",
+      "source": "https://zhaopin.pccpa.cn/hr/recruit/school",
+      "stage": "watch",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "soe-6",
+      "employer": "中国联合网络通信有限公司",
+      "role": "财务、经营分析、运营支撑、风险内控",
+      "source": "https://zglt.zhaopin.com/scjobs/index.html",
+      "stage": "watch"
+    },
+    {
+      "id": "live-cmb-winter-dz-2027-1-4-2027",
+      "employer": "招商银行杭州分行",
+      "role": "运营支持岗（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=E12ABBA4-214E-4389-AEFE-2849F208E5DB",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-picc-nb-trainee-j79021-2027",
+      "employer": "中国人民财产保险股份有限公司宁波市分公司",
+      "role": "管理培训生（J79021，1人）",
+      "source": "https://picc.zhiye.com/campus/detail?jobAdId=01f88eca-62ed-443c-be3a-dc4a3ce50be8",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-nbdata-trainee-2027-20261105",
+      "employer": "宁波数据集团有限公司",
+      "role": "管培生（6人；非财会定向）",
+      "source": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_8680a5def5d34427a3677344538abd95.html",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270403-2027",
+      "employer": "招商银行宁波分行",
+      "role": "运营支持岗（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=8518A717-10BF-45B3-8232-8E07CDCD097B",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270503-2027",
+      "employer": "招商银行宁波分行",
+      "role": "运营支持岗（县域支行）（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=B5870183-65CC-45AC-9388-18CCDDF95384",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20271003-2027",
+      "employer": "招商银行宁波分行",
+      "role": "运营支持岗（台州分行）（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=D5513C9D-D6B0-4BCA-AE7B-9908B07E6A7E",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-citicsf-nb-2027-business-trainee",
+      "employer": "中信期货宁波分公司",
+      "role": "业务管理培训生（2027届未来星）",
+      "source": "https://campus.yingjiesheng.com/citicsf/fenzhi.html",
+      "stage": "active"
+    },
+    {
+      "id": "watch-ruifeng-bank-2027-comprehensive-trainee",
+      "employer": "瑞丰银行",
+      "role": "综合培训生（支行轮岗，10人）",
+      "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+      "stage": "watch"
+    },
+    {
+      "id": "watch-nci-zj-accounting-j16824-2027",
+      "employer": "新华人寿保险股份有限公司浙江分公司",
+      "role": "浙江分公司—会计核算岗（J16824）",
+      "source": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&c=-1&p=1%5E9",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-sxccb-shaoxing-service-2027",
+      "employer": "绍兴银行绍兴市区支行",
+      "role": "客服经理（7人）",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-wzgroup-international-business-finance-2027",
+      "employer": "物产中大国际贸易集团有限公司",
+      "role": "27届校招-业财资金岗（4人）",
+      "source": "https://campus.wzgroup.cn/#/job/9ab775a3-3815-4d0b-b57c-79e6cffd60fd",
+      "stage": "watch",
+      "checkedAt": "2026-11-02"
+    },
+    {
+      "id": "live-voyah",
+      "employer": "岚图汽车（东风汽车集团）",
+      "role": "区域财务BP",
+      "source": "https://app.mokahr.com/campus-recruitment/voyah/146293",
+      "stage": "watch"
+    },
+    {
+      "id": "live-nbcb-yuyao-corporate-2027",
+      "employer": "宁波银行余姚支行",
+      "role": "公司银行客户经理",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-sxccb-shangyu-service-2027",
+      "employer": "绍兴银行上虞支行",
+      "role": "客服经理（1人）",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-pccpa-hangzhou-cashier-2027",
+      "employer": "天健会计师事务所杭州总所",
+      "role": "出纳（2027校招，2人）",
+      "source": "https://zhaopin.pccpa.cn/hr/recruit/school",
+      "stage": "watch",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "watch-pccpa-hangzhou-valuation-2027",
+      "employer": "天健会计师事务所杭州总所",
+      "role": "资产评估（2027校招，10人）",
+      "source": "https://zhaopin.pccpa.cn/hr/recruit/school",
+      "stage": "watch",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "live-sxccb-jiaxing-service-2027",
+      "employer": "绍兴银行嘉兴分行",
+      "role": "客服经理（4人）",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-geely-hz-financial-accounting-2027",
+      "employer": "吉利汽车集团",
+      "role": "财务会计岗",
+      "source": "https://campus.geely.com/campus-recruitment/geely/78436/#/job/da5eea72-5298-4360-bdee-cd3e5ef4272e",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "soe-2",
+      "employer": "宁波永耀电力投资集团有限公司",
+      "role": "财务、会计、预算、审计、综合经营",
+      "source": "https://zhaopin.sgcc.com.cn/",
+      "stage": "watch"
+    },
+    {
+      "id": "watch-nbcb-27c047f918a74e51a314b43a9e46d544-2027",
+      "employer": "宁波银行余姚支行",
+      "role": "客户经理",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-cmb-winter-dz-2027-1-3-2027",
+      "employer": "招商银行杭州分行",
+      "role": "市场营销岗（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=DAC805B6-D588-4A7B-9CCD-24678927BC80",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-cmb-winter-dz-2027-1-5-2027",
+      "employer": "招商银行杭州分行",
+      "role": "综合培养生（绍兴分行）（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=6C375AF6-03D0-4518-829F-42397F12088F",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-cmb-winter-dz-2027-1-6-2027",
+      "employer": "招商银行杭州分行",
+      "role": "综合培养生（嘉兴分行）（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=1DBE40B8-3105-441C-A40D-73B63BFF3532",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-cmb-winter-dz-2027-1-10-2027",
+      "employer": "招商银行杭州分行",
+      "role": "综合培养生（舟山分行）（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=F998A136-46ED-433A-A1A2-71E9EF60365B",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270203-2027",
+      "employer": "招商银行宁波分行",
+      "role": "市场营销岗（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=12C654CD-5DCA-4B98-BB1A-C9BF0593933C",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270303-2027",
+      "employer": "招商银行宁波分行",
+      "role": "市场营销岗（县域支行）（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=D43975EF-450C-4FE4-9C7D-EDA8DE3F66CE",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270903-2027",
+      "employer": "招商银行宁波分行",
+      "role": "市场营销岗（台州分行）（冬季校招）",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=DDBBDDFD-E76E-4659-9C90-3AB74C679D42",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-nbcb-5450-2027",
+      "employer": "宁波银行杭州分行",
+      "role": "杭州分行运营培训生",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "watch-nbcb-7483-2027",
+      "employer": "宁波银行嘉兴分行",
+      "role": "综合柜员",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-sxccb-shaoxing-marketing-2027",
+      "employer": "绍兴银行绍兴市区支行",
+      "role": "客户经理（3人）",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "live-sxccb-shangyu-marketing-2027",
+      "employer": "绍兴银行上虞支行",
+      "role": "客户经理（2人）",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "stage": "active",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "soe-4",
+      "employer": "中国移动通信集团浙江有限公司",
+      "role": "宁波／余姚财务管理岗位监控",
+      "source": "https://job.10086.cn/",
+      "stage": "watch"
+    },
+    {
+      "id": "soe-20",
+      "employer": "国有大型银行宁波分行",
+      "role": "财务会计、运营管理、风险合规、审计、公司金融",
+      "source": "https://job.icbc.com.cn/",
+      "stage": "watch"
+    },
+    {
+      "id": "soe-15",
+      "employer": "宁波城建投资集团有限公司",
+      "role": "财务会计、融资、审计、成本预算、内控",
+      "source": "http://gzw.ningbo.gov.cn/col/col1229116730/index.html",
+      "stage": "watch"
+    },
+    {
+      "id": "soe-16",
+      "employer": "宁波交通投资集团有限公司",
+      "role": "财务会计、资金、审计、投融资、预算成本",
+      "source": "http://gzw.ningbo.gov.cn/col/col1229116730/index.html",
+      "stage": "watch"
+    },
+    {
+      "id": "soe-19",
+      "employer": "余姚经济开发区所属国有企业",
+      "role": "财务、投融资、招商运营、综合管理、审计",
+      "source": "https://www.yy.gov.cn/",
+      "stage": "watch"
+    },
+    {
+      "id": "soe-17",
+      "employer": "余姚市属城投/国资运营类企业",
+      "role": "财务会计、资金、融资、审计、绩效评价、资产运营",
+      "source": "https://www.yy.gov.cn/",
+      "stage": "watch"
+    },
+    {
+      "id": "watch-airchina-zhejiang-ground-business-2027",
+      "employer": "中国国际航空股份有限公司浙江分公司（含温州分公司）",
+      "role": "地面业务类岗位（杭州方向，非专门财会岗）",
+      "source": "https://zhaopin.airchina.com.cn/campus/jobs/2026/10/185639.shtml",
+      "stage": "watch",
+      "checkedAt": "2026-11-09"
+    },
+    {
+      "id": "soe-3",
+      "employer": "中国石化镇海炼化公司",
+      "role": "财务审计、会计核算、税务、内控",
+      "source": "https://job.sinopec.com/",
+      "stage": "watch",
+      "checkedAt": "2026-10-13"
+    },
+    {
+      "id": "live-picc-nb-provincial-trainee-j79020-2027",
+      "employer": "人保财险宁波分公司",
+      "role": "省级机构管理培训生（1人）",
+      "source": "https://picc.zhiye.com/campus/detail?jobAdId=4e442409-7c0d-4ebb-ac04-26c45687be2d",
+      "stage": "active",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "live-picc-life-nb-training-j80787-2027",
+      "employer": "人保寿险宁波分公司",
+      "role": "培训管理岗（1人）",
+      "source": "https://picc.zhiye.com/campus/detail?jobAdId=5a556536-25d1-4aa5-add1-ae33d6c49ea4",
+      "stage": "active",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "live-picc-life-nb-basic-management-j78605-2027",
+      "employer": "人保寿险宁波分公司",
+      "role": "基础管理岗（1人）",
+      "source": "https://picc.zhiye.com/campus/detail?jobAdId=45dfdd5f-bcb0-43be-af77-738de70947d1",
+      "stage": "active",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "watch-zibchina-860321515864985600-20261111",
+      "employer": "浙江东方控股集团股份有限公司",
+      "role": "管培生",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=860321515864985600&channel=1",
+      "stage": "watch",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "watch-zibchina-2105263893756612608-20261111",
+      "employer": "浙商金汇信托股份有限公司",
+      "role": "管培生",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105263893756612608&channel=1",
+      "stage": "watch",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "watch-zibchina-2105187265479770112-20261111",
+      "employer": "浙江省浙商资产管理股份有限公司",
+      "role": "管培生（项目方向）",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105187265479770112&channel=1",
+      "stage": "watch",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "watch-zibchina-2105259902172708864-20261111",
+      "employer": "浙江省国际贸易集团有限公司",
+      "role": "浙江省国际贸易集团有限公司管培生",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105259902172708864&channel=1",
+      "stage": "watch",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "watch-zibchina-2105214546063966208-20261111",
+      "employer": "浙江省医药健康产业集团有限公司",
+      "role": "管培生",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105214546063966208&channel=1",
+      "stage": "watch",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "watch-zibchina-2105206121233448960-20261111",
+      "employer": "浙江省国贸资产运营有限公司",
+      "role": "管培生（职能方向）",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105206121233448960&channel=1",
+      "stage": "watch",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "watch-zibchina-2105199012068036610-20261111",
+      "employer": "浙江省国际贸易集团供应链有限公司",
+      "role": "管培生（财务方向）",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105199012068036610&channel=1",
+      "stage": "watch",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "watch-zibchina-2105206121237643264-20261111",
+      "employer": "浙江国贸资源管理有限公司",
+      "role": "管培生（业务方向）",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105206121237643264&channel=1",
+      "stage": "watch",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "watch-zibchina-2105214546063966209-20261111",
+      "employer": "浙江省医药健康产业集团有限公司",
+      "role": "投资经理",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2105214546063966209&channel=1",
+      "stage": "watch",
+      "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "watch-zibchina-2109533088640974850-20261111",
+      "employer": "浙江康恩贝制药股份有限公司",
+      "role": "财务管培生",
+      "source": "https://recruit.zibchina.com/position_detail.html?positionId=2109533088640974850&channel=1",
+      "stage": "watch",
+      "checkedAt": "2026-11-11"
+    }
+  ]
+}

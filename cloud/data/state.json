@@ -1,0 +1,403 @@
+{
+  "schemaVersion": 1,
+  "sources": {
+    "https://www.psbc.com/cn/gyyc/rczp/xyzp/202609/t20260907_460394.html": {
+      "sha256": "8930e765352f92f1e5354f91b4c93e87fdf93a96e3d2a2f9b2aac2c8caa5f450",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中国邮政储蓄银行2027年度校园招聘"
+    },
+    "https://job.citicbank.com/": {
+      "sha256": "ebcf7d9685bee12d9ce944144f50af185dd0d03513cd854ee4be1b2dc586253b",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中信银行人才招聘"
+    },
+    "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html": {
+      "sha256": "f25a31fcd98c70b00691206bde3e7a99ac18ffcae7313fe900f88c210ac39ba6",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中国银行2027全球校园招聘公告"
+    },
+    "https://www.grantthornton.cn/campus-recruitment/": {
+      "sha256": "0b2d8421cb41daa4a44dc5921314536e627a242d62d3a73f10cf1c18cae1fa0d",
+      "lastFetchedAt": "2026-11-14",
+      "name": "致同2027校园招聘"
+    },
+    "https://zhaopin.chnenergy.com.cn/annc/showgg?id=6a152f40-7fe5-460e-ad37-0024acafd8c9": {
+      "sha256": "41239099ea0230e6727ade4f5a8f0f8a7a758e0df6d56bbd0337a57d9298509f",
+      "lastFetchedAt": "2026-11-14",
+      "name": "国家能源集团2027统招公告"
+    },
+    "https://www.chinatax.gov.cn/": {
+      "sha256": "90757d8fc65c0d9077ae53e07f391757b72b5716c61eb3342ba697b0ce78cc17",
+      "lastFetchedAt": "2026-11-14",
+      "name": "国家税务总局"
+    },
+    "https://recruit.zibchina.com/campus.html": {
+      "sha256": "2ceed81f6d0a9c8dffce30e6fb22041021838d19720877e9e85f0eca29955546",
+      "lastFetchedAt": "2026-11-14",
+      "name": "浙江国贸校园招聘"
+    },
+    "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=6b90390f-31c7-47fd-832b-cc643617dbb5&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D": {
+      "sha256": "6250b466c399ae61091315305ba12c285897910525903465d7e38707ae86d3e0",
+      "lastFetchedAt": "2026-11-14",
+      "name": "广发银行宁波分行 分行财务管理类（宁波，1人）"
+    },
+    "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=76aee9ff-fe8c-47c0-a709-dbb5cfa8f573&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D": {
+      "sha256": "4b85704611cbc90eb8ee7a2f91b3d3a2d69ae366c01b395f451a57e085c393f3",
+      "lastFetchedAt": "2026-11-14",
+      "name": "广发银行宁波分行 分行营销英才（宁波，8人）"
+    },
+    "https://iguopin-activity.oss-cn-beijing.aliyuncs.com/activity/exclusive/20261030/224838521939036303.pdf": {
+      "sha256": "59558f1c5b79c7b669e7017f6f64f6e9ff999237790e0cbdcbb94104a1f7d7bf",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中国进出口银行宁波分行 财务会计类（2027校园招聘）"
+    },
+    "https://zp.borf.cn/recruit/job/notice?recruitType=campus": {
+      "sha256": "6452166186630adcdd6a5fe983d79d4b32a912e4867b0008ad4f8c1678c18129",
+      "lastFetchedAt": "2026-11-14",
+      "name": "瑞丰银行 管理培训生（总行职能／支行管理方向，2人）"
+    },
+    "https://zhaopin.airchina.com.cn/campus/jobs/2026/10/185639.shtml": {
+      "sha256": "fe56313cc20e7b4ec001315cd92ec18b0fa1371a99917ac28b4740a755b2a2ae",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中国国际航空股份有限公司浙江分公司（含温州分公司） 地面业务类岗位（杭州方向，非专门财会岗）"
+    },
+    "https://ronbay.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=c08b3534-965d-403c-882b-895af0e8a2af&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22DetailAddress%22%5D": {
+      "sha256": "7162f9cf2ede03995670cebdb4bc7ef32828fb69bb024518dde5a56a8fa61600",
+      "lastFetchedAt": "2026-11-14",
+      "name": "宁波容百新能源科技股份有限公司（容百集团） 财务—资金专员（J12144）"
+    },
+    "https://zhcpa.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=d5535ab1-8bb9-422f-87af-41a2bc5c43b7&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22DetailAddress%22%5D": {
+      "sha256": "ebe2d10ecf2addc92b224c4cbd970802b44f6b221166eb3cc207b8747b169309",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中汇集团 风险咨询（财务咨询）（J11539）"
+    },
+    "https://picc.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=4e442409-7c0d-4ebb-ac04-26c45687be2d&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D": {
+      "sha256": "42f8e9521fa6e692618b45612e788f09769ba5f2c5e17a35c64b81c561a614f9",
+      "lastFetchedAt": "2026-11-14",
+      "name": "人保财险宁波分公司 省级机构管理培训生（1人）"
+    },
+    "https://picc.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=01f88eca-62ed-443c-be3a-dc4a3ce50be8&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D": {
+      "sha256": "610c6d628281d84856348fca7bd0c9f678f0bb30f5f36f01211e9ac5e6d5f399",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中国人民财产保险股份有限公司宁波市分公司 管理培训生（J79021，1人）"
+    },
+    "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105199012068036610": {
+      "sha256": "088f9a9f636d4ee764f5d6eda13b97fa43c5b03db5c6f74c17a8fd57453a84ba",
+      "lastFetchedAt": "2026-11-14",
+      "name": "浙江省国际贸易集团供应链有限公司 管培生（财务方向）"
+    },
+    "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2109533088640974850": {
+      "sha256": "de6e95cfc457c106cb7a5f97c004750fb65b93e5e0659abe7adf769dba1f77b1",
+      "lastFetchedAt": "2026-11-14",
+      "name": "浙江康恩贝制药股份有限公司 财务管培生"
+    },
+    "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105206121233448960": {
+      "sha256": "867f1af1f512e21c0f3623620302679ffc80a4a87a3ec937c825820a53d239f8",
+      "lastFetchedAt": "2026-11-14",
+      "name": "浙江省国贸资产运营有限公司 管培生（职能方向）"
+    },
+    "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105206121237643264": {
+      "sha256": "0478c3d061e8672aa56732489b42001d2d84f933a566fe19add2b24809caf9c4",
+      "lastFetchedAt": "2026-11-14",
+      "name": "浙江国贸资源管理有限公司 管培生（业务方向）"
+    },
+    "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/860321515864985600": {
+      "sha256": "cd942abcc97f91c4668b04893d4094c95d4f0df22b6db5fa04b66ee22b2276d1",
+      "lastFetchedAt": "2026-11-14",
+      "name": "浙江东方控股集团股份有限公司 管培生"
+    },
+    "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105263893756612608": {
+      "sha256": "205d4d27ec3a5d32c812fa66b65823b2d801f1c4ec14d3b8c81ee994f2dbb814",
+      "lastFetchedAt": "2026-11-14",
+      "name": "浙商金汇信托股份有限公司 管培生"
+    },
+    "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105187265479770112": {
+      "sha256": "9398322da7ef85b2e9fef14e4481db6f0cb4b2fd1ddfede1c66aa2014e0bc5f6",
+      "lastFetchedAt": "2026-11-14",
+      "name": "浙江省浙商资产管理股份有限公司 管培生（项目方向）"
+    },
+    "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105214546063966208": {
+      "sha256": "de4d20f06819624b117d00c5dc781c6be32fa6c03483d542f242704d5fb93dd8",
+      "lastFetchedAt": "2026-11-14",
+      "name": "浙江省医药健康产业集团有限公司 管培生"
+    },
+    "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105259902172708864": {
+      "sha256": "6faa5554fe2fa987e1cae98d051c756487654a3481af3afa53299be34aa6a145",
+      "lastFetchedAt": "2026-11-14",
+      "name": "浙江省国际贸易集团有限公司 浙江省国际贸易集团有限公司管培生"
+    },
+    "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105214546063966209": {
+      "sha256": "a79327321d05b9eb31c7ca0aec3967a4db17a5cecbd104fb6f07599f18ceca1e",
+      "lastFetchedAt": "2026-11-14",
+      "name": "浙江省医药健康产业集团有限公司 投资经理"
+    },
+    "https://picc.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=5a556536-25d1-4aa5-add1-ae33d6c49ea4&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D": {
+      "sha256": "10959a713cdac24f69272ca1c7cd49ef5d27c90ed3115a679497be23588d3f9a",
+      "lastFetchedAt": "2026-11-14",
+      "name": "人保寿险宁波分公司 培训管理岗（1人）"
+    },
+    "https://picc.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=45dfdd5f-bcb0-43be-af77-738de70947d1&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D": {
+      "sha256": "f7256ed8668fee1247a9a3ed523dd5fc331c8d336097ca0f5f156966e126b198",
+      "lastFetchedAt": "2026-11-14",
+      "name": "人保寿险宁波分公司 基础管理岗（1人）"
+    },
+    "https://job.10086.cn/": {
+      "sha256": "a4224fc037e9e09d8d651caf73e0e52c4029eeaaf1ee8d3c19972822e5628fb8",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中国移动通信集团浙江有限公司 宁波／余姚财务管理岗位监控"
+    },
+    "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html": {
+      "sha256": "72e0d0be9f055c10595b621d8d6798a90ff7de1a2fccd813470b1e7b266e08b2",
+      "lastFetchedAt": "2026-11-14",
+      "name": "绍兴银行 管培生（5人）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=D9F73A27-9DA9-4F6E-BC96-BB40824DAE51": {
+      "sha256": "66bfa814ce122ce21d634c860e2c7da5e03096b86a7f3776a3b40838ec552ad7",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行杭州分行 定向培养生（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=CE718516-C0C8-4BE2-8B31-DBB508301E1E": {
+      "sha256": "b8747b373872204e7b3d88119538662df83b7e51d84b985e22901c1178493252",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行宁波分行 公司、零售金融方向定向培养生（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=E12ABBA4-214E-4389-AEFE-2849F208E5DB": {
+      "sha256": "8fae938ce9f1b96a118e53d985825388ae974775337d9096a42605ed09556d46",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行杭州分行 运营支持岗（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=8518A717-10BF-45B3-8232-8E07CDCD097B": {
+      "sha256": "e796fad86180b4e33a288a892822a1ac80c651ad5648155b89387f33c15b1ba0",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行宁波分行 运营支持岗（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=B5870183-65CC-45AC-9388-18CCDDF95384": {
+      "sha256": "f1b79f12e12b5cf8119aa51bc02e70323a201c250dc4a3c129a5fd48a92cd684",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行宁波分行 运营支持岗（县域支行）（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=96C3AA66-4E60-4F64-AB6C-B6D2B91E3B61": {
+      "sha256": "968f21901135372a6d09d1329c64e09644cb0c5a3d9c9f645e60b638a9c26d13",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行宁波分行 公司、零售金融方向定向培养生（台州分行）（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=DAC805B6-D588-4A7B-9CCD-24678927BC80": {
+      "sha256": "72fd21ab1818a7626db50674af9ecb21e26b7a0d22ad0231e65d4c2d2ea3c38c",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行杭州分行 市场营销岗（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=D5513C9D-D6B0-4BCA-AE7B-9908B07E6A7E": {
+      "sha256": "fd861b325b13d1b9597a4d96d019d327e8fbb8f37f2ce53a5d208d6d55a81328",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行宁波分行 运营支持岗（台州分行）（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=1DBE40B8-3105-441C-A40D-73B63BFF3532": {
+      "sha256": "405b555d4bf82b4040db8aac9ef5810a03b7d8d19e982eda89061cf493c66a64",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行杭州分行 综合培养生（嘉兴分行）（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=F998A136-46ED-433A-A1A2-71E9EF60365B": {
+      "sha256": "bc52802175c3f40fea4b068734d74e0b84edffd428ea8ba7eac0acee6ff7148c",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行杭州分行 综合培养生（舟山分行）（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=6C375AF6-03D0-4518-829F-42397F12088F": {
+      "sha256": "faffaa60563d99430a1b06ed8e7f7de1a4a3a48ed40ea5365730d531bbcff4c2",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行杭州分行 综合培养生（绍兴分行）（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=DDBBDDFD-E76E-4659-9C90-3AB74C679D42": {
+      "sha256": "c55eb708094accdda74a1890a9634eacfef6eceb6ecf928110a349d0a1de3ee0",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行宁波分行 市场营销岗（台州分行）（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=12C654CD-5DCA-4B98-BB1A-C9BF0593933C": {
+      "sha256": "c53b69e4a0471ff11aa1180b4b69354d7c18b1a1e82939582379b2b16d2639b2",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行宁波分行 市场营销岗（冬季校招）"
+    },
+    "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=D43975EF-450C-4FE4-9C7D-EDA8DE3F66CE": {
+      "sha256": "2a0dcf3da60a3d91072829a8e8b1ed32825f7822782e4bf4574c3cd4dcb8389b",
+      "lastFetchedAt": "2026-11-14",
+      "name": "招商银行宁波分行 市场营销岗（县域支行）（冬季校招）"
+    },
+    "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&c=-1&p=1%5E9": {
+      "sha256": "8029aff20883276d049ab426a6fbdb38a817ef3eac8773eb2c43ec1e6984d02a",
+      "lastFetchedAt": "2026-11-14",
+      "name": "新华人寿保险股份有限公司浙江分公司 浙江分公司—会计核算岗（J16824）"
+    },
+    "https://gongniu.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=8e974282-4306-427d-82eb-309ab9463f6d&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D": {
+      "sha256": "d06492344caafa8ddc6eda69763ba538b3cf6998f30d7d0b1bf76662bec91e1e",
+      "lastFetchedAt": "2026-11-14",
+      "name": "公牛集团股份有限公司 财务管理岗（J23834）"
+    },
+    "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=64946a06-48f5-4f4b-884c-ca31d7e786ab&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D": {
+      "sha256": "25224fd2ba481e0dc3ebf9890aeb6b3c3c5cf78c8e59ec8f72f8580b4ae551e9",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中国人寿保险股份有限公司宁波市分公司 费用会计岗（1人）"
+    },
+    "https://www.ujob360.com/article/178876297149375893": {
+      "sha256": "9c3bb474fd37f030693e5ebf932210780e2e1b25f0702b8c36e83b1e8a11d23e",
+      "lastFetchedAt": "2026-11-14",
+      "name": "宁波江丰电子材料股份有限公司 财务岗"
+    },
+    "https://picc.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=e5104210-5314-4002-8489-806bfc13da7b&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%5D": {
+      "sha256": "2ad1b4347a434abcb78ea517756ae3bed987a8ac7e1f28fdd0b0620ecfc55dad",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中国人民财产保险股份有限公司宁波市分公司 综合岗（J79022，1人）"
+    },
+    "https://zhcpa.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=51069812-6ea8-484a-bfd4-5f44be09bc0a&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22DetailAddress%22%5D": {
+      "sha256": "c5cb8ba8e8c7fe2be38fee656a91be24145c9c210414d22863906a13d7d4e744",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中汇集团 税务岗（J11536）"
+    },
+    "https://zhcpa.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=d4e9c564-a868-44fb-8be9-255e252c735d&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22DetailAddress%22%5D": {
+      "sha256": "44b39cdc4323043e9b49dd5d580d05a6f11c80f01b63c230319e35464ddeaec2",
+      "lastFetchedAt": "2026-11-14",
+      "name": "中汇集团 会计服务岗（J11557）"
+    },
+    "https://ronbay.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=28fc722a-5067-48e6-942a-d547ac9c4796&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22DetailAddress%22%5D": {
+      "sha256": "409d0251031503008e696df3efd1af09b68a15e64e7c8f4cfab534e0ab34e2bf",
+      "lastFetchedAt": "2026-11-14",
+      "name": "宁波容百新能源科技股份有限公司（容百集团） 财务共享专员（J12148）"
+    },
+    "https://job.nbmetro.com/apply/index.action": {
+      "sha256": "a68699ef0be7d2d80246d137a1eeb3c104cbe8f9662546647f037c5c06d0cd70",
+      "lastFetchedAt": "2026-11-14",
+      "name": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控"
+    }
+  },
+  "leads": {
+    "056418a3f6e2baa21a28fe62be4d227d8ab9c0811083a6232db915b02f197d67": {
+      "url": "https://www.psbc.com/cn/gyyc/rczp/xyzp/",
+      "title": "人才招聘",
+      "key": "056418a3f6e2baa21a28fe62be4d227d8ab9c0811083a6232db915b02f197d67",
+      "source": "https://www.psbc.com/cn/gyyc/rczp/xyzp/202609/t20260907_460394.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "0a82190b8db5bef9c4003ecc935fd07356d3934c200e10e0a1a948ddd9cef0dc": {
+      "url": "https://www.psbc.com/cn/gyyc/rczp/",
+      "title": "人才招聘",
+      "key": "0a82190b8db5bef9c4003ecc935fd07356d3934c200e10e0a1a948ddd9cef0dc",
+      "source": "https://www.psbc.com/cn/gyyc/rczp/xyzp/202609/t20260907_460394.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "59aa43e9467387b7ab63079818bae88206e58b5b6d974bd3ab147d772e077dd5": {
+      "url": "https://www.psbc.com/cn/gyyc/tzzgx/cwxx/",
+      "title": "财务信息",
+      "key": "59aa43e9467387b7ab63079818bae88206e58b5b6d974bd3ab147d772e077dd5",
+      "source": "https://www.psbc.com/cn/gyyc/rczp/xyzp/202609/t20260907_460394.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "0a8c944376bc04ec057d9e39b3a3a4b987ac22c4d6c9a7965215107c9496fe11": {
+      "url": "https://www.boc.cn/investor/ir3/",
+      "title": "财务报告",
+      "key": "0a8c944376bc04ec057d9e39b3a3a4b987ac22c4d6c9a7965215107c9496fe11",
+      "source": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "7340f6f32c2c958ea665b1262ccb345d9ab02b408aac5bff6c2da301326707da": {
+      "url": "https://www.boc.cn/aboutboc/bi4/",
+      "title": "招聘公告",
+      "key": "7340f6f32c2c958ea665b1262ccb345d9ab02b408aac5bff6c2da301326707da",
+      "source": "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "df2686c85c64e86ef40862fed668475dcb03f6370945242fa94261405240da42": {
+      "url": "https://zhaopin.chnenergy.com.cn/annc/showgg?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "title": "校园招聘",
+      "key": "df2686c85c64e86ef40862fed668475dcb03f6370945242fa94261405240da42",
+      "source": "https://zhaopin.chnenergy.com.cn/annc/showgg?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "07b4411418bcf74075f6768909f50ff7cb25cc8b1ca4fac383f1ffff9b7e9889": {
+      "url": "https://zhaopin.chnenergy.com.cn/annc/showggStationList?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "title": "招聘职位列表",
+      "key": "07b4411418bcf74075f6768909f50ff7cb25cc8b1ca4fac383f1ffff9b7e9889",
+      "source": "https://zhaopin.chnenergy.com.cn/annc/showgg?id=6a152f40-7fe5-460e-ad37-0024acafd8c9",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "2ec9d8090c9e148dde7f220fa77a322e4cf97f229e6e27722e7113be38b03688": {
+      "url": "https://www.chinatax.gov.cn/chinatax/n810214/c102374/c102375d/c5252977/content.html",
+      "title": "国家税务总局税收科学研究所 北京国家会计学院2027年税务专业学位硕士研究生联合招生简章",
+      "key": "2ec9d8090c9e148dde7f220fa77a322e4cf97f229e6e27722e7113be38b03688",
+      "source": "https://www.chinatax.gov.cn/",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "1f3c567f1386d5b15326230fec94e2cb494da055eb4c17b0cfca39d82edee323": {
+      "url": "https://www.chinatax.gov.cn/chinatax/n896543r/c5252957/content.html",
+      "title": "税务系统2027年度考试录用公务员相关事项通知",
+      "key": "1f3c567f1386d5b15326230fec94e2cb494da055eb4c17b0cfca39d82edee323",
+      "source": "https://www.chinatax.gov.cn/",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "de718f122865ef5b9f0a1eb859ba7ae5dbf5a57b7c5877e35df44e3e892d1e99": {
+      "url": "https://www.chinatax.gov.cn/chinatax/n896543r/c5250158/content.html",
+      "title": "国家税务总局部分直属事业单位2026年度公开招聘面试人员名单公告",
+      "key": "de718f122865ef5b9f0a1eb859ba7ae5dbf5a57b7c5877e35df44e3e892d1e99",
+      "source": "https://www.chinatax.gov.cn/",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "32351723ed1dab53a987fda59aac9db4dfa73ef7b796c5c226057d49bf78a336": {
+      "url": "http://www.audit.gov.cn/",
+      "title": "审计署",
+      "key": "32351723ed1dab53a987fda59aac9db4dfa73ef7b796c5c226057d49bf78a336",
+      "source": "https://www.chinatax.gov.cn/",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "2b3932edf79c95f8260f433f1fbda13f9f3d5cdf9e27146405b400f1a415d96b": {
+      "url": "https://recruit.zibchina.com/social.html",
+      "title": "社会招聘",
+      "key": "2b3932edf79c95f8260f433f1fbda13f9f3d5cdf9e27146405b400f1a415d96b",
+      "source": "https://recruit.zibchina.com/campus.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "cc42a9fb5d05d21c4bcc76984c824bae9765f7f2a5131b6581058c1c8cb7a729": {
+      "url": "https://recruit.zibchina.com/campus.html",
+      "title": "校园招聘",
+      "key": "cc42a9fb5d05d21c4bcc76984c824bae9765f7f2a5131b6581058c1c8cb7a729",
+      "source": "https://recruit.zibchina.com/campus.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "fff502197ce0f5a83d4e6894521043599a73a3dc00ba7bbf5a8b8d6a2cc55e94": {
+      "url": "https://recruit.zibchina.com/internship.html",
+      "title": "实习招聘",
+      "key": "fff502197ce0f5a83d4e6894521043599a73a3dc00ba7bbf5a8b8d6a2cc55e94",
+      "source": "https://recruit.zibchina.com/campus.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "a0949e54d46bf8c13e981fc7696f04e84ab26b0515b6fd4c7acacb86ef519da5": {
+      "url": "https://recruit.zibchina.com/internal.html",
+      "title": "内部招聘",
+      "key": "a0949e54d46bf8c13e981fc7696f04e84ab26b0515b6fd4c7acacb86ef519da5",
+      "source": "https://recruit.zibchina.com/campus.html",
+      "firstSeenAt": "2026-11-14",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    }
+  },
+  "processed": {
+    "migration-2026-11-14-verified-1111": {
+      "file": "migration-2026-11-14-verified-1111.json",
+      "sha256": "8791880fb155e7c9ede1e4373fca573a97920e1e799644dd516256dc67abf429",
+      "date": "2026-11-14",
+      "acceptedAt": "2026-11-14T07:21:25.822Z"
+    }
+  },
+  "rejected": {},
+  "nbFacts": {},
+  "lastResearchAt": "2026-11-14"
+}
