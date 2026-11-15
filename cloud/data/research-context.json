@@ -13,13 +13,13 @@
   "lastResearchAt": "2026-11-15",
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-15T00:34:37.354Z",
-    "completedAt": "2026-11-15T00:36:12.755Z",
-    "lastSuccessfulAt": "2026-11-15T00:36:12.755Z",
-    "fetchedSources": 53,
-    "failedSources": 66,
+    "checkedAt": "2026-11-15T06:51:21.418Z",
+    "completedAt": "2026-11-15T06:52:48.321Z",
+    "lastSuccessfulAt": "2026-11-15T06:52:48.321Z",
+    "fetchedSources": 49,
+    "failedSources": 70,
     "changedSources": 2,
-    "pendingLeads": 17,
+    "pendingLeads": 18,
     "lastResearchAt": "2026-11-15",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
@@ -384,6 +384,15 @@
       "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
     },
     {
+      "key": "2459ab1763f8d2628e776cd378fa26454a456803396c61ae34122424e4e59a99",
+      "url": "https://job.nbmetro.com/apply/index.action",
+      "title": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控",
+      "jobId": "soe-11",
+      "source": "https://job.nbmetro.com/apply/index.action",
+      "firstSeenAt": "2026-11-15",
+      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
+    },
+    {
       "url": "https://www.psbc.com/cn/gyyc/rczp/xyzp/",
       "title": "人才招聘",
       "key": "056418a3f6e2baa21a28fe62be4d227d8ab9c0811083a6232db915b02f197d67",
@@ -597,7 +606,7 @@
     {
       "date": "2026-11-15",
       "type": "云端检查",
-      "title": "云端每日检查：53项来源可读，66项待重试",
+      "title": "云端每日检查：49项来源可读，70项待重试",
       "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
       "cloudOperational": true
     },

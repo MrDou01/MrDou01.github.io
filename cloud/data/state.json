@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "7e77fd346a065d5fcfd4eef52ca8945438948c242081d0f9aecaf206966706eb",
+      "sha256": "c79e6f13d390575159977967807c510966e79e73bd5bbed10798a64490821f5f",
       "lastFetchedAt": "2026-11-15",
       "name": "致同2027校园招聘"
     },
@@ -262,7 +262,7 @@
       "name": "宁波容百新能源科技股份有限公司（容百集团） 财务共享专员（J12148）"
     },
     "https://job.nbmetro.com/apply/index.action": {
-      "sha256": "bc3d72990e2e55aab8d35313f0194604e0088f79d6bd9f2f9de89b9b6dc1b3df",
+      "sha256": "487b8dc1006d3a40079a6167231743f207723b3cb3be4f6528019ce7ef30e9cb",
       "lastFetchedAt": "2026-11-15",
       "name": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控"
     }
@@ -399,6 +399,15 @@
     },
     "1ca87e42cc12b53503d96174542c2c7f5b64205386a7b6c96b55fcdf78d50f85": {
       "key": "1ca87e42cc12b53503d96174542c2c7f5b64205386a7b6c96b55fcdf78d50f85",
+      "url": "https://job.nbmetro.com/apply/index.action",
+      "title": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控",
+      "jobId": "soe-11",
+      "source": "https://job.nbmetro.com/apply/index.action",
+      "firstSeenAt": "2026-11-15",
+      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
+    },
+    "2459ab1763f8d2628e776cd378fa26454a456803396c61ae34122424e4e59a99": {
+      "key": "2459ab1763f8d2628e776cd378fa26454a456803396c61ae34122424e4e59a99",
       "url": "https://job.nbmetro.com/apply/index.action",
       "title": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控",
       "jobId": "soe-11",
