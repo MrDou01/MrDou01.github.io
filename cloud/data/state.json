@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "dbd48980677f8969037a5dd5a1896bb4c0b719bfa36e69838badd0316901b74e",
+      "sha256": "85c8283269114b102e0c156000bc7b66bc2b4bb66a7c589a53f1d24547904735",
       "lastFetchedAt": "2026-11-16",
       "name": "致同2027校园招聘"
     },
@@ -270,6 +270,11 @@
       "sha256": "8eaa07905ec904ab27699ef1ba3229a933a47f55eb8f333209d8574b7011ba81",
       "lastFetchedAt": "2026-11-16",
       "name": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控"
+    },
+    "https://zjseaport.zhiye.com/zpdetail/270982742": {
+      "sha256": "4c8af5af24b61b61fa9223cc990ab4b00b76ddc0042a89d3baac4a54d98656ca",
+      "lastFetchedAt": "2026-11-16",
+      "name": "浙江省海港投资运营集团/宁波舟山港集团 金融投资（2027）及综合管理（2027）方向跟踪"
     }
   },
   "leads": {
@@ -442,6 +447,12 @@
       "sha256": "f12734468de72541313e58863e34d164f012d3c1b227b19798713ad89f024544",
       "date": "2026-11-16",
       "acceptedAt": "2026-11-16T00:36:48.386Z"
+    },
+    "weekly-enterprises-2026-11-16-0842": {
+      "file": "weekly-enterprises-2026-11-16-0842.json",
+      "sha256": "3c65088d0d4cb32611eefd64fffd132ae22d29420b5a25615941d5d90503dc00",
+      "date": "2026-11-16",
+      "acceptedAt": "2026-11-16T00:48:49.232Z"
     }
   },
   "rejected": {},
