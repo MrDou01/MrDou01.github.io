@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "purpose": "供云端研究任务核验官方招聘。页面可读/哈希变化并不表示资格已复核。收件规则见 cloud/README.md。",
   "profile": {
     "graduation": "2027届",
@@ -9,18 +9,18 @@
     "region": "宁波全域、舟山、绍兴、杭州、台州、嘉兴",
     "screen": "暂按女性、应届、无基层定向身份；不推定专业包含125300"
   },
-  "dataUpdatedAt": "2026-11-15",
-  "lastResearchAt": "2026-11-15",
+  "dataUpdatedAt": "2026-11-16",
+  "lastResearchAt": "2026-11-16",
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-15T06:51:21.418Z",
-    "completedAt": "2026-11-15T06:52:48.321Z",
-    "lastSuccessfulAt": "2026-11-15T06:52:48.321Z",
-    "fetchedSources": 49,
-    "failedSources": 70,
+    "checkedAt": "2026-11-16T00:36:48.386Z",
+    "completedAt": "2026-11-16T00:38:24.115Z",
+    "lastSuccessfulAt": "2026-11-16T00:38:24.115Z",
+    "fetchedSources": 48,
+    "failedSources": 67,
     "changedSources": 2,
-    "pendingLeads": 18,
-    "lastResearchAt": "2026-11-15",
+    "pendingLeads": 15,
+    "lastResearchAt": "2026-11-16",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
   },
@@ -375,24 +375,6 @@
   ],
   "pendingLeads": [
     {
-      "key": "1ca87e42cc12b53503d96174542c2c7f5b64205386a7b6c96b55fcdf78d50f85",
-      "url": "https://job.nbmetro.com/apply/index.action",
-      "title": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控",
-      "jobId": "soe-11",
-      "source": "https://job.nbmetro.com/apply/index.action",
-      "firstSeenAt": "2026-11-15",
-      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
-    },
-    {
-      "key": "2459ab1763f8d2628e776cd378fa26454a456803396c61ae34122424e4e59a99",
-      "url": "https://job.nbmetro.com/apply/index.action",
-      "title": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控",
-      "jobId": "soe-11",
-      "source": "https://job.nbmetro.com/apply/index.action",
-      "firstSeenAt": "2026-11-15",
-      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
-    },
-    {
       "url": "https://www.psbc.com/cn/gyyc/rczp/xyzp/",
       "title": "人才招聘",
       "key": "056418a3f6e2baa21a28fe62be4d227d8ab9c0811083a6232db915b02f197d67",
@@ -511,66 +493,18 @@
       "source": "https://recruit.zibchina.com/campus.html",
       "firstSeenAt": "2026-11-14",
       "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
-    },
-    {
-      "key": "21c758dd3463d96a6ac8971ba2c2b8ca9e47cc04b634931e06cf778613c159f3",
-      "url": "https://job.nbmetro.com/apply/index.action",
-      "title": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控",
-      "jobId": "soe-11",
-      "source": "https://job.nbmetro.com/apply/index.action",
-      "firstSeenAt": "2026-11-14",
-      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
     }
   ],
   "upcomingDeadlines": [
-    {
-      "id": "live-cgb-nb-finance-2027",
-      "employer": "广发银行宁波分行",
-      "role": "分行财务管理类（宁波，1人）",
-      "deadline": "2026-11-15",
-      "deadlineTime": "",
-      "source": "https://chinalife.zhiye.com/campus/detail?jobAdId=6b90390f-31c7-47fd-832b-cc643617dbb5",
-      "checkedAt": "2026-11-09",
-      "match": "需咨询"
-    },
-    {
-      "id": "watch-eximbank-nb-finance-2027",
-      "employer": "中国进出口银行宁波分行",
-      "role": "财务会计类（2027校园招聘）",
-      "deadline": "2026-11-15",
-      "deadlineTime": "24:00",
-      "source": "https://eximbank2027.iguopin.com/notice",
-      "checkedAt": "2026-11-09",
-      "match": "需咨询"
-    },
-    {
-      "id": "live-cgb-nb-marketing-2027",
-      "employer": "广发银行宁波分行",
-      "role": "分行营销英才（宁波，8人）",
-      "deadline": "2026-11-15",
-      "deadlineTime": "",
-      "source": "https://chinalife.zhiye.com/campus/detail?jobAdId=76aee9ff-fe8c-47c0-a709-dbb5cfa8f573",
-      "checkedAt": "2026-11-09",
-      "match": "需咨询"
-    },
-    {
-      "id": "watch-eximbank-zj-finance-2027",
-      "employer": "中国进出口银行浙江省分行",
-      "role": "财务会计类（2027校园招聘）",
-      "deadline": "2026-11-15",
-      "deadlineTime": "24:00",
-      "source": "https://eximbank2027.iguopin.com/notice",
-      "checkedAt": "2026-11-09",
-      "match": "需咨询"
-    },
     {
       "id": "active-ruifeng-bank-2027-management-trainee",
       "employer": "瑞丰银行",
       "role": "管理培训生（总行职能／支行管理方向，2人）",
       "deadline": "2026-11-20",
-      "deadlineTime": "",
+      "deadlineTime": "16:00",
       "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
-      "match": "专业需咨询"
+      "checkedAt": "2026-11-16",
+      "match": "需咨询"
     },
     {
       "id": "watch-nbdata-trainee-2027-20261105",
@@ -579,7 +513,7 @@
       "deadline": "2026-11-19",
       "deadlineTime": "17:00",
       "source": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_8680a5def5d34427a3677344538abd95.html",
-      "checkedAt": "2026-11-09",
+      "checkedAt": "2026-11-16",
       "match": "需咨询"
     },
     {
@@ -587,22 +521,44 @@
       "employer": "瑞丰银行",
       "role": "综合培训生（支行轮岗，10人）",
       "deadline": "2026-11-20",
-      "deadlineTime": "",
+      "deadlineTime": "16:00",
       "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+      "checkedAt": "2026-11-16",
       "match": "生源地需咨询"
-    },
-    {
-      "id": "watch-airchina-zhejiang-ground-business-2027",
-      "employer": "中国国际航空股份有限公司浙江分公司（含温州分公司）",
-      "role": "地面业务类岗位（杭州方向，非专门财会岗）",
-      "deadline": "2026-11-15",
-      "deadlineTime": "24:00",
-      "source": "https://zhaopin.airchina.com.cn/campus/jobs/2026/10/185639.shtml",
-      "checkedAt": "2026-11-09",
-      "match": "专业需咨询"
     }
   ],
   "recentUpdates": [
+    {
+      "date": "2026-11-16",
+      "type": "云端检查",
+      "title": "云端每日检查：48项来源可读，67项待重试",
+      "detail": "已保留全部历史岗位与人工状态；0条新增候选，5条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
+      "cloudOperational": true
+    },
+    {
+      "date": "2026-11-16",
+      "type": "截止处理",
+      "title": "11月15日到期岗位按既有期限转为已截止",
+      "detail": "广发银行宁波分行财务管理类、营销英才，中国进出口银行宁波/浙江分行财务会计类及国航浙江地面业务类均已过既有11月15日期限；本次未取得官方延期或恢复依据，云端工作流按已知时点转为已截止。"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "状态核验",
+      "title": "宁波轨交官网当前校园及社会招聘列表均为0条",
+      "detail": "11月16日实读官方校园招聘、社会招聘和全部岗位列表，均显示0条；此前首页内容变化未对应到具体岗位。保留宁波轨交观察项，不推断未来无招聘，也不刷新完整资格checkedAt。"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "临近截止",
+      "title": "宁波数据集团管培生11月19日17:00截止，125300仍需电话确认",
+      "detail": "官方公告完整复核：管培生6人，明确接受2027届硕士，专业写管理学、经济学、理学、法学、金融学等宽泛类别，未明确会计专硕125300；党员仅为优先条件。建议11月19日17:00前致电0574-87861637或0574-89281859确认专业口径。"
+    },
+    {
+      "date": "2026-11-16",
+      "type": "资格修正",
+      "title": "瑞丰银行管理培训生调整为专业需咨询，综合培训生保留身份条件待核",
+      "detail": "11月16日完整复核官方公告：管理培训生2人要求985/211的2027届本科及以上，专业只列会计学、财务管理、税务、审计等相关专业，未明确会计专硕125300，已由可投调整为需咨询；综合培训生10人专业不限，但要求浙江生源地，且本科生高考达到第一批（特控线），继续保留待核。两岗均于11月20日16:00截止，每人限报一个岗位。"
+    },
     {
       "date": "2026-11-15",
       "type": "云端检查",
@@ -646,37 +602,6 @@
       "type": "下线与条件变化",
       "title": "补录联通4地会计岗位下线及宁银消金方向变化",
       "detail": "11月11日同ID页面显示宁波、杭州、舟山、台州联通会计核算与管理岗位下线，已移出可行动岗位；宁银消金总部培训生增加法律合规方向，财务核算预算方向、15人及11月30日期限未变。此处均使用11月11日核验日期。"
-    },
-    {
-      "date": "2026-11-14",
-      "type": "历史核验补录",
-      "title": "补入11月11日已核实的人保3岗、浙江国贸10条待核线索",
-      "detail": "这些记录为11月11日取得的官方证据，现迁入云端数据，不表示11月14日新发布或重新核验。人保3岗明确2027届、专业不限，寿险两岗偏营销培训和个险管理；浙江国贸10岗均保留专业需咨询，只有其中2岗明确27届。平台占位或统一结束日期未作为批次截止。"
-    },
-    {
-      "date": "2026-11-09",
-      "type": "临近截止",
-      "title": "2027浙江省考11月11日17:00截止：现有163条候选条件未变",
-      "detail": "官方省级及六市公告、8份职位表重核无条件或人数变化，现有163条保持98条优先核对投递、65条条件待核。余姚财政局1人（0574-89553073）、民政局1人（0574-89280964）、镇海会计核算中心女2人（0574-89287223）可优先核对。每人限报一岗，通过初审不能改报。"
-    },
-    {
-      "date": "2026-11-09",
-      "type": "来源补齐",
-      "title": "2024余姚历史分数新增官方原件佐证，三年209条省考来源已核",
-      "detail": "新定位官方原公告及首批资格复审/体测附件，2024年77条与原镜像逐字节一致；2025/26年132条继续一致。228条历史最低分本次重新聚合全部一致，数值不变。19条税务仍保留镜像来源，不能将合格线或最终面试成绩混入。"
-    },
-    {
-      "date": "2026-11-09",
-      "type": "临近截止",
-      "title": "广发宁波财务与进出口银行财会11月15日截止",
-      "detail": "广发宁波财务管理1人、营销岗及本行公告均复核；进出口银行宁波/浙江财务会计官方PDF重新下载且与11月7日一致，11月15日24时截止。专业口径仍须咨询；国航浙江非财会方向同为11月15日24时截止。"
-    },
-    {
-      "date": "2026-11-09",
-      "type": "截止提醒",
-      "title": "宁波水务财务管培本周四17:00截止，开投和数据集团本周陆续开放",
-      "detail": "水务11月12日17:00截止，财务管培1人明确2027硕士但只列会计学/财管/审计，125300请工作日咨询0574-27878672、27878807、83867523。开投经济类4人11月12日09:00开放，需兼核本科专业；数据集团管培6人11月13日09:00开放，宽泛管理类需确认125300。官方公告均与11月7日一致。",
-      "source": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_6037432d69814634bf9f4e932628667c.html"
     }
   ],
   "rejectedInbox": [],
@@ -688,14 +613,6 @@
       "source": "https://gongniu.zhiye.com/campus/detail?jobAdId=8e974282-4306-427d-82eb-309ab9463f6d",
       "stage": "active",
       "checkedAt": "2026-11-02"
-    },
-    {
-      "id": "live-cgb-nb-finance-2027",
-      "employer": "广发银行宁波分行",
-      "role": "分行财务管理类（宁波，1人）",
-      "source": "https://chinalife.zhiye.com/campus/detail?jobAdId=6b90390f-31c7-47fd-832b-cc643617dbb5",
-      "stage": "active",
-      "checkedAt": "2026-11-09"
     },
     {
       "id": "live-nbcb-hq-trainee-2027",
@@ -788,14 +705,6 @@
       "stage": "watch"
     },
     {
-      "id": "watch-eximbank-nb-finance-2027",
-      "employer": "中国进出口银行宁波分行",
-      "role": "财务会计类（2027校园招聘）",
-      "source": "https://eximbank2027.iguopin.com/notice",
-      "stage": "watch",
-      "checkedAt": "2026-11-09"
-    },
-    {
       "id": "live-picc-nb-comprehensive-2027",
       "employer": "中国人民财产保险股份有限公司宁波市分公司",
       "role": "宁波财险校招导航（综合岗／管理培训生）",
@@ -865,28 +774,12 @@
       "checkedAt": "2026-11-09"
     },
     {
-      "id": "live-cgb-nb-marketing-2027",
-      "employer": "广发银行宁波分行",
-      "role": "分行营销英才（宁波，8人）",
-      "source": "https://chinalife.zhiye.com/campus/detail?jobAdId=76aee9ff-fe8c-47c0-a709-dbb5cfa8f573",
-      "stage": "active",
-      "checkedAt": "2026-11-09"
-    },
-    {
       "id": "live-geely-nb-finance-bp-incubation-2027",
       "employer": "吉利汽车集团",
       "role": "财务BP岗（孵化项目）",
       "source": "https://campus.geely.com/campus-recruitment/geely/78436/#/job/780de565-3ef9-4abb-8bfb-8f3f5e389c88",
       "stage": "watch",
       "checkedAt": "2026-10-28"
-    },
-    {
-      "id": "watch-eximbank-zj-finance-2027",
-      "employer": "中国进出口银行浙江省分行",
-      "role": "财务会计类（2027校园招聘）",
-      "source": "https://eximbank2027.iguopin.com/notice",
-      "stage": "watch",
-      "checkedAt": "2026-11-09"
     },
     {
       "id": "live-deloitte-2027-7284",
@@ -929,7 +822,8 @@
       "employer": "瑞丰银行",
       "role": "管理培训生（总行职能／支行管理方向，2人）",
       "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
-      "stage": "active"
+      "stage": "watch",
+      "checkedAt": "2026-11-16"
     },
     {
       "id": "soe-18",
@@ -1194,7 +1088,7 @@
       "role": "管培生（6人；非财会定向）",
       "source": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_8680a5def5d34427a3677344538abd95.html",
       "stage": "watch",
-      "checkedAt": "2026-11-09"
+      "checkedAt": "2026-11-16"
     },
     {
       "id": "watch-cmb-winter-nbxz20270403-2027",
@@ -1232,7 +1126,8 @@
       "employer": "瑞丰银行",
       "role": "综合培训生（支行轮岗，10人）",
       "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
-      "stage": "watch"
+      "stage": "watch",
+      "checkedAt": "2026-11-16"
     },
     {
       "id": "watch-nci-zj-accounting-j16824-2027",
@@ -1457,14 +1352,6 @@
       "role": "财务会计、资金、融资、审计、绩效评价、资产运营",
       "source": "https://www.yy.gov.cn/",
       "stage": "watch"
-    },
-    {
-      "id": "watch-airchina-zhejiang-ground-business-2027",
-      "employer": "中国国际航空股份有限公司浙江分公司（含温州分公司）",
-      "role": "地面业务类岗位（杭州方向，非专门财会岗）",
-      "source": "https://zhaopin.airchina.com.cn/campus/jobs/2026/10/185639.shtml",
-      "stage": "watch",
-      "checkedAt": "2026-11-09"
     },
     {
       "id": "soe-3",
