@@ -13,13 +13,13 @@
   "lastResearchAt": "2026-11-16",
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-16T00:50:47.934Z",
-    "completedAt": "2026-11-16T00:52:32.666Z",
-    "lastSuccessfulAt": "2026-11-16T00:52:32.666Z",
-    "fetchedSources": 47,
-    "failedSources": 68,
-    "changedSources": 1,
-    "pendingLeads": 15,
+    "checkedAt": "2026-11-16T06:52:45.864Z",
+    "completedAt": "2026-11-16T06:54:28.076Z",
+    "lastSuccessfulAt": "2026-11-16T06:54:28.076Z",
+    "fetchedSources": 48,
+    "failedSources": 67,
+    "changedSources": 3,
+    "pendingLeads": 16,
     "lastResearchAt": "2026-11-16",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
@@ -376,6 +376,15 @@
   ],
   "pendingLeads": [
     {
+      "key": "e64716fca6aa80433d2fc2a49d957be19d3d97eeaefd8e40b051df034b78a776",
+      "url": "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=64946a06-48f5-4f4b-884c-ca31d7e786ab&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D",
+      "title": "中国人寿保险股份有限公司宁波市分公司 费用会计岗（1人）",
+      "jobId": "live-chinalife-nb-expense-accountant-2027",
+      "source": "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=64946a06-48f5-4f4b-884c-ca31d7e786ab&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D",
+      "firstSeenAt": "2026-11-16",
+      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
+    },
+    {
       "url": "https://www.psbc.com/cn/gyyc/rczp/xyzp/",
       "title": "人才招聘",
       "key": "056418a3f6e2baa21a28fe62be4d227d8ab9c0811083a6232db915b02f197d67",
@@ -532,7 +541,7 @@
     {
       "date": "2026-11-16",
       "type": "云端检查",
-      "title": "云端每日检查：47项来源可读，68项待重试",
+      "title": "云端每日检查：48项来源可读，67项待重试",
       "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
       "cloudOperational": true
     },

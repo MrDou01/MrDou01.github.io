@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "1b2326b6069e7c2e68344c771b4e9f0a74ab2703ef73751075bc5d3650c240fc",
+      "sha256": "f92f1fc162ebdd7d12498dca9f416e99b69a13a1e83d948f72ad8716d72af03a",
       "lastFetchedAt": "2026-11-16",
       "name": "致同2027校园招聘"
     },
@@ -27,7 +27,7 @@
       "name": "国家能源集团2027统招公告"
     },
     "https://www.chinatax.gov.cn/": {
-      "sha256": "4013f35cfe681527122d94207ddbdf72493141b8b792aa262c62a9e127c8ad30",
+      "sha256": "a5a5abb2157d343c28ea4949862e3bd55d69083d0f5e19e5d41aa70c08d2b25e",
       "lastFetchedAt": "2026-11-16",
       "name": "国家税务总局"
     },
@@ -232,7 +232,7 @@
       "name": "公牛集团股份有限公司 财务管理岗（J23834）"
     },
     "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=64946a06-48f5-4f4b-884c-ca31d7e786ab&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D": {
-      "sha256": "25224fd2ba481e0dc3ebf9890aeb6b3c3c5cf78c8e59ec8f72f8580b4ae551e9",
+      "sha256": "e9f35a504e08cc7378761c4498cc7392e11a4e88df1f04eb5fb08c65f3f6927c",
       "lastFetchedAt": "2026-11-16",
       "name": "中国人寿保险股份有限公司宁波市分公司 费用会计岗（1人）"
     },
@@ -427,6 +427,15 @@
       "firstSeenAt": "2026-11-15",
       "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板",
       "resolvedAt": "2026-11-16"
+    },
+    "e64716fca6aa80433d2fc2a49d957be19d3d97eeaefd8e40b051df034b78a776": {
+      "key": "e64716fca6aa80433d2fc2a49d957be19d3d97eeaefd8e40b051df034b78a776",
+      "url": "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=64946a06-48f5-4f4b-884c-ca31d7e786ab&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D",
+      "title": "中国人寿保险股份有限公司宁波市分公司 费用会计岗（1人）",
+      "jobId": "live-chinalife-nb-expense-accountant-2027",
+      "source": "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=64946a06-48f5-4f4b-884c-ca31d7e786ab&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D",
+      "firstSeenAt": "2026-11-16",
+      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
     }
   },
   "processed": {
