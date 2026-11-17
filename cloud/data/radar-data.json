@@ -29826,7 +29826,7 @@
     {
       "date": "2026-11-17",
       "type": "云端检查",
-      "title": "云端每日检查：48项来源可读，66项待重试",
+      "title": "云端每日检查：46项来源可读，68项待重试",
       "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
       "cloudOperational": true
     },
@@ -33896,11 +33896,11 @@
   ],
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-17T00:34:20.402Z",
-    "completedAt": "2026-11-17T00:35:54.378Z",
-    "lastSuccessfulAt": "2026-11-17T00:35:54.378Z",
-    "fetchedSources": 48,
-    "failedSources": 66,
+    "checkedAt": "2026-11-17T08:10:59.582Z",
+    "completedAt": "2026-11-17T08:12:48.015Z",
+    "lastSuccessfulAt": "2026-11-17T08:12:48.015Z",
+    "fetchedSources": 46,
+    "failedSources": 68,
     "changedSources": 2,
     "pendingLeads": 15,
     "lastResearchAt": "2026-11-17",

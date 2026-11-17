@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "42e28c22f6e0577e6d70e63d3733e81d3ad3bd65f210da8d4f0d399772acf48a",
+      "sha256": "44ccf9f39ba67f6f2b535863b2eec6169295c19a5b212f39c633a129eded7c5d",
       "lastFetchedAt": "2026-11-17",
       "name": "致同2027校园招聘"
     },
@@ -27,7 +27,7 @@
       "name": "国家能源集团2027统招公告"
     },
     "https://www.chinatax.gov.cn/": {
-      "sha256": "6919b4170bad93ded6668c91cbba2ae101922aef7262dd82a5bb6eaa037f7f1f",
+      "sha256": "c51dabbc8f016bfba244106209489b0ef2d11e74f2ac0b87255511c449d0c603",
       "lastFetchedAt": "2026-11-17",
       "name": "国家税务总局"
     },
