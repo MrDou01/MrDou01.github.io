@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "id": "research-2026-11-17-0833-001",
+  "date": "2026-11-17",
+  "jobs": [],
+  "patches": [
+    {
+      "id": "live-chinalife-nb-expense-accountant-2027",
+      "stage": "expired",
+      "status": "官方同一岗位接口已由在招状态转为Status=2，公开详情页不再显示岗位正文；已移出当前可投，未公布真实截止日期",
+      "statusCheckedAt": "2026-11-17",
+      "action": "不再按当前可投岗位推荐；如官方后续发布恢复或延期通知再重新核验。",
+      "evidence": {
+        "kind": "official",
+        "url": "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=64946a06-48f5-4f4b-884c-ca31d7e786ab&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D",
+        "observedAt": "2026-11-17",
+        "excerpt": "官方同一JobAdId接口返回：\"Code\":200，\"JobAdName\":\"费用会计岗\"，\"Org\":\"寿险宁波分公司\"，\"Category\":\"校园招聘\"，\"HeadCount\":1，\"Status\":2；同时仍返回\"EndTimeInt\":0、\"EndTime\":\"2222-02-02T00:00:00\"。此前已存证据为同ID Status=1。本次仅据Status由1变2及公开详情页不再显示岗位正文判定下线，不把2222占位日期当作真实截止日。",
+        "scope": "status"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "宁波市人力资源和社会保障局｜北仑区事业单位公开招聘公告",
+      "url": "https://rsj.ningbo.gov.cn/col/col1229676740/art/2026/art_2f851d7e5a1b489684471c76af020740.html",
+      "group": "政府/事业单位"
+    }
+  ],
+  "updates": [
+    {
+      "date": "2026-11-17",
+      "type": "岗位下线",
+      "title": "中国人寿宁波费用会计岗已下线",
+      "detail": "官方同一岗位接口的Status由1变为2，公开详情页不再显示岗位正文；已将原待核岗位移至已截止/下线，未推断具体截止日，也未刷新完整资格checkedAt。"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "新增公告待核",
+      "title": "北仑区事业单位新公告允许2027届报名",
+      "detail": "官方公告明确：2027年普通高校毕业生可凭就业协议或推荐表报名，硕士研究生及以上户籍不限；报名时间为2026年11月18日9:00至11月24日16:00，聘用人员须在北仑服务满5年。转载职位表显示财务会计线索，但官方计划表附件在本次云端访问中重定向后返回403，具体岗位代码、人数及附加条件未完成官方原件核验，因此不激活岗位，保留待核。"
+    }
+  ],
+  "summary": "2026-11-17按北京时间检查中国人寿宁波费用会计岗官方同ID接口及公开详情页，确认状态由Status=1变为2并下线；主动检索宁波地区近期财会公告，实读北仑区事业单位官方公告，确认2027届、硕士户籍不限、报名期和5年服务期，但官方计划表附件云端访问受限，未采用转载表格激活具体岗位。未把页面空白、附件403或2222占位日期推断为延期、重开或具体截止。"
+}
