@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "da9512d7cd8a3c928667564289c36fc10ac2007864eedb023b5c81211cc8a76f",
+      "sha256": "8a1db738220fed9af2ec323db505aa64a31e77cfe2fe30e59fbd3e6ff4071100",
       "lastFetchedAt": "2026-11-18",
       "name": "致同2027校园招聘"
     },
@@ -475,6 +475,12 @@
       "sha256": "f3610be7aa18a5ce8504d2d3d659ccf19d2c8fd5ca980eed5b00f4f0442cc0d7",
       "date": "2026-11-18",
       "acceptedAt": "2026-11-18T00:38:43.052Z"
+    },
+    "research-2026-11-18-0844-002": {
+      "file": "research-2026-11-18-0844-002.json",
+      "sha256": "b87cd37531230fe469592ece6729c1c85682c1ff80ce78540ee08a8d755b6723",
+      "date": "2026-11-18",
+      "acceptedAt": "2026-11-18T00:43:37.110Z"
     }
   },
   "rejected": {},
