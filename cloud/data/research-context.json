@@ -13,13 +13,13 @@
   "lastResearchAt": "2026-11-18",
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-18T00:43:37.110Z",
-    "completedAt": "2026-11-18T00:45:25.129Z",
-    "lastSuccessfulAt": "2026-11-18T00:45:25.129Z",
-    "fetchedSources": 47,
-    "failedSources": 67,
-    "changedSources": 1,
-    "pendingLeads": 15,
+    "checkedAt": "2026-11-18T07:44:41.329Z",
+    "completedAt": "2026-11-18T07:46:24.832Z",
+    "lastSuccessfulAt": "2026-11-18T07:46:24.832Z",
+    "fetchedSources": 48,
+    "failedSources": 66,
+    "changedSources": 3,
+    "pendingLeads": 17,
     "lastResearchAt": "2026-11-18",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
@@ -376,6 +376,23 @@
   ],
   "pendingLeads": [
     {
+      "url": "https://www.chinatax.gov.cn/zcfgk/c103098/c5253602/content.html",
+      "title": "许会计讲合规：老板们请注意！税费优惠政策千万别滥用",
+      "key": "0dcf48255fd1cbc30a4250668e00468fb8d90bee2a5f1ca8e66cdbaa29885611",
+      "source": "https://www.chinatax.gov.cn/",
+      "firstSeenAt": "2026-11-18",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "key": "255cfdcdb86c184ad7065e3c86da0ad7750bd7174e8b2257e872300d6ab7657a",
+      "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&c=-1&p=1%5E9",
+      "title": "新华人寿保险股份有限公司浙江分公司 浙江分公司—会计核算岗（J16824）",
+      "jobId": "watch-nci-zj-accounting-j16824-2027",
+      "source": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&c=-1&p=1%5E9",
+      "firstSeenAt": "2026-11-18",
+      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
+    },
+    {
       "url": "https://www.psbc.com/cn/gyyc/rczp/xyzp/",
       "title": "人才招聘",
       "key": "056418a3f6e2baa21a28fe62be4d227d8ab9c0811083a6232db915b02f197d67",
@@ -532,7 +549,7 @@
     {
       "date": "2026-11-18",
       "type": "云端检查",
-      "title": "云端每日检查：47项来源可读，67项待重试",
+      "title": "云端每日检查：48项来源可读，66项待重试",
       "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
       "cloudOperational": true
     },

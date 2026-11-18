@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "8a1db738220fed9af2ec323db505aa64a31e77cfe2fe30e59fbd3e6ff4071100",
+      "sha256": "94976c5c09c5ac163f659bbac19af23235e6fb50c731224f0263146d3ae90abb",
       "lastFetchedAt": "2026-11-18",
       "name": "致同2027校园招聘"
     },
@@ -27,7 +27,7 @@
       "name": "国家能源集团2027统招公告"
     },
     "https://www.chinatax.gov.cn/": {
-      "sha256": "c51dabbc8f016bfba244106209489b0ef2d11e74f2ac0b87255511c449d0c603",
+      "sha256": "8fbd0ca5f12c424a5096ca71ff03cf92ce8b438f8e1ecfa9c1443978383e5ac6",
       "lastFetchedAt": "2026-11-18",
       "name": "国家税务总局"
     },
@@ -143,7 +143,7 @@
     },
     "https://job.10086.cn/": {
       "sha256": "a4224fc037e9e09d8d651caf73e0e52c4029eeaaf1ee8d3c19972822e5628fb8",
-      "lastFetchedAt": "2026-11-16",
+      "lastFetchedAt": "2026-11-18",
       "name": "中国移动通信集团浙江有限公司 宁波／余姚财务管理岗位监控"
     },
     "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html": {
@@ -222,7 +222,7 @@
       "name": "招商银行宁波分行 市场营销岗（县域支行）（冬季校招）"
     },
     "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&c=-1&p=1%5E9": {
-      "sha256": "8029aff20883276d049ab426a6fbdb38a817ef3eac8773eb2c43ec1e6984d02a",
+      "sha256": "317c8762dbdf1b032231fdd4e16d167cbaad1ed9cfb119e2674ed700fbb4f285",
       "lastFetchedAt": "2026-11-18",
       "name": "新华人寿保险股份有限公司浙江分公司 浙江分公司—会计核算岗（J16824）"
     },
@@ -437,6 +437,23 @@
       "firstSeenAt": "2026-11-16",
       "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板",
       "resolvedAt": "2026-11-17"
+    },
+    "0dcf48255fd1cbc30a4250668e00468fb8d90bee2a5f1ca8e66cdbaa29885611": {
+      "url": "https://www.chinatax.gov.cn/zcfgk/c103098/c5253602/content.html",
+      "title": "许会计讲合规：老板们请注意！税费优惠政策千万别滥用",
+      "key": "0dcf48255fd1cbc30a4250668e00468fb8d90bee2a5f1ca8e66cdbaa29885611",
+      "source": "https://www.chinatax.gov.cn/",
+      "firstSeenAt": "2026-11-18",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "255cfdcdb86c184ad7065e3c86da0ad7750bd7174e8b2257e872300d6ab7657a": {
+      "key": "255cfdcdb86c184ad7065e3c86da0ad7750bd7174e8b2257e872300d6ab7657a",
+      "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&c=-1&p=1%5E9",
+      "title": "新华人寿保险股份有限公司浙江分公司 浙江分公司—会计核算岗（J16824）",
+      "jobId": "watch-nci-zj-accounting-j16824-2027",
+      "source": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&c=-1&p=1%5E9",
+      "firstSeenAt": "2026-11-18",
+      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
     }
   },
   "processed": {
