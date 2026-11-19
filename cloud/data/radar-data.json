@@ -6,7 +6,7 @@
     "degree": "会计专业硕士",
     "code": "125300",
     "target": "宁波全域及周边地区",
-    "updatedAt": "2026-11-18",
+    "updatedAt": "2026-11-19",
     "cadence": "每日更新"
   },
   "jobs": [
@@ -2815,10 +2815,10 @@
       "priority": 85,
       "deadlineTime": "16:00",
       "checkedAt": "2026-11-16",
-      "deadlineCheckedAt": "2026-11-16",
+      "deadlineCheckedAt": "2026-11-19",
       "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准",
       "verificationSource": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
-      "verificationScope": "管理培训生：生源地全国；2027年应届全日制本科及以上学历，985、211高校；专业要求为会计学、财务管理、税务、资产评估、审计、法学、法律、文秘、汉语言文学、新闻学、人力资源、经济、金融、投资、统计、数学等相关专业，本科或研究生为上述专业；需求2人。应聘者只能报考一个岗位。招聘报名时间即日起至11月20日16:00。",
+      "verificationScope": "管理培训生：985、211高校2027年应届全日制本科及以上学历；会计学、财务管理、税务、资产评估、审计等相关专业。招聘报名时间：即日起至11月20日16:00；应聘者只能报考一个岗位。",
       "statusUpdatedAt": "2026-11-16"
     },
     {
@@ -10851,7 +10851,7 @@
       "stage": "watch",
       "education": "硕士研究生及以上学历学位",
       "checkedAt": "2026-11-16",
-      "deadlineCheckedAt": "2026-11-16",
+      "deadlineCheckedAt": "2026-11-19",
       "year": 2027,
       "id": "watch-nbdata-trainee-2027-20261105",
       "employer": "宁波数据集团有限公司",
@@ -10870,7 +10870,7 @@
       "note": "管理学为宽泛类别，不能自行推定包含会计专业硕士125300；中共党员仅为优先条件。",
       "action": "11月19日17:00前电话确认125300是否可报；电话0574-87861637、0574-89281859。",
       "evidenceFile": "work/daily/2026-11-07/root-evidence/nbdata.html",
-      "verificationScope": "宁波数据集团管培生6人：2025年、2026年毕业生，2027年应届毕业生；硕士研究生及以上学历学位，管理学、经济学、理学、法学、金融学、计算机科学与技术、软件工程、信息与通信工程、自动化等相关专业；年龄30周岁及以下；中共党员（含预备党员）优先。报名时间为2026年11月13日9:00至11月19日17:00，每人限报名一个岗位。",
+      "verificationScope": "报名时间为2026年11月13日9:00-11月19日17:00（报名系统端口仅在报名时间内开放），每人限报名一个岗位。",
       "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准",
       "verificationSource": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_8680a5def5d34427a3677344538abd95.html"
     },
@@ -11012,10 +11012,10 @@
       "priority": 78,
       "deadlineTime": "16:00",
       "checkedAt": "2026-11-16",
-      "deadlineCheckedAt": "2026-11-16",
+      "deadlineCheckedAt": "2026-11-19",
       "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准",
       "verificationSource": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
-      "verificationScope": "综合培训生：生源地浙江；通过支行轮岗实践，培养成为精通业务营销、团队管理、财务会计等综合性人才；国内高校及国际知名院校2027年应届全日制本科及以上学历，其中本科生要求高考分数达到第一批（特控线）录取线；专业不限；需求10人。应聘者只能报考一个岗位。招聘报名时间即日起至11月20日16:00。"
+      "verificationScope": "综合培训生：生源地浙江，2027年应届全日制本科及以上学历，本科生要求高考分数达到第一批（特控线）录取线，专业不限。招聘报名时间：即日起至11月20日16:00。"
     },
     {
       "id": "watch-nci-zj-accounting-j16824-2027",
@@ -11041,10 +11041,11 @@
       "checkedAt": "2026-11-09",
       "priority": 78,
       "evidenceFile": "work/daily/2026-11-09/finance-evidence/bank-and-insurance-pages.json",
-      "verificationSource": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&c=-1&p=1%5E9",
+      "verificationSource": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
       "evidenceLevel": "11月3日官方J16824具体页面全文实读：杭州、大学本科以上、法律金融等专业、从业经历优先、2027年6月30日期限保持；具体2027毕业届别与125300仍需确认。",
       "deadlineCheckedAt": "2026-11-09",
-      "verificationScope": "11月9日复读对应官方公告/具体岗位完整正文；现有截止、专业及届别判断保持。未登录投递、未电话确认个人资格。"
+      "verificationScope": "浙江分公司-会计核算岗(J16824)，招聘类别：校园招聘；发布时间：2026-10-12；截止时间：2027-06-30；工作地点：浙江省-杭州市。任职资格：大学本科及以上学历，法律、金融等专业，有金融相关行业从业经历者优先。",
+      "statusCheckedAt": "2026-11-19"
     },
     {
       "category": "国有控股银行",
@@ -29824,6 +29825,43 @@
   ],
   "updates": [
     {
+      "date": "2026-11-19",
+      "type": "云端检查",
+      "title": "云端每日检查：48项来源可读，66项待重试",
+      "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
+      "cloudOperational": true
+    },
+    {
+      "date": "2026-11-19",
+      "type": "research-scope",
+      "title": "11月19日云端研究范围",
+      "detail": "实读宁波数据集团、瑞丰银行和新华保险官方页面，并主动检索宁波、杭州、绍兴、舟山、台州、嘉兴等目标地区财会及综合管理类新公告；抓取失败或仅转载内容均未推断为新增、截止或重开。"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "limited-source",
+      "title": "人保财险嘉兴2027校招线索待官方职位表核验",
+      "detail": "检索到转载公告及职位表线索，但未取得可实读的招聘单位官方岗位原文，未新增或激活岗位。"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "status-check",
+      "title": "新华保险杭州会计核算岗内容未见资格变化",
+      "detail": "官方详情仍列校园招聘、杭州、2027年6月30日截止及本科以上/法律金融等专业；2027届和125300均未明确，继续watch，本次不刷新完整资格checkedAt。"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "deadline-check",
+      "title": "瑞丰银行两岗明日16:00截止",
+      "detail": "官方校招公告仍显示11月20日16:00截止且每人限报一个岗位；管理培训生的125300专业口径、综合培训生的浙江生源地及本科高考线条件均按原记录保留。"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "deadline-check",
+      "title": "宁波数据集团管培生今日17:00截止",
+      "detail": "官方公告仍显示11月19日17:00截止；125300是否包含在宽泛管理学范围内仍须电话确认，本次仅刷新期限核验，不刷新完整资格checkedAt。"
+    },
+    {
       "date": "2026-11-18",
       "type": "云端检查",
       "title": "云端每日检查：48项来源可读，66项待重试",
@@ -33934,18 +33972,28 @@
       "name": "浙江省能源集团招聘系统",
       "url": "https://hrx.zjenergy.com.cn/recruit/talent/official.html",
       "group": "央国企"
+    },
+    {
+      "name": "瑞丰银行2027秋季校园招聘启事",
+      "url": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+      "group": "银行"
+    },
+    {
+      "name": "新华保险浙江分公司会计核算岗J16824",
+      "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
+      "group": "央企保险"
     }
   ],
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-18T07:44:41.329Z",
-    "completedAt": "2026-11-18T07:46:24.832Z",
-    "lastSuccessfulAt": "2026-11-18T07:46:24.832Z",
+    "checkedAt": "2026-11-19T00:33:23.541Z",
+    "completedAt": "2026-11-19T00:35:10.705Z",
+    "lastSuccessfulAt": "2026-11-19T00:35:10.705Z",
     "fetchedSources": 48,
     "failedSources": 66,
-    "changedSources": 3,
-    "pendingLeads": 17,
-    "lastResearchAt": "2026-11-18",
+    "changedSources": 2,
+    "pendingLeads": 16,
+    "lastResearchAt": "2026-11-19",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
   }
