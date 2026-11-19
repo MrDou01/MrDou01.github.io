@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "id": "research-2026-11-19-0832-deadlines-nci",
+  "date": "2026-11-19",
+  "jobs": [],
+  "patches": [
+    {
+      "id": "watch-nbdata-trainee-2027-20261105",
+      "status": "报名中｜明确2027届硕士；宽泛管理学等专业未明确125300｜专业需咨询（125300未明确）",
+      "deadlineCheckedAt": "2026-11-19",
+      "evidence": {
+        "kind": "official",
+        "url": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_8680a5def5d34427a3677344538abd95.html",
+        "observedAt": "2026-11-19",
+        "excerpt": "报名时间为2026年11月13日9:00-11月19日17:00（报名系统端口仅在报名时间内开放），每人限报名一个岗位。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "active-ruifeng-bank-2027-management-trainee",
+      "status": "报名中｜2027届、211院校条件匹配；专业仅列会计学/财务管理等，125300需向招聘方确认｜专业需咨询（125300未明确）",
+      "deadlineCheckedAt": "2026-11-19",
+      "evidence": {
+        "kind": "official",
+        "url": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+        "observedAt": "2026-11-19",
+        "excerpt": "管理培训生：985、211高校2027年应届全日制本科及以上学历；会计学、财务管理、税务、资产评估、审计等相关专业。招聘报名时间：即日起至11月20日16:00；应聘者只能报考一个岗位。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "watch-ruifeng-bank-2027-comprehensive-trainee",
+      "status": "报名中｜专业不限；浙江生源地及本科高考一批/特控线条件需核对",
+      "deadlineCheckedAt": "2026-11-19",
+      "evidence": {
+        "kind": "official",
+        "url": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+        "observedAt": "2026-11-19",
+        "excerpt": "综合培训生：生源地浙江，2027年应届全日制本科及以上学历，本科生要求高考分数达到第一批（特控线）录取线，专业不限。招聘报名时间：即日起至11月20日16:00。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "watch-nci-zj-accounting-j16824-2027",
+      "status": "官方校园岗在列｜2027届及125300须确认",
+      "statusCheckedAt": "2026-11-19",
+      "evidence": {
+        "kind": "official",
+        "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
+        "observedAt": "2026-11-19",
+        "excerpt": "浙江分公司-会计核算岗(J16824)，招聘类别：校园招聘；发布时间：2026-10-12；截止时间：2027-06-30；工作地点：浙江省-杭州市。任职资格：大学本科及以上学历，法律、金融等专业，有金融相关行业从业经历者优先。",
+        "scope": "status"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "宁波市国资委—宁波数据集团招聘公告",
+      "url": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_8680a5def5d34427a3677344538abd95.html",
+      "group": "宁波市属国企"
+    },
+    {
+      "name": "瑞丰银行2027秋季校园招聘启事",
+      "url": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+      "group": "银行"
+    },
+    {
+      "name": "新华保险浙江分公司会计核算岗J16824",
+      "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
+      "group": "央企保险"
+    }
+  ],
+  "updates": [
+    {
+      "date": "2026-11-19",
+      "type": "deadline-check",
+      "title": "宁波数据集团管培生今日17:00截止",
+      "detail": "官方公告仍显示11月19日17:00截止；125300是否包含在宽泛管理学范围内仍须电话确认，本次仅刷新期限核验，不刷新完整资格checkedAt。"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "deadline-check",
+      "title": "瑞丰银行两岗明日16:00截止",
+      "detail": "官方校招公告仍显示11月20日16:00截止且每人限报一个岗位；管理培训生的125300专业口径、综合培训生的浙江生源地及本科高考线条件均按原记录保留。"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "status-check",
+      "title": "新华保险杭州会计核算岗内容未见资格变化",
+      "detail": "官方详情仍列校园招聘、杭州、2027年6月30日截止及本科以上/法律金融等专业；2027届和125300均未明确，继续watch，本次不刷新完整资格checkedAt。"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "limited-source",
+      "title": "人保财险嘉兴2027校招线索待官方职位表核验",
+      "detail": "检索到转载公告及职位表线索，但未取得可实读的招聘单位官方岗位原文，未新增或激活岗位。"
+    },
+    {
+      "date": "2026-11-19",
+      "type": "research-scope",
+      "title": "11月19日云端研究范围",
+      "detail": "实读宁波数据集团、瑞丰银行和新华保险官方页面，并主动检索宁波、杭州、绍兴、舟山、台州、嘉兴等目标地区财会及综合管理类新公告；抓取失败或仅转载内容均未推断为新增、截止或重开。"
+    }
+  ],
+  "summary": "2026-11-19北京时间08:31起云端检查：核验今日/明日截止岗位与新华保险待核页面，主动检索目标地区新公告。记录3个期限状态与1个官方页面状态；未以转载激活人保嘉兴线索，未更新任何完整资格checkedAt。"
+}
