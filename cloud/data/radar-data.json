@@ -6,7 +6,7 @@
     "degree": "会计专业硕士",
     "code": "125300",
     "target": "宁波全域及周边地区",
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-20",
     "cadence": "每日更新"
   },
   "jobs": [
@@ -2815,7 +2815,7 @@
       "priority": 85,
       "deadlineTime": "16:00",
       "checkedAt": "2026-11-16",
-      "deadlineCheckedAt": "2026-11-19",
+      "deadlineCheckedAt": "2026-11-20",
       "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准",
       "verificationSource": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
       "verificationScope": "管理培训生：985、211高校2027年应届全日制本科及以上学历；会计学、财务管理、税务、资产评估、审计等相关专业。招聘报名时间：即日起至11月20日16:00；应聘者只能报考一个岗位。",
@@ -10848,10 +10848,10 @@
       "region": "宁波市区",
       "direction": "央国企",
       "match": "需咨询",
-      "stage": "watch",
+      "stage": "expired",
       "education": "硕士研究生及以上学历学位",
       "checkedAt": "2026-11-16",
-      "deadlineCheckedAt": "2026-11-19",
+      "deadlineCheckedAt": "2026-11-20",
       "year": 2027,
       "id": "watch-nbdata-trainee-2027-20261105",
       "employer": "宁波数据集团有限公司",
@@ -10865,14 +10865,16 @@
       "deadline": "2026-11-19",
       "deadlineTime": "17:00",
       "deadlineDisplay": "11月13日09:00开放，11月19日17:00截止",
-      "status": "报名中｜明确2027届硕士；宽泛管理学等专业未明确125300｜专业需咨询（125300未明确）",
+      "status": "已截止｜官方报名截止为2026年11月19日17:00，未见延期或恢复依据",
       "requirements": "2025、2026年毕业生或2027年应届毕业生；硕士研究生及以上；管理学、经济学、理学、法学、金融学、计算机科学与技术、软件工程、信息与通信工程、自动化等相关专业；30周岁及以下；党员优先。",
       "note": "管理学为宽泛类别，不能自行推定包含会计专业硕士125300；中共党员仅为优先条件。",
       "action": "11月19日17:00前电话确认125300是否可报；电话0574-87861637、0574-89281859。",
       "evidenceFile": "work/daily/2026-11-07/root-evidence/nbdata.html",
       "verificationScope": "报名时间为2026年11月13日9:00-11月19日17:00（报名系统端口仅在报名时间内开放），每人限报名一个岗位。",
       "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准",
-      "verificationSource": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_8680a5def5d34427a3677344538abd95.html"
+      "verificationSource": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_8680a5def5d34427a3677344538abd95.html",
+      "statusCheckedAt": "2026-11-20",
+      "statusUpdatedAt": "2026-11-20"
     },
     {
       "year": 2027,
@@ -11012,7 +11014,7 @@
       "priority": 78,
       "deadlineTime": "16:00",
       "checkedAt": "2026-11-16",
-      "deadlineCheckedAt": "2026-11-19",
+      "deadlineCheckedAt": "2026-11-20",
       "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准",
       "verificationSource": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
       "verificationScope": "综合培训生：生源地浙江，2027年应届全日制本科及以上学历，本科生要求高考分数达到第一批（特控线）录取线，专业不限。招聘报名时间：即日起至11月20日16:00。"
@@ -29825,6 +29827,43 @@
   ],
   "updates": [
     {
+      "date": "2026-11-20",
+      "type": "云端检查",
+      "title": "云端每日检查：42项来源可读，71项待重试",
+      "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
+      "cloudOperational": true
+    },
+    {
+      "date": "2026-11-20",
+      "type": "research-scope",
+      "title": "11月20日云端研究范围",
+      "detail": "实读瑞丰银行、宁波数据集团、浙江国贸集团官方页面；主动检索宁波、杭州、绍兴、舟山、台州、嘉兴等目标地区财务、会计、审计及综合管理类新公告。转载、空白详情和缺少2027届依据的岗位均未激活。"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "limited-source",
+      "title": "中国外运宁波财务会计线索未取得官方同ID详情",
+      "detail": "检索到宁波太平财务部会计（J32492）转载线索，但官方检索未返回该同ID详情，未新增岗位。"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "limited-source",
+      "title": "浙江国贸杭州财务与管培岗位待逐岗确认2027届",
+      "detail": "实读官方校园招聘列表及浙江国贸集团管培生、浙商资产项目管培生、国贸供应链财务管培生等具体详情；页面显示招聘中、经验不限及杭州地点，但具体岗位页未逐岗明确2027届，故本批不新增或激活。"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "status-change",
+      "title": "宁波数据集团管培生已过官方报名期限",
+      "detail": "官方公告原报名截止为11月19日17:00，11月20日未取得延期或恢复依据，岗位转为expired；仅刷新期限/状态核验，不刷新完整资格checkedAt。"
+    },
+    {
+      "date": "2026-11-20",
+      "type": "deadline-check",
+      "title": "瑞丰银行两岗今日16:00截止",
+      "detail": "官方校招公告在11月20日上午仍显示当日16:00截止且每人限报一个岗位；管理培训生的125300专业口径、综合培训生的浙江生源地及本科高考线条件均按原记录保留，本次不刷新完整资格checkedAt。"
+    },
+    {
       "date": "2026-11-19",
       "type": "云端检查",
       "title": "云端每日检查：47项来源可读，67项待重试",
@@ -33982,18 +34021,23 @@
       "name": "新华保险浙江分公司会计核算岗J16824",
       "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
       "group": "央企保险"
+    },
+    {
+      "name": "浙江省国贸集团校园招聘岗位列表",
+      "url": "https://recruit.zibchina.com/campus.html",
+      "group": "省属国企"
     }
   ],
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-19T07:40:36.131Z",
-    "completedAt": "2026-11-19T07:42:25.301Z",
-    "lastSuccessfulAt": "2026-11-19T07:42:25.301Z",
-    "fetchedSources": 47,
-    "failedSources": 67,
+    "checkedAt": "2026-11-20T00:36:34.627Z",
+    "completedAt": "2026-11-20T00:38:13.196Z",
+    "lastSuccessfulAt": "2026-11-20T00:38:13.196Z",
+    "fetchedSources": 42,
+    "failedSources": 71,
     "changedSources": 2,
     "pendingLeads": 16,
-    "lastResearchAt": "2026-11-19",
+    "lastResearchAt": "2026-11-20",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
   }
