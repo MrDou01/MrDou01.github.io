@@ -13,11 +13,11 @@
     },
     "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html": {
       "sha256": "f25a31fcd98c70b00691206bde3e7a99ac18ffcae7313fe900f88c210ac39ba6",
-      "lastFetchedAt": "2026-11-19",
+      "lastFetchedAt": "2026-11-20",
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "846a5076fccb9aabdb34a7743d3b67124796fe61d53740851d65d10332bf8039",
+      "sha256": "43f434751f3a01e50f63277a3b20be11f2bfaa14f7db10dfa444b1c9caab6f8a",
       "lastFetchedAt": "2026-11-20",
       "name": "致同2027校园招聘"
     },
@@ -27,13 +27,13 @@
       "name": "国家能源集团2027统招公告"
     },
     "https://www.chinatax.gov.cn/": {
-      "sha256": "1708b011ce36abafa1ada98f6dadb4b10bf45d138692e80b7995aff78627a94d",
+      "sha256": "db2f17f910f5aa2f921b9e4a129cabcfaab83182f7e5a269cd73a56ece9db74f",
       "lastFetchedAt": "2026-11-20",
       "name": "国家税务总局"
     },
     "https://recruit.zibchina.com/campus.html": {
       "sha256": "2ceed81f6d0a9c8dffce30e6fb22041021838d19720877e9e85f0eca29955546",
-      "lastFetchedAt": "2026-11-19",
+      "lastFetchedAt": "2026-11-20",
       "name": "浙江国贸校园招聘"
     },
     "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=6b90390f-31c7-47fd-832b-cc643617dbb5&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D": {
@@ -113,7 +113,7 @@
     },
     "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105187265479770112": {
       "sha256": "9398322da7ef85b2e9fef14e4481db6f0cb4b2fd1ddfede1c66aa2014e0bc5f6",
-      "lastFetchedAt": "2026-11-19",
+      "lastFetchedAt": "2026-11-20",
       "name": "浙江省浙商资产管理股份有限公司 管培生（项目方向）"
     },
     "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105214546063966208": {
@@ -123,7 +123,7 @@
     },
     "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105259902172708864": {
       "sha256": "6faa5554fe2fa987e1cae98d051c756487654a3481af3afa53299be34aa6a145",
-      "lastFetchedAt": "2026-11-19",
+      "lastFetchedAt": "2026-11-20",
       "name": "浙江省国际贸易集团有限公司 浙江省国际贸易集团有限公司管培生"
     },
     "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105214546063966209": {
@@ -148,7 +148,7 @@
     },
     "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html": {
       "sha256": "72e0d0be9f055c10595b621d8d6798a90ff7de1a2fccd813470b1e7b266e08b2",
-      "lastFetchedAt": "2026-11-19",
+      "lastFetchedAt": "2026-11-20",
       "name": "绍兴银行 管培生（5人）"
     },
     "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=D9F73A27-9DA9-4F6E-BC96-BB40824DAE51": {
@@ -268,7 +268,7 @@
     },
     "https://job.nbmetro.com/department/detailInfomore.action?pageNumber=1&zpqd=503": {
       "sha256": "8eaa07905ec904ab27699ef1ba3229a933a47f55eb8f333209d8574b7011ba81",
-      "lastFetchedAt": "2026-11-17",
+      "lastFetchedAt": "2026-11-20",
       "name": "宁波市轨道交通集团有限公司 财务会计、预算、成本、资金、审计内控"
     },
     "https://zjseaport.zhiye.com/zpdetail/270982742": {

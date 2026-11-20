@@ -13,11 +13,11 @@
   "lastResearchAt": "2026-11-20",
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-20T00:36:34.627Z",
-    "completedAt": "2026-11-20T00:38:13.196Z",
-    "lastSuccessfulAt": "2026-11-20T00:38:13.196Z",
-    "fetchedSources": 42,
-    "failedSources": 71,
+    "checkedAt": "2026-11-20T07:31:55.062Z",
+    "completedAt": "2026-11-20T07:33:36.459Z",
+    "lastSuccessfulAt": "2026-11-20T07:33:36.459Z",
+    "fetchedSources": 48,
+    "failedSources": 65,
     "changedSources": 2,
     "pendingLeads": 16,
     "lastResearchAt": "2026-11-20",
@@ -530,7 +530,7 @@
     {
       "date": "2026-11-20",
       "type": "云端检查",
-      "title": "云端每日检查：42项来源可读，71项待重试",
+      "title": "云端每日检查：48项来源可读，65项待重试",
       "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
       "cloudOperational": true
     },
