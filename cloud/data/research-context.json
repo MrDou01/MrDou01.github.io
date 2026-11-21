@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "purpose": "供云端研究任务核验官方招聘。页面可读/哈希变化并不表示资格已复核。收件规则见 cloud/README.md。",
   "profile": {
     "graduation": "2027届",
@@ -9,18 +9,18 @@
     "region": "宁波全域、舟山、绍兴、杭州、台州、嘉兴",
     "screen": "暂按女性、应届、无基层定向身份；不推定专业包含125300"
   },
-  "dataUpdatedAt": "2026-11-20",
-  "lastResearchAt": "2026-11-20",
+  "dataUpdatedAt": "2026-11-21",
+  "lastResearchAt": "2026-11-21",
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-20T07:31:55.062Z",
-    "completedAt": "2026-11-20T07:33:36.459Z",
-    "lastSuccessfulAt": "2026-11-20T07:33:36.459Z",
-    "fetchedSources": 48,
+    "checkedAt": "2026-11-21T00:31:47.600Z",
+    "completedAt": "2026-11-21T00:33:27.302Z",
+    "lastSuccessfulAt": "2026-11-21T00:33:27.302Z",
+    "fetchedSources": 47,
     "failedSources": 65,
     "changedSources": 2,
-    "pendingLeads": 16,
-    "lastResearchAt": "2026-11-20",
+    "pendingLeads": 17,
+    "lastResearchAt": "2026-11-21",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
   },
@@ -376,6 +376,14 @@
   ],
   "pendingLeads": [
     {
+      "url": "https://www.chinatax.gov.cn/zcfgk/c102439/c5253700/content.html",
+      "title": "办税小知识：如何在电子税务局办理财务会计制度备案？",
+      "key": "55bfcf5e14294095decc30534178647871dab52b8420b0e1c3679ff9e616bf52",
+      "source": "https://www.chinatax.gov.cn/",
+      "firstSeenAt": "2026-11-21",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
       "url": "https://www.chinatax.gov.cn/zcfgk/c103098/c5253602/content.html",
       "title": "许会计讲合规：老板们请注意！税费优惠政策千万别滥用",
       "key": "0dcf48255fd1cbc30a4250668e00468fb8d90bee2a5f1ca8e66cdbaa29885611",
@@ -504,29 +512,39 @@
       "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
     }
   ],
-  "upcomingDeadlines": [
+  "upcomingDeadlines": [],
+  "recentUpdates": [
     {
-      "id": "active-ruifeng-bank-2027-management-trainee",
-      "employer": "瑞丰银行",
-      "role": "管理培训生（总行职能／支行管理方向，2人）",
-      "deadline": "2026-11-20",
-      "deadlineTime": "16:00",
-      "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
-      "checkedAt": "2026-11-16",
-      "match": "需咨询"
+      "date": "2026-11-21",
+      "type": "云端检查",
+      "title": "云端每日检查：47项来源可读，65项待重试",
+      "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
+      "cloudOperational": true
     },
     {
-      "id": "watch-ruifeng-bank-2027-comprehensive-trainee",
-      "employer": "瑞丰银行",
-      "role": "综合培训生（支行轮岗，10人）",
-      "deadline": "2026-11-20",
-      "deadlineTime": "16:00",
-      "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
-      "checkedAt": "2026-11-16",
-      "match": "生源地需咨询"
-    }
-  ],
-  "recentUpdates": [
+      "date": "2026-11-21",
+      "type": "research-scope",
+      "title": "11月21日云端研究范围",
+      "detail": "实读瑞丰银行官方校园招聘公告，并主动检索宁波市属国企及宁波、杭州、绍兴、舟山、台州、嘉兴范围内财务、会计、审计、投资、风控和综合管理岗位。官方原文缺失、报名页访问失败或仅有转载的线索均未激活。"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "limited-source",
+      "title": "近7日宁波国企招聘线索未以转载激活",
+      "detail": "检索到甬科天使创业投资基金、甬开产城、宁波工业投资集团、余姚规划测绘等近期截止转载线索；未取得同时满足2027届、目标专业和完整官方岗位详情的证据，本批不新增。"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "limited-source",
+      "title": "宁波金投控股集团财会与应届岗线索待官方原文核验",
+      "detail": "转载线索称宁波金融开发投资控股集团招聘至11月28日，涉及集团总部战略投资岗、运营管理岗、财务管理岗、内部审计岗、管理培训生，以及所属企业财会/投资岗位；招聘单位官网可确认主体身份，但未检索到招聘原文，指定报名平台本次访问失败，因此未新增或激活岗位。"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "status-change",
+      "title": "瑞丰银行管理培训生与综合培训生已过报名期限",
+      "detail": "官方公告报名截止为11月20日16:00；11月21日未取得延期或恢复依据，两岗转为expired。仅刷新期限和状态核验，不刷新完整资格checkedAt。"
+    },
     {
       "date": "2026-11-20",
       "type": "云端检查",
@@ -570,36 +588,6 @@
       "title": "云端每日检查：47项来源可读，67项待重试",
       "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
       "cloudOperational": true
-    },
-    {
-      "date": "2026-11-19",
-      "type": "research-scope",
-      "title": "11月19日云端研究范围",
-      "detail": "实读宁波数据集团、瑞丰银行和新华保险官方页面，并主动检索宁波、杭州、绍兴、舟山、台州、嘉兴等目标地区财会及综合管理类新公告；抓取失败或仅转载内容均未推断为新增、截止或重开。"
-    },
-    {
-      "date": "2026-11-19",
-      "type": "limited-source",
-      "title": "人保财险嘉兴2027校招线索待官方职位表核验",
-      "detail": "检索到转载公告及职位表线索，但未取得可实读的招聘单位官方岗位原文，未新增或激活岗位。"
-    },
-    {
-      "date": "2026-11-19",
-      "type": "status-check",
-      "title": "新华保险杭州会计核算岗内容未见资格变化",
-      "detail": "官方详情仍列校园招聘、杭州、2027年6月30日截止及本科以上/法律金融等专业；2027届和125300均未明确，继续watch，本次不刷新完整资格checkedAt。"
-    },
-    {
-      "date": "2026-11-19",
-      "type": "deadline-check",
-      "title": "瑞丰银行两岗明日16:00截止",
-      "detail": "官方校招公告仍显示11月20日16:00截止且每人限报一个岗位；管理培训生的125300专业口径、综合培训生的浙江生源地及本科高考线条件均按原记录保留。"
-    },
-    {
-      "date": "2026-11-19",
-      "type": "deadline-check",
-      "title": "宁波数据集团管培生今日17:00截止",
-      "detail": "官方公告仍显示11月19日17:00截止；125300是否包含在宽泛管理学范围内仍须电话确认，本次仅刷新期限核验，不刷新完整资格checkedAt。"
     }
   ],
   "rejectedInbox": [],
@@ -806,14 +794,6 @@
       "role": "财务管理、会计核算、投融资、审计风控",
       "source": "http://gzw.ningbo.gov.cn/col/col1229116730/index.html",
       "stage": "watch"
-    },
-    {
-      "id": "active-ruifeng-bank-2027-management-trainee",
-      "employer": "瑞丰银行",
-      "role": "管理培训生（总行职能／支行管理方向，2人）",
-      "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
-      "stage": "watch",
-      "checkedAt": "2026-11-16"
     },
     {
       "id": "soe-18",
@@ -1102,14 +1082,6 @@
       "role": "业务管理培训生（2027届未来星）",
       "source": "https://campus.yingjiesheng.com/citicsf/fenzhi.html",
       "stage": "active"
-    },
-    {
-      "id": "watch-ruifeng-bank-2027-comprehensive-trainee",
-      "employer": "瑞丰银行",
-      "role": "综合培训生（支行轮岗，10人）",
-      "source": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
-      "stage": "watch",
-      "checkedAt": "2026-11-16"
     },
     {
       "id": "watch-nci-zj-accounting-j16824-2027",

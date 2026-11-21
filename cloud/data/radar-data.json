@@ -6,7 +6,7 @@
     "degree": "会计专业硕士",
     "code": "125300",
     "target": "宁波全域及周边地区",
-    "updatedAt": "2026-11-20",
+    "updatedAt": "2026-11-21",
     "cadence": "每日更新"
   },
   "jobs": [
@@ -2803,8 +2803,8 @@
       "region": "绍兴",
       "direction": "银行管理／财会相关",
       "match": "需咨询",
-      "status": "报名中｜2027届、211院校条件匹配；专业仅列会计学/财务管理等，125300需向招聘方确认｜专业需咨询（125300未明确）",
-      "stage": "watch",
+      "status": "已截止｜官方报名截止为2026年11月20日16:00，未见延期或恢复依据",
+      "stage": "expired",
       "deadline": "2026-11-20",
       "requirements": "2027年应届全日制本科及以上；985、211高校；会计学、财务管理、税务、资产评估、审计等相关专业，本科或研究生为上述专业；仅能报考一个岗位。",
       "education": "2027年应届全日制本科及以上（985、211高校）",
@@ -2815,11 +2815,12 @@
       "priority": 85,
       "deadlineTime": "16:00",
       "checkedAt": "2026-11-16",
-      "deadlineCheckedAt": "2026-11-20",
+      "deadlineCheckedAt": "2026-11-21",
       "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准",
       "verificationSource": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
       "verificationScope": "管理培训生：985、211高校2027年应届全日制本科及以上学历；会计学、财务管理、税务、资产评估、审计等相关专业。招聘报名时间：即日起至11月20日16:00；应聘者只能报考一个岗位。",
-      "statusUpdatedAt": "2026-11-16"
+      "statusUpdatedAt": "2026-11-21",
+      "statusCheckedAt": "2026-11-21"
     },
     {
       "id": "soe-18",
@@ -11002,8 +11003,8 @@
       "region": "绍兴",
       "direction": "银行综合／财会可能方向",
       "match": "生源地需咨询",
-      "status": "报名中｜专业不限；浙江生源地及本科高考一批/特控线条件需核对",
-      "stage": "watch",
+      "status": "已截止｜官方报名截止为2026年11月20日16:00，未见延期或恢复依据",
+      "stage": "expired",
       "deadline": "2026-11-20",
       "requirements": "浙江生源地；2027年应届全日制本科及以上；本科生高考分数达到第一批（特控线）录取线；专业不限；仅能报考一个岗位。",
       "education": "2027年应届全日制本科及以上",
@@ -11014,10 +11015,12 @@
       "priority": 78,
       "deadlineTime": "16:00",
       "checkedAt": "2026-11-16",
-      "deadlineCheckedAt": "2026-11-20",
+      "deadlineCheckedAt": "2026-11-21",
       "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准",
       "verificationSource": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
-      "verificationScope": "综合培训生：生源地浙江，2027年应届全日制本科及以上学历，本科生要求高考分数达到第一批（特控线）录取线，专业不限。招聘报名时间：即日起至11月20日16:00。"
+      "verificationScope": "综合培训生：生源地浙江，2027年应届全日制本科及以上学历，本科生要求高考分数达到第一批（特控线）录取线，专业不限。招聘报名时间：即日起至11月20日16:00。",
+      "statusCheckedAt": "2026-11-21",
+      "statusUpdatedAt": "2026-11-21"
     },
     {
       "id": "watch-nci-zj-accounting-j16824-2027",
@@ -29827,6 +29830,37 @@
   ],
   "updates": [
     {
+      "date": "2026-11-21",
+      "type": "云端检查",
+      "title": "云端每日检查：47项来源可读，65项待重试",
+      "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
+      "cloudOperational": true
+    },
+    {
+      "date": "2026-11-21",
+      "type": "research-scope",
+      "title": "11月21日云端研究范围",
+      "detail": "实读瑞丰银行官方校园招聘公告，并主动检索宁波市属国企及宁波、杭州、绍兴、舟山、台州、嘉兴范围内财务、会计、审计、投资、风控和综合管理岗位。官方原文缺失、报名页访问失败或仅有转载的线索均未激活。"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "limited-source",
+      "title": "近7日宁波国企招聘线索未以转载激活",
+      "detail": "检索到甬科天使创业投资基金、甬开产城、宁波工业投资集团、余姚规划测绘等近期截止转载线索；未取得同时满足2027届、目标专业和完整官方岗位详情的证据，本批不新增。"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "limited-source",
+      "title": "宁波金投控股集团财会与应届岗线索待官方原文核验",
+      "detail": "转载线索称宁波金融开发投资控股集团招聘至11月28日，涉及集团总部战略投资岗、运营管理岗、财务管理岗、内部审计岗、管理培训生，以及所属企业财会/投资岗位；招聘单位官网可确认主体身份，但未检索到招聘原文，指定报名平台本次访问失败，因此未新增或激活岗位。"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "status-change",
+      "title": "瑞丰银行管理培训生与综合培训生已过报名期限",
+      "detail": "官方公告报名截止为11月20日16:00；11月21日未取得延期或恢复依据，两岗转为expired。仅刷新期限和状态核验，不刷新完整资格checkedAt。"
+    },
+    {
       "date": "2026-11-20",
       "type": "云端检查",
       "title": "云端每日检查：48项来源可读，65项待重试",
@@ -34030,14 +34064,14 @@
   ],
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-20T07:31:55.062Z",
-    "completedAt": "2026-11-20T07:33:36.459Z",
-    "lastSuccessfulAt": "2026-11-20T07:33:36.459Z",
-    "fetchedSources": 48,
+    "checkedAt": "2026-11-21T00:31:47.600Z",
+    "completedAt": "2026-11-21T00:33:27.302Z",
+    "lastSuccessfulAt": "2026-11-21T00:33:27.302Z",
+    "fetchedSources": 47,
     "failedSources": 65,
     "changedSources": 2,
-    "pendingLeads": 16,
-    "lastResearchAt": "2026-11-20",
+    "pendingLeads": 17,
+    "lastResearchAt": "2026-11-21",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
   }
