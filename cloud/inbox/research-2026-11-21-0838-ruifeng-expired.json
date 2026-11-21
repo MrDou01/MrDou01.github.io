@@ -1,0 +1,70 @@
+{
+  "schemaVersion": 1,
+  "id": "research-2026-11-21-0838-ruifeng-expired",
+  "date": "2026-11-21",
+  "jobs": [],
+  "patches": [
+    {
+      "id": "active-ruifeng-bank-2027-management-trainee",
+      "stage": "expired",
+      "status": "已截止｜官方报名截止为2026年11月20日16:00，未见延期或恢复依据",
+      "statusCheckedAt": "2026-11-21",
+      "deadlineCheckedAt": "2026-11-21",
+      "evidence": {
+        "kind": "official",
+        "url": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+        "observedAt": "2026-11-21",
+        "excerpt": "管理培训生：985、211高校2027年应届全日制本科及以上学历；会计学、财务管理、税务、资产评估、审计等相关专业。招聘报名时间：即日起至11月20日16:00；应聘者只能报考一个岗位。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "watch-ruifeng-bank-2027-comprehensive-trainee",
+      "stage": "expired",
+      "status": "已截止｜官方报名截止为2026年11月20日16:00，未见延期或恢复依据",
+      "statusCheckedAt": "2026-11-21",
+      "deadlineCheckedAt": "2026-11-21",
+      "evidence": {
+        "kind": "official",
+        "url": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+        "observedAt": "2026-11-21",
+        "excerpt": "综合培训生：生源地浙江，2027年应届全日制本科及以上学历，本科生要求高考分数达到第一批（特控线）录取线，专业不限。招聘报名时间：即日起至11月20日16:00。",
+        "scope": "deadline"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "瑞丰银行2027秋季校园招聘启事",
+      "url": "https://zp.borf.cn/recruit/job/notice?recruitType=campus",
+      "group": "银行"
+    }
+  ],
+  "updates": [
+    {
+      "date": "2026-11-21",
+      "type": "status-change",
+      "title": "瑞丰银行管理培训生与综合培训生已过报名期限",
+      "detail": "官方公告报名截止为11月20日16:00；11月21日未取得延期或恢复依据，两岗转为expired。仅刷新期限和状态核验，不刷新完整资格checkedAt。"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "limited-source",
+      "title": "宁波金投控股集团财会与应届岗线索待官方原文核验",
+      "detail": "转载线索称宁波金融开发投资控股集团招聘至11月28日，涉及集团总部战略投资岗、运营管理岗、财务管理岗、内部审计岗、管理培训生，以及所属企业财会/投资岗位；招聘单位官网可确认主体身份，但未检索到招聘原文，指定报名平台本次访问失败，因此未新增或激活岗位。"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "limited-source",
+      "title": "近7日宁波国企招聘线索未以转载激活",
+      "detail": "检索到甬科天使创业投资基金、甬开产城、宁波工业投资集团、余姚规划测绘等近期截止转载线索；未取得同时满足2027届、目标专业和完整官方岗位详情的证据，本批不新增。"
+    },
+    {
+      "date": "2026-11-21",
+      "type": "research-scope",
+      "title": "11月21日云端研究范围",
+      "detail": "实读瑞丰银行官方校园招聘公告，并主动检索宁波市属国企及宁波、杭州、绍兴、舟山、台州、嘉兴范围内财务、会计、审计、投资、风控和综合管理岗位。官方原文缺失、报名页访问失败或仅有转载的线索均未激活。"
+    }
+  ],
+  "summary": "2026-11-21北京时间08:28起云端检查：将已过11月20日16:00期限的瑞丰银行管理培训生、综合培训生转为expired；发现宁波金投控股集团财会及应届岗高价值线索，但招聘官方原文未检索到且报名平台访问失败，故仅记录待核，不新增岗位。未更新任何完整资格checkedAt。"
+}
