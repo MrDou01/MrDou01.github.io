@@ -6,7 +6,7 @@
     "degree": "会计专业硕士",
     "code": "125300",
     "target": "宁波全域及周边地区",
-    "updatedAt": "2026-11-22",
+    "updatedAt": "2026-11-23",
     "cadence": "每日更新"
   },
   "jobs": [
@@ -303,7 +303,7 @@
       "region": "宁波市区",
       "direction": "金融管理",
       "match": "高匹配",
-      "status": "正在报名；11月30日截止",
+      "status": "临近截止｜官方页面仍列11月30日截止",
       "stage": "active",
       "deadline": "2026-11-30",
       "requirements": "2027届境内外本科及以上；专业不限，优先考虑愿意在市场一线历练的毕业生。境内毕业时间为2026年11月至2027年7月，境外为2026年7月至2027年8月并须按期完成留服认证。",
@@ -318,8 +318,9 @@
       "verificationSource": "https://www.ncbank.cn/ncbank/jrts/rczp/xyzp/index.shtml",
       "evidenceFile": "work/daily/2026-11-09/finance-evidence/bank-and-insurance-pages.json",
       "announcementCheckedAt": "2026-11-07",
-      "deadlineCheckedAt": "2026-11-09",
-      "verificationScope": "11月9日复读对应官方公告/具体岗位完整正文；现有截止、专业及届别判断保持。未登录投递、未电话确认个人资格。"
+      "deadlineCheckedAt": "2026-11-23",
+      "verificationScope": "宁波通商银行2027届秋季校园招聘：金融培训生，宁波、上海、杭州、绍兴，本科及以上学历、专业不限。招聘流程：简历投递（截至11月30日）。",
+      "statusCheckedAt": "2026-11-23"
     },
     {
       "id": "live-nbcb-ningbo-trainee-2027",
@@ -7145,7 +7146,7 @@
       "employer": "绍兴银行",
       "direction": "金融就业",
       "stage": "active",
-      "status": "正在报名｜11月30日17时截止",
+      "status": "临近截止｜官方公告仍列11月30日17时截止｜专业需咨询",
       "deadline": "2026-11-30",
       "deadlineTime": "17:00:00",
       "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
@@ -7168,8 +7169,9 @@
       "verificationSource": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
       "evidenceFile": "work/daily/2026-11-09/finance-evidence/bank-and-insurance-pages.json",
       "announcementCheckedAt": "2026-11-07",
-      "deadlineCheckedAt": "2026-11-09",
-      "verificationScope": "11月9日复读对应官方公告/具体岗位完整正文；现有截止、专业及届别判断保持。未登录投递、未电话确认个人资格。"
+      "deadlineCheckedAt": "2026-11-23",
+      "verificationScope": "2027年绍兴银行校园招聘启事：管培生5名；报名截止时间：2026年11月30日17时。每人仅限报1个招聘岗位。",
+      "statusCheckedAt": "2026-11-23"
     },
     {
       "audience": "2027届",
@@ -11057,7 +11059,7 @@
       "employer": "绍兴银行绍兴市区支行",
       "direction": "金融就业",
       "stage": "active",
-      "status": "正在报名｜11月30日17时截止",
+      "status": "临近截止｜官方公告仍列11月30日17时截止",
       "deadline": "2026-11-30",
       "deadlineTime": "17:00:00",
       "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
@@ -11080,8 +11082,9 @@
       "verificationSource": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
       "evidenceFile": "work/daily/2026-11-09/finance-evidence/bank-and-insurance-pages.json",
       "announcementCheckedAt": "2026-11-07",
-      "deadlineCheckedAt": "2026-11-09",
-      "verificationScope": "11月9日复读对应官方公告/具体岗位完整正文；现有截止、专业及届别判断保持。未登录投递、未电话确认个人资格。"
+      "deadlineCheckedAt": "2026-11-23",
+      "verificationScope": "绍兴市区支行客服经理计划招聘7人；客服经理专业不限；2027届应届毕业生且为初次就业。报名截止时间：2026年11月30日17时。",
+      "statusCheckedAt": "2026-11-23"
     },
     {
       "category": "浙江省属国企",
@@ -11210,7 +11213,7 @@
       "employer": "绍兴银行上虞支行",
       "direction": "金融就业",
       "stage": "active",
-      "status": "正在报名｜11月30日17时截止",
+      "status": "临近截止｜官方公告仍列11月30日17时截止",
       "deadline": "2026-11-30",
       "deadlineTime": "17:00:00",
       "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
@@ -11233,8 +11236,9 @@
       "verificationSource": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
       "evidenceFile": "work/daily/2026-11-09/finance-evidence/bank-and-insurance-pages.json",
       "announcementCheckedAt": "2026-11-07",
-      "deadlineCheckedAt": "2026-11-09",
-      "verificationScope": "11月9日复读对应官方公告/具体岗位完整正文；现有截止、专业及届别判断保持。未登录投递、未电话确认个人资格。"
+      "deadlineCheckedAt": "2026-11-23",
+      "verificationScope": "上虞支行客服经理计划招聘1人；客服经理专业不限；2027届应届毕业生且为初次就业。报名截止时间：2026年11月30日17时。",
+      "statusCheckedAt": "2026-11-23"
     },
     {
       "audience": "2027届",
@@ -14002,7 +14006,7 @@
       "employer": "绍兴银行嘉兴分行",
       "direction": "金融就业",
       "stage": "active",
-      "status": "正在报名｜11月30日17时截止",
+      "status": "临近截止｜官方公告仍列11月30日17时截止",
       "deadline": "2026-11-30",
       "deadlineTime": "17:00:00",
       "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
@@ -14025,8 +14029,9 @@
       "verificationSource": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
       "evidenceFile": "work/daily/2026-11-09/finance-evidence/bank-and-insurance-pages.json",
       "announcementCheckedAt": "2026-11-07",
-      "deadlineCheckedAt": "2026-11-09",
-      "verificationScope": "11月9日复读对应官方公告/具体岗位完整正文；现有截止、专业及届别判断保持。未登录投递、未电话确认个人资格。"
+      "deadlineCheckedAt": "2026-11-23",
+      "verificationScope": "嘉兴分行客服经理计划招聘4人；客服经理专业不限；2027届应届毕业生且为初次就业。报名截止时间：2026年11月30日17时。",
+      "statusCheckedAt": "2026-11-23"
     },
     {
       "id": "live-zhejiang-gwy-2027-13309004013000001",
@@ -17290,7 +17295,7 @@
       "employer": "绍兴银行绍兴市区支行",
       "direction": "金融就业",
       "stage": "active",
-      "status": "正在报名｜11月30日17时截止",
+      "status": "临近截止｜官方公告仍列11月30日17时截止｜专业需咨询",
       "deadline": "2026-11-30",
       "deadlineTime": "17:00:00",
       "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
@@ -17313,15 +17318,16 @@
       "verificationSource": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
       "evidenceFile": "work/daily/2026-11-09/finance-evidence/bank-and-insurance-pages.json",
       "announcementCheckedAt": "2026-11-07",
-      "deadlineCheckedAt": "2026-11-09",
-      "verificationScope": "11月9日复读对应官方公告/具体岗位完整正文；现有截止、专业及届别判断保持。未登录投递、未电话确认个人资格。"
+      "deadlineCheckedAt": "2026-11-23",
+      "verificationScope": "绍兴市区支行客户经理计划招聘3人；专业要求金融学类、经济学类、经济与贸易类、工商管理类等相关专业；2027届应届毕业生且为初次就业。报名截止时间：2026年11月30日17时。",
+      "statusCheckedAt": "2026-11-23"
     },
     {
       "category": "国有控股银行",
       "employer": "绍兴银行上虞支行",
       "direction": "金融就业",
       "stage": "active",
-      "status": "正在报名｜11月30日17时截止",
+      "status": "临近截止｜官方公告仍列11月30日17时截止｜专业需咨询",
       "deadline": "2026-11-30",
       "deadlineTime": "17:00:00",
       "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
@@ -17344,8 +17350,9 @@
       "verificationSource": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
       "evidenceFile": "work/daily/2026-11-09/finance-evidence/bank-and-insurance-pages.json",
       "announcementCheckedAt": "2026-11-07",
-      "deadlineCheckedAt": "2026-11-09",
-      "verificationScope": "11月9日复读对应官方公告/具体岗位完整正文；现有截止、专业及届别判断保持。未登录投递、未电话确认个人资格。"
+      "deadlineCheckedAt": "2026-11-23",
+      "verificationScope": "上虞支行客户经理计划招聘2人；专业要求金融学类、经济学类、经济与贸易类、工商管理类等相关专业；2027届应届毕业生且为初次就业。报名截止时间：2026年11月30日17时。",
+      "statusCheckedAt": "2026-11-23"
     },
     {
       "id": "soe-4",
@@ -29765,6 +29772,78 @@
       "checkedAt": "2026-11-11",
       "verificationScope": "浙江康恩贝制药股份有限公司 财务管培生；专业：会计学、财务管理、审计学、税务等相关专业；1.硕士及以上学历，会计学、财务管理、审计学、税务等专业优先；\n2.严谨细致，数据统计与分析能力强；\n3.具流程与风险意识，数据敏感，AI技术应用熟练。",
       "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准"
+    },
+    {
+      "id": "watch-sanhua-finance-specialist-bbe06f60-2027",
+      "employer": "三花控股集团（智控本级）",
+      "role": "财务专员（2027届）",
+      "region": "杭州",
+      "requirements": "本科及以上学历；财务、会计、审计、税务、财务管理、金融、经济、统计等相关专业。掌握会计准则、财务核算、税务、预算、资金等基础知识；熟练使用Excel、Word、PPT，了解用友、金蝶、SAP者优先；相关证书、财务或审计实习等经历优先。",
+      "source": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/bbe06f60-1928-4331-b18b-e861d55f3510",
+      "stage": "watch",
+      "priority": 85,
+      "category": "上市制造企业",
+      "location": "浙江省杭州市｜杭州站｜智控本级",
+      "direction": "财务核算／税务／资金／预算／成本／内控",
+      "match": "需咨询",
+      "status": "官方校招岗位在列｜明确2027届｜125300需咨询｜截止未列｜专业需咨询（125300未明确）",
+      "deadline": "",
+      "education": "本科及以上",
+      "audience": "2027届应届毕业生",
+      "note": "官方岗位发布于2026年11月17日，不是本日新发布。职责覆盖账务、报表、税务、资金、预算、成本、经营分析、内控和审计配合，入职后可能按模块分配或轮岗。专业仅写财务、会计等相关专业，不能自行推定包含125300；官方未列截止日期。招聘页提示6个月内最多投递2个职位。",
+      "action": "优先向三花招聘确认会计专硕125300是否按相关专业接受、正式用人主体与截止时间；在财务专员、财务管理管培生、财务助理中比较后再占用2个投递名额。",
+      "checkedAt": "2026-11-23",
+      "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准",
+      "verificationSource": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/bbe06f60-1928-4331-b18b-e861d55f3510",
+      "verificationScope": "财务专员（2027届）；本科 | 杭州站 | 智控本级，发布于2026-11-17。任职要求：本科及以上学历，财务、会计、审计、税务、财务管理、金融、经济、统计等相关专业；有初级会计、CPA、税务师、ACCA等证书或部分科目通过者优先；有财务实习、审计实习、企业财务实践、校园财务项目或数据分析经历者优先。"
+    },
+    {
+      "id": "watch-sanhua-global-finance-management-8c7d4155-2027",
+      "employer": "三花控股集团（控股总部）",
+      "role": "2027届全球管培生（财务管理）",
+      "region": "杭州",
+      "requirements": "职位卡为本科、共享杭州站、控股总部。职责包括集团预算数据汇总与核算、预算编制与管控、预算制度和数字化管理、预算改善项目复制。要求英语听说读写流利并可作为工作语言，具备沟通、结构化表达、快速学习、自我驱动和协调管理能力；官方详情未列专业范围。",
+      "source": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/8c7d4155-694e-45dc-a8e5-026065cddf76",
+      "stage": "watch",
+      "priority": 85,
+      "category": "上市制造企业",
+      "location": "浙江省杭州市｜共享杭州站｜控股总部",
+      "direction": "预算管理／财务数字化／经营管理",
+      "match": "需咨询",
+      "status": "官方校招岗位在列｜标题明确2027届｜专业与英语口径需确认｜截止未列｜专业需咨询（125300未明确）",
+      "deadline": "",
+      "education": "本科（官方职位卡）",
+      "audience": "2027届",
+      "note": "官方岗位发布于2026年11月9日，不是本日新发布。标题和预算管理职责明确，但详情未列专业范围，不能据此自行认定125300；英语可作为工作语言为明确要求。官方未列截止日期，招聘页提示6个月内最多投递2个职位。",
+      "action": "如英语能够达到工作语言水平，向三花招聘确认125300、毕业时间窗口、用人主体与截止时间；与另外两个财务岗比较后再选择投递。",
+      "checkedAt": "2026-11-23",
+      "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准",
+      "verificationSource": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/8c7d4155-694e-45dc-a8e5-026065cddf76",
+      "verificationScope": "2027届全球管培生（财务管理）；本科 | 共享杭州站 | 控股总部，发布于2026-11-09。岗位职责：执行集团预算数据汇总及核算工作；掌握预算模块从编制到管控的专业能力；用数字化工具进行预算管理。任职要求：英语听说读写流利，可作为工作语言。"
+    },
+    {
+      "id": "watch-sanhua-finance-assistant-092f984e-2027",
+      "employer": "三花控股集团（汽零业务单元）",
+      "role": "27届－财务助理",
+      "region": "杭州",
+      "requirements": "2027届应届毕业生；正文写本科及以上学历，财务、财经、工科背景等相关专业；熟悉会计准则和流程，财务实习优先；熟练Office尤其Excel，熟悉ERP或财务软件优先；英语六级及以上、语言能力优秀者优先；接受海外外派者优先。职位卡学历显示硕士，与正文存在冲突。",
+      "source": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/092f984e-aeae-471a-b854-8d232304af38",
+      "stage": "watch",
+      "priority": 85,
+      "category": "上市制造企业",
+      "location": "浙江省杭州市｜杭州站｜汽零业务单元",
+      "direction": "财务管理／账务／稽核／成本核算",
+      "match": "需咨询",
+      "status": "官方校招岗位在列｜明确2027届｜学历与125300口径需确认｜截止未列｜专业需咨询（125300未明确）",
+      "deadline": "",
+      "education": "职位卡显示硕士；正文写本科及以上，需确认",
+      "audience": "2027届应届毕业生",
+      "note": "官方岗位发布于2026年9月14日，不是本日新发布。职位卡显示硕士，正文写本科及以上，保留冲突；专业为财务、财经、工科背景等相关专业，未明确125300。英语六级和接受海外外派均为优先项，不是正文硬性淘汰条件。官方未列截止日期。",
+      "action": "优先电话或官方招聘渠道确认会计专硕125300、实际学历门槛、是否需海外外派及截止时间；确认后与财务专员、财务管理管培生比较投递。",
+      "checkedAt": "2026-11-23",
+      "evidenceLevel": "官方证据人工/云端研究核验；专业与个人资格以招聘单位为准",
+      "verificationSource": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/092f984e-aeae-471a-b854-8d232304af38",
+      "verificationScope": "27届-财务助理；硕士 | 杭州站 | 汽零业务单元，发布于2026-09-14。任职要求：2027届应届毕业生，本科及以上学历，财务、财经、工科背景等相关专业；英语要求：六级及以上，语言能力优秀者优先；接受海外外派的人员优先。"
     }
   ],
   "scoreTrends": [
@@ -29829,6 +29908,37 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-11-23",
+      "type": "云端检查",
+      "title": "云端每日检查：45项来源可读，70项待重试",
+      "detail": "已保留全部历史岗位与人工状态；3条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
+      "cloudOperational": true
+    },
+    {
+      "date": "2026-11-23",
+      "type": "research-scope",
+      "title": "11月23日云端研究范围",
+      "detail": "优先复核11月30日截止岗位，实读宁波通商银行、绍兴银行和三花官方招聘原文；同时主动检索宁波、杭州、绍兴、舟山、台州、嘉兴等目标地区财务、会计、审计、预算、资金、税务、内控、风控、司库、经营分析和综合管理新岗位。转载仅作线索，未以转载激活岗位。"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "limited-source",
+      "title": "宁波银行11月30日岗位本次未刷新核验时间",
+      "detail": "总表仍有宁波银行总行培训生、宁波地区培训生/运营培训生、宁银消金和宁银理财等11月30日截止记录；本次官方校园招聘入口访问超时，未据此判断延期、下线或重开，也未更新statusCheckedAt、deadlineCheckedAt或checkedAt。"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "near-deadline",
+      "title": "宁波通商银行与绍兴银行进入11月30日截止周",
+      "detail": "今日官方页面仍列宁波通商银行金融培训生11月30日截止、绍兴银行校招11月30日17时截止。绍兴银行客服经理专业不限；管培生和客户经理的专业目录未明确125300，需咨询。仅刷新状态与期限观察，不刷新完整资格checkedAt。"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "high-value-new",
+      "title": "三花杭州新增3个2027届财务观察岗位",
+      "detail": "实读三花官方校招同ID详情，新增杭州财务专员、全球管培生（财务管理）和财务助理为watch。三岗均有明确2027届/27届依据，但未明确专业代码125300；财务助理职位卡显示硕士而正文写本科及以上。官方均未列截止，且6个月内最多投递2岗，需先咨询再选择。"
+    },
     {
       "date": "2026-11-22",
       "type": "云端检查",
@@ -34090,18 +34200,33 @@
       "name": "宁波市国资委—宁波开发投资集团有限公司2026年第五批人员招聘公告",
       "url": "https://gzw.ningbo.gov.cn/col/col1229116730/art/2026/art_138c598bea5c42149526db0941395645.html",
       "group": "宁波市属国企"
+    },
+    {
+      "name": "三花控股财务专员（2027届）官方岗位",
+      "url": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/bbe06f60-1928-4331-b18b-e861d55f3510",
+      "group": "企业官方校园招聘"
+    },
+    {
+      "name": "三花控股2027届全球管培生（财务管理）官方岗位",
+      "url": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/8c7d4155-694e-45dc-a8e5-026065cddf76",
+      "group": "企业官方校园招聘"
+    },
+    {
+      "name": "三花控股27届财务助理官方岗位",
+      "url": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/092f984e-aeae-471a-b854-8d232304af38",
+      "group": "企业官方校园招聘"
     }
   ],
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-22T07:09:07.693Z",
-    "completedAt": "2026-11-22T07:10:54.760Z",
-    "lastSuccessfulAt": "2026-11-22T07:10:54.760Z",
-    "fetchedSources": 46,
-    "failedSources": 66,
+    "checkedAt": "2026-11-23T00:40:29.463Z",
+    "completedAt": "2026-11-23T00:42:20.822Z",
+    "lastSuccessfulAt": "2026-11-23T00:42:20.822Z",
+    "fetchedSources": 45,
+    "failedSources": 70,
     "changedSources": 2,
     "pendingLeads": 17,
-    "lastResearchAt": "2026-11-22",
+    "lastResearchAt": "2026-11-23",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
   }

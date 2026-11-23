@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "purpose": "供云端研究任务核验官方招聘。页面可读/哈希变化并不表示资格已复核。收件规则见 cloud/README.md。",
   "profile": {
     "graduation": "2027届",
@@ -9,18 +9,18 @@
     "region": "宁波全域、舟山、绍兴、杭州、台州、嘉兴",
     "screen": "暂按女性、应届、无基层定向身份；不推定专业包含125300"
   },
-  "dataUpdatedAt": "2026-11-22",
-  "lastResearchAt": "2026-11-22",
+  "dataUpdatedAt": "2026-11-23",
+  "lastResearchAt": "2026-11-23",
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-22T07:09:07.693Z",
-    "completedAt": "2026-11-22T07:10:54.760Z",
-    "lastSuccessfulAt": "2026-11-22T07:10:54.760Z",
-    "fetchedSources": 46,
-    "failedSources": 66,
+    "checkedAt": "2026-11-23T00:40:29.463Z",
+    "completedAt": "2026-11-23T00:42:20.822Z",
+    "lastSuccessfulAt": "2026-11-23T00:42:20.822Z",
+    "fetchedSources": 45,
+    "failedSources": 70,
     "changedSources": 2,
     "pendingLeads": 17,
-    "lastResearchAt": "2026-11-22",
+    "lastResearchAt": "2026-11-23",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
   },
@@ -512,8 +512,180 @@
       "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
     }
   ],
-  "upcomingDeadlines": [],
+  "upcomingDeadlines": [
+    {
+      "id": "live-nbcb-hq-trainee-2027",
+      "employer": "宁波银行总行",
+      "role": "总行培训生（公司金融／财富管理／量化风控）",
+      "deadline": "2026-11-30",
+      "deadlineTime": "",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "checkedAt": "2026-11-09",
+      "match": "专业不限"
+    },
+    {
+      "id": "live-ncbank-nb-finance-trainee-2027",
+      "employer": "宁波通商银行",
+      "role": "金融培训生",
+      "deadline": "2026-11-30",
+      "deadlineTime": "",
+      "source": "https://www.ncbank.cn/ncbank/jrts/rczp/xyzp/index.shtml",
+      "checkedAt": "2026-11-09",
+      "match": "高匹配"
+    },
+    {
+      "id": "live-nbcb-ningbo-trainee-2027",
+      "employer": "宁波银行",
+      "role": "宁波地区培训生",
+      "deadline": "2026-11-30",
+      "deadlineTime": "",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "checkedAt": "2026-11-09",
+      "match": "专业不限"
+    },
+    {
+      "id": "live-nbcb-ningbo-ops-2027",
+      "employer": "宁波银行",
+      "role": "宁波地区运营培训生",
+      "deadline": "2026-11-30",
+      "deadlineTime": "",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "checkedAt": "2026-11-09",
+      "match": "专业不限"
+    },
+    {
+      "id": "live-nycfc-hq-trainee-2027",
+      "employer": "宁银消金",
+      "role": "总部培训生（含综合管理方向，15人）",
+      "deadline": "2026-11-30",
+      "deadlineTime": "",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "checkedAt": "2026-11-11",
+      "match": "需咨询"
+    },
+    {
+      "id": "live-nywm-trainee-2027",
+      "employer": "宁银理财",
+      "role": "定向生（资产管理方向，20人）",
+      "deadline": "2026-11-30",
+      "deadlineTime": "",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "checkedAt": "2026-11-09",
+      "match": "专业不限"
+    },
+    {
+      "id": "live-nbcb-2041-2027",
+      "employer": "宁波银行宁波地区",
+      "role": "宁波地区综合柜员",
+      "deadline": "2026-11-30",
+      "deadlineTime": "",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "checkedAt": "2026-11-09",
+      "match": "较高匹配"
+    },
+    {
+      "id": "live-sxccb-trainee-2027",
+      "employer": "绍兴银行",
+      "role": "管培生（5人）",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "live-sxccb-shaoxing-service-2027",
+      "employer": "绍兴银行绍兴市区支行",
+      "role": "客服经理（7人）",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "checkedAt": "2026-11-09",
+      "match": "专业不限"
+    },
+    {
+      "id": "live-sxccb-shangyu-service-2027",
+      "employer": "绍兴银行上虞支行",
+      "role": "客服经理（1人）",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "checkedAt": "2026-11-09",
+      "match": "专业不限"
+    },
+    {
+      "id": "live-sxccb-jiaxing-service-2027",
+      "employer": "绍兴银行嘉兴分行",
+      "role": "客服经理（4人）",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "checkedAt": "2026-11-09",
+      "match": "专业不限"
+    },
+    {
+      "id": "watch-nbcb-5450-2027",
+      "employer": "宁波银行杭州分行",
+      "role": "杭州分行运营培训生",
+      "deadline": "2026-11-30",
+      "deadlineTime": "",
+      "source": "https://zhaopin.nbcb.com.cn/#/campus-recruitment",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "live-sxccb-shaoxing-marketing-2027",
+      "employer": "绍兴银行绍兴市区支行",
+      "role": "客户经理（3人）",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "live-sxccb-shangyu-marketing-2027",
+      "employer": "绍兴银行上虞支行",
+      "role": "客户经理（2人）",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    }
+  ],
   "recentUpdates": [
+    {
+      "date": "2026-11-23",
+      "type": "云端检查",
+      "title": "云端每日检查：45项来源可读，70项待重试",
+      "detail": "已保留全部历史岗位与人工状态；3条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
+      "cloudOperational": true
+    },
+    {
+      "date": "2026-11-23",
+      "type": "research-scope",
+      "title": "11月23日云端研究范围",
+      "detail": "优先复核11月30日截止岗位，实读宁波通商银行、绍兴银行和三花官方招聘原文；同时主动检索宁波、杭州、绍兴、舟山、台州、嘉兴等目标地区财务、会计、审计、预算、资金、税务、内控、风控、司库、经营分析和综合管理新岗位。转载仅作线索，未以转载激活岗位。"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "limited-source",
+      "title": "宁波银行11月30日岗位本次未刷新核验时间",
+      "detail": "总表仍有宁波银行总行培训生、宁波地区培训生/运营培训生、宁银消金和宁银理财等11月30日截止记录；本次官方校园招聘入口访问超时，未据此判断延期、下线或重开，也未更新statusCheckedAt、deadlineCheckedAt或checkedAt。"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "near-deadline",
+      "title": "宁波通商银行与绍兴银行进入11月30日截止周",
+      "detail": "今日官方页面仍列宁波通商银行金融培训生11月30日截止、绍兴银行校招11月30日17时截止。绍兴银行客服经理专业不限；管培生和客户经理的专业目录未明确125300，需咨询。仅刷新状态与期限观察，不刷新完整资格checkedAt。"
+    },
+    {
+      "date": "2026-11-23",
+      "type": "high-value-new",
+      "title": "三花杭州新增3个2027届财务观察岗位",
+      "detail": "实读三花官方校招同ID详情，新增杭州财务专员、全球管培生（财务管理）和财务助理为watch。三岗均有明确2027届/27届依据，但未明确专业代码125300；财务助理职位卡显示硕士而正文写本科及以上。官方均未列截止，且6个月内最多投递2岗，需先咨询再选择。"
+    },
     {
       "date": "2026-11-22",
       "type": "云端检查",
@@ -557,37 +729,6 @@
       "type": "limited-source",
       "title": "近7日宁波国企招聘线索未以转载激活",
       "detail": "检索到甬科天使创业投资基金、甬开产城、宁波工业投资集团、余姚规划测绘等近期截止转载线索；未取得同时满足2027届、目标专业和完整官方岗位详情的证据，本批不新增。"
-    },
-    {
-      "date": "2026-11-21",
-      "type": "limited-source",
-      "title": "宁波金投控股集团财会与应届岗线索待官方原文核验",
-      "detail": "转载线索称宁波金融开发投资控股集团招聘至11月28日，涉及集团总部战略投资岗、运营管理岗、财务管理岗、内部审计岗、管理培训生，以及所属企业财会/投资岗位；招聘单位官网可确认主体身份，但未检索到招聘原文，指定报名平台本次访问失败，因此未新增或激活岗位。"
-    },
-    {
-      "date": "2026-11-21",
-      "type": "status-change",
-      "title": "瑞丰银行管理培训生与综合培训生已过报名期限",
-      "detail": "官方公告报名截止为11月20日16:00；11月21日未取得延期或恢复依据，两岗转为expired。仅刷新期限和状态核验，不刷新完整资格checkedAt。"
-    },
-    {
-      "date": "2026-11-20",
-      "type": "云端检查",
-      "title": "云端每日检查：48项来源可读，65项待重试",
-      "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
-      "cloudOperational": true
-    },
-    {
-      "date": "2026-11-20",
-      "type": "research-scope",
-      "title": "11月20日云端研究范围",
-      "detail": "实读瑞丰银行、宁波数据集团、浙江国贸集团官方页面；主动检索宁波、杭州、绍兴、舟山、台州、嘉兴等目标地区财务、会计、审计及综合管理类新公告。转载、空白详情和缺少2027届依据的岗位均未激活。"
-    },
-    {
-      "date": "2026-11-20",
-      "type": "limited-source",
-      "title": "中国外运宁波财务会计线索未取得官方同ID详情",
-      "detail": "检索到宁波太平财务部会计（J32492）转载线索，但官方检索未返回该同ID详情，未新增岗位。"
     }
   ],
   "rejectedInbox": [],
@@ -1418,6 +1559,30 @@
       "source": "https://recruit.zibchina.com/position_detail.html?positionId=2109533088640974850&channel=1",
       "stage": "watch",
       "checkedAt": "2026-11-11"
+    },
+    {
+      "id": "watch-sanhua-finance-specialist-bbe06f60-2027",
+      "employer": "三花控股集团（智控本级）",
+      "role": "财务专员（2027届）",
+      "source": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/bbe06f60-1928-4331-b18b-e861d55f3510",
+      "stage": "watch",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "watch-sanhua-global-finance-management-8c7d4155-2027",
+      "employer": "三花控股集团（控股总部）",
+      "role": "2027届全球管培生（财务管理）",
+      "source": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/8c7d4155-694e-45dc-a8e5-026065cddf76",
+      "stage": "watch",
+      "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "watch-sanhua-finance-assistant-092f984e-2027",
+      "employer": "三花控股集团（汽零业务单元）",
+      "role": "27届－财务助理",
+      "source": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/092f984e-aeae-471a-b854-8d232304af38",
+      "stage": "watch",
+      "checkedAt": "2026-11-23"
     }
   ]
 }
