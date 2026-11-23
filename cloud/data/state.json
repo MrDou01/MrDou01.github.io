@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "118cf2a7d40ecf0f33a026b7898a876cc3576245913175836d60033b4eaf0252",
+      "sha256": "f6d2cd237daf19123aab8bdbc758787839eef917146b10cc7573e7793a3adcd6",
       "lastFetchedAt": "2026-11-23",
       "name": "致同2027校园招聘"
     },
@@ -27,13 +27,13 @@
       "name": "国家能源集团2027统招公告"
     },
     "https://www.chinatax.gov.cn/": {
-      "sha256": "f1e7cabfb8460ecdc5996fdb7fbaf0f60a01b124f10c1767a89d8b648baad3ed",
+      "sha256": "329c2a1200bce9f193f8096dd460aedc4088f99093f6f0c14150e5f0bb8ed02d",
       "lastFetchedAt": "2026-11-23",
       "name": "国家税务总局"
     },
     "https://recruit.zibchina.com/campus.html": {
       "sha256": "2ceed81f6d0a9c8dffce30e6fb22041021838d19720877e9e85f0eca29955546",
-      "lastFetchedAt": "2026-11-22",
+      "lastFetchedAt": "2026-11-23",
       "name": "浙江国贸校园招聘"
     },
     "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=6b90390f-31c7-47fd-832b-cc643617dbb5&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D": {
@@ -83,7 +83,7 @@
     },
     "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105199012068036610": {
       "sha256": "088f9a9f636d4ee764f5d6eda13b97fa43c5b03db5c6f74c17a8fd57453a84ba",
-      "lastFetchedAt": "2026-11-22",
+      "lastFetchedAt": "2026-11-23",
       "name": "浙江省国际贸易集团供应链有限公司 管培生（财务方向）"
     },
     "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2109533088640974850": {
@@ -148,7 +148,7 @@
     },
     "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html": {
       "sha256": "72e0d0be9f055c10595b621d8d6798a90ff7de1a2fccd813470b1e7b266e08b2",
-      "lastFetchedAt": "2026-11-22",
+      "lastFetchedAt": "2026-11-23",
       "name": "绍兴银行 管培生（5人）"
     },
     "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=D9F73A27-9DA9-4F6E-BC96-BB40824DAE51": {
