@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "e2c8e0295d554860a733dc97d8cf061c1ebc1508578b7efed81530aa3fa97eed",
+      "sha256": "d5e5136b080ba5c41e76921d7e2cd33b8a8ebba6dfd91c104acff4fad142020c",
       "lastFetchedAt": "2026-11-24",
       "name": "致同2027校园招聘"
     },
@@ -33,7 +33,7 @@
     },
     "https://recruit.zibchina.com/campus.html": {
       "sha256": "2ceed81f6d0a9c8dffce30e6fb22041021838d19720877e9e85f0eca29955546",
-      "lastFetchedAt": "2026-11-23",
+      "lastFetchedAt": "2026-11-24",
       "name": "浙江国贸校园招聘"
     },
     "https://chinalife.zhiye.com/api/JobAd/GetJobAdInfo?jobAdId=6b90390f-31c7-47fd-832b-cc643617dbb5&category=2&displayFields=%5B%22JobAdName%22%2C%22Org%22%2C%22Category%22%2C%22LocId%22%2C%22HeadCount%22%2C%22PostDate%22%2C%22EndTime%22%2C%22Degree%22%2C%22Duty%22%2C%22Require%22%2C%22ClassificationOne%22%2C%22ClassificationTwo%22%2C%22Classification3%22%2C%22Classification4%22%2C%22Classification5%22%2C%22Classification6%22%2C%22DetailAddress%22%5D": {
@@ -83,12 +83,12 @@
     },
     "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105199012068036610": {
       "sha256": "088f9a9f636d4ee764f5d6eda13b97fa43c5b03db5c6f74c17a8fd57453a84ba",
-      "lastFetchedAt": "2026-11-23",
+      "lastFetchedAt": "2026-11-24",
       "name": "浙江省国际贸易集团供应链有限公司 管培生（财务方向）"
     },
     "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2109533088640974850": {
       "sha256": "de6e95cfc457c106cb7a5f97c004750fb65b93e5e0659abe7adf769dba1f77b1",
-      "lastFetchedAt": "2026-11-23",
+      "lastFetchedAt": "2026-11-24",
       "name": "浙江康恩贝制药股份有限公司 财务管培生"
     },
     "https://recruit.zibchina.com/server/recruitpositionapply/getInfo/2105206121233448960": {
