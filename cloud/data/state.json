@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "d5e5136b080ba5c41e76921d7e2cd33b8a8ebba6dfd91c104acff4fad142020c",
+      "sha256": "6376db6ac1b4e7f901026cc2779351bca0d25addfc7d819e07ae8a62b2e9f153",
       "lastFetchedAt": "2026-11-24",
       "name": "致同2027校园招聘"
     },
@@ -27,7 +27,7 @@
       "name": "国家能源集团2027统招公告"
     },
     "https://www.chinatax.gov.cn/": {
-      "sha256": "75581455be2a89afdcfb71b9d5bc0ea39ca0069a7d744912452d399f678b6d45",
+      "sha256": "46a0ab2dab961d6eabfdf88b6a667e56cc4cb562c755cc072665f0e2000aba8a",
       "lastFetchedAt": "2026-11-24",
       "name": "国家税务总局"
     },
@@ -277,7 +277,7 @@
       "name": "浙江省海港投资运营集团/宁波舟山港集团 金融投资（2027）及综合管理（2027）方向跟踪"
     },
     "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9": {
-      "sha256": "e404f27c6479de03ac8d981730b0856336fb31e7208376143074eaa0a8bc6345",
+      "sha256": "3fe1174bc91ff9a947b9822b62e0e4a4ca08f4276699a9d0b845e400984e4505",
       "lastFetchedAt": "2026-11-24",
       "name": "新华人寿保险股份有限公司浙江分公司 浙江分公司—会计核算岗（J16824）"
     }
@@ -468,6 +468,15 @@
       "source": "https://www.chinatax.gov.cn/",
       "firstSeenAt": "2026-11-21",
       "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    "6c161cff2bc0cad3dafd3252cd4d763bcae49026aa88232e2e29aaaa1308c6cc": {
+      "key": "6c161cff2bc0cad3dafd3252cd4d763bcae49026aa88232e2e29aaaa1308c6cc",
+      "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
+      "title": "新华人寿保险股份有限公司浙江分公司 浙江分公司—会计核算岗（J16824）",
+      "jobId": "watch-nci-zj-accounting-j16824-2027",
+      "source": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
+      "firstSeenAt": "2026-11-24",
+      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
     }
   },
   "processed": {

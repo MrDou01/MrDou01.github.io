@@ -13,13 +13,13 @@
   "lastResearchAt": "2026-11-24",
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-24T00:40:45.614Z",
-    "completedAt": "2026-11-24T00:42:17.274Z",
-    "lastSuccessfulAt": "2026-11-24T00:42:17.274Z",
-    "fetchedSources": 47,
-    "failedSources": 68,
-    "changedSources": 1,
-    "pendingLeads": 17,
+    "checkedAt": "2026-11-24T10:08:52.517Z",
+    "completedAt": "2026-11-24T10:10:33.485Z",
+    "lastSuccessfulAt": "2026-11-24T10:10:33.485Z",
+    "fetchedSources": 46,
+    "failedSources": 69,
+    "changedSources": 3,
+    "pendingLeads": 18,
     "lastResearchAt": "2026-11-24",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
@@ -376,6 +376,15 @@
   ],
   "pendingLeads": [
     {
+      "key": "6c161cff2bc0cad3dafd3252cd4d763bcae49026aa88232e2e29aaaa1308c6cc",
+      "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
+      "title": "新华人寿保险股份有限公司浙江分公司 浙江分公司—会计核算岗（J16824）",
+      "jobId": "watch-nci-zj-accounting-j16824-2027",
+      "source": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
+      "firstSeenAt": "2026-11-24",
+      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
+    },
+    {
       "url": "https://www.chinatax.gov.cn/zcfgk/c102439/c5253700/content.html",
       "title": "办税小知识：如何在电子税务局办理财务会计制度备案？",
       "key": "55bfcf5e14294095decc30534178647871dab52b8420b0e1c3679ff9e616bf52",
@@ -658,7 +667,7 @@
     {
       "date": "2026-11-24",
       "type": "云端检查",
-      "title": "云端每日检查：47项来源可读，68项待重试",
+      "title": "云端每日检查：46项来源可读，69项待重试",
       "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
       "cloudOperational": true
     },
