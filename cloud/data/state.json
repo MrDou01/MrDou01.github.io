@@ -13,11 +13,11 @@
     },
     "https://www.boc.cn/aboutboc/bi4/202609/t20260903_25689311.html": {
       "sha256": "f25a31fcd98c70b00691206bde3e7a99ac18ffcae7313fe900f88c210ac39ba6",
-      "lastFetchedAt": "2026-11-24",
+      "lastFetchedAt": "2026-11-25",
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "7ab94a0184a091e8744c31e165b737d7868535cf099f1970821bf00ffc78b770",
+      "sha256": "73721bd4f6f6f74f8aa2b7a02823e3b4979e9bd32620c2b51a9a3abadac27c92",
       "lastFetchedAt": "2026-11-25",
       "name": "致同2027校园招聘"
     },
@@ -27,8 +27,8 @@
       "name": "国家能源集团2027统招公告"
     },
     "https://www.chinatax.gov.cn/": {
-      "sha256": "46a0ab2dab961d6eabfdf88b6a667e56cc4cb562c755cc072665f0e2000aba8a",
-      "lastFetchedAt": "2026-11-24",
+      "sha256": "9ae8cf2046e55cbacaa79570840b1ee7fc8fb4255fd1148af3fb9a342ee55d48",
+      "lastFetchedAt": "2026-11-25",
       "name": "国家税务总局"
     },
     "https://recruit.zibchina.com/campus.html": {
