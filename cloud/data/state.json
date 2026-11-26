@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "2ad8ccd3e689e7f55218eb55ea9b4939c26f3fe7ce85bf9f4ad25fa60a06ca1e",
+      "sha256": "2a7c135bdb91e295707d687a8454a50adecc8f67531e83c2a50c7d24dee19977",
       "lastFetchedAt": "2026-11-26",
       "name": "致同2027校园招聘"
     },
@@ -27,8 +27,8 @@
       "name": "国家能源集团2027统招公告"
     },
     "https://www.chinatax.gov.cn/": {
-      "sha256": "9ae8cf2046e55cbacaa79570840b1ee7fc8fb4255fd1148af3fb9a342ee55d48",
-      "lastFetchedAt": "2026-11-25",
+      "sha256": "9979878e5e51944e6e95db77e31ce54414ae804e66ca4acd3a05e44e358c13fd",
+      "lastFetchedAt": "2026-11-26",
       "name": "国家税务总局"
     },
     "https://recruit.zibchina.com/campus.html": {
@@ -148,7 +148,7 @@
     },
     "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html": {
       "sha256": "72e0d0be9f055c10595b621d8d6798a90ff7de1a2fccd813470b1e7b266e08b2",
-      "lastFetchedAt": "2026-11-25",
+      "lastFetchedAt": "2026-11-26",
       "name": "绍兴银行 管培生（5人）"
     },
     "https://career.cmbchina.com/api/campusRecruitmentWebsite/job/getDetail?publishId=D9F73A27-9DA9-4F6E-BC96-BB40824DAE51": {
