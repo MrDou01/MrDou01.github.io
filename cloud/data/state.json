@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "2a7c135bdb91e295707d687a8454a50adecc8f67531e83c2a50c7d24dee19977",
+      "sha256": "e5bc54aea1917773875b42c08163f91212bdd7de823c8611af620ef28fe399ac",
       "lastFetchedAt": "2026-11-26",
       "name": "致同2027校园招聘"
     },
@@ -143,7 +143,7 @@
     },
     "https://job.10086.cn/": {
       "sha256": "a4224fc037e9e09d8d651caf73e0e52c4029eeaaf1ee8d3c19972822e5628fb8",
-      "lastFetchedAt": "2026-11-25",
+      "lastFetchedAt": "2026-11-26",
       "name": "中国移动通信集团浙江有限公司 宁波／余姚财务管理岗位监控"
     },
     "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html": {
@@ -570,6 +570,12 @@
       "sha256": "856439faf4a0b7f417a5026b4f6648d765140042687b96ed0c72c7f71004befb",
       "date": "2026-11-26",
       "acceptedAt": "2026-11-26T00:32:28.915Z"
+    },
+    "research-2026-11-26-0840-publish-retry": {
+      "file": "research-2026-11-26-0840-publish-retry.json",
+      "sha256": "ba9ff978d615a3515b79bf8d116c31acb5d907ae701b869e2bc7e5343c3d1492",
+      "date": "2026-11-26",
+      "acceptedAt": "2026-11-26T00:37:59.406Z"
     }
   },
   "rejected": {},
