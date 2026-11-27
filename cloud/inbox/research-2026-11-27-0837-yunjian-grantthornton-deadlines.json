@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "id": "research-2026-11-27-0837-yunjian-grantthornton-deadlines",
+  "date": "2026-11-27",
+  "jobs": [
+    {
+      "id": "watch-yunjian-hz-finance-2027",
+      "employer": "云尖信息",
+      "role": "2027届财务专员",
+      "region": "杭州",
+      "requirements": "本科及以上；会计、财务管理、审计、税务、财政、金融相关专业；英语四级及以上；初级会计职称优先，CPA/CMA/税务师部分科目优先；掌握会计准则、税法、成本会计基础，熟练使用Excel；制造业成本、事务所审计、税务资金出纳实习优先。官方未明确会计专硕125300。",
+      "source": "https://wecruit.hotjob.cn/SU6298e4f10dcad45229985fd0/pb/posDetail.html?postId=6aeaf0d3e520070c28cb6257&postType=campus",
+      "stage": "watch",
+      "priority": 86,
+      "category": "企业校招",
+      "location": "杭州市萧山区",
+      "direction": "核算／成本／资金／税务／预算与经营分析",
+      "match": "需咨询",
+      "status": "官方2027届校园招聘详情可检索；未明确125300，未见明确截止时间。",
+      "deadline": "",
+      "education": "本科及以上",
+      "audience": "2027届校园招聘",
+      "note": "英语四级为明确要求；相关实习及初级会计证为优先项，不是已确认硬性工作经验。专业仅列相关专业，不能自行认定包含125300。",
+      "action": "尽快向招聘方确认会计专硕125300是否可报及实际截止时间；确认后再投递。",
+      "evidence": {
+        "kind": "official",
+        "url": "https://wecruit.hotjob.cn/SU6298e4f10dcad45229985fd0/pb/posDetail.html?postId=6aeaf0d3e520070c28cb6257&postType=campus",
+        "observedAt": "2026-11-27",
+        "excerpt": "2027届-财务专员；工作地点：杭州市-萧山区。职责包括核算与成本管理、资金与银行、税务、预算与经营分析。要求本科及以上，会计/财管/审计/税务/财政/金融相关专业；初级会计职称优先，CPA/CMA/税务师部分科目优先，CET-4及以上；制造业成本、事务所审计、税务资金出纳实习优先。",
+        "scope": "qualification"
+      }
+    }
+  ],
+  "patches": [
+    {
+      "id": "live-grantthornton-nb",
+      "requirements": "2027年毕业的本科及以上学历国家统招生及留学生；宁波、杭州办公室均参与招聘，可在一个办公室内选择两条业务线。CPA等专业资格考试、较高英语水平和事务所实习经历为加分项。官方页面未列具体专业目录，未明确125300，也未给出内地网申截止日期。",
+      "location": "宁波／杭州（只能选择一个办公室）",
+      "match": "需咨询",
+      "stage": "watch",
+      "status": "致同官网确认2027全国校园招聘及宁波、杭州办公室有需求；具体业务线、专业适配和内地截止日期需在网申系统确认。",
+      "audience": "2027年毕业的本科及以上国家统招生及留学生",
+      "note": "官网明确宁波和杭州参与、全国合计800+需求，但未逐岗位列出专业或内地截止日期；不可据事务所行业属性自动认定125300。",
+      "action": "尽快进入致同官网内地网申，优先查看宁波办公室审计/税务业务线；投递前确认125300与截止日期。",
+      "priority": 88,
+      "checkedAt": "2026-11-27",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.grantthornton.cn/campus-recruitment/",
+        "observedAt": "2026-11-27",
+        "excerpt": "2027年全国校园招聘面向将于2027年毕业的本科以上学历国家统招生及留学生。参与招聘的办公室包括杭州、温州、宁波等23个办公室，涉及800+个职位需求。网申时可选择一个办公室，并在该办公室内选择两条业务线；不可以应聘多家办公室。CPA等专业资格、较高英语水平和会计师事务所相关实习经历为加分项。",
+        "scope": "qualification"
+      }
+    },
+    {
+      "id": "live-sxccb-trainee-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-27",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-27",
+        "excerpt": "2027年绍兴银行校园招聘：客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业；嘉兴分行客服经理4名、上虞支行客服经理1名、绍兴市区支行客服经理7名。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "live-sxccb-shaoxing-service-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-27",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-27",
+        "excerpt": "2027年绍兴银行校园招聘：客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业；嘉兴分行客服经理4名、上虞支行客服经理1名、绍兴市区支行客服经理7名。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "live-sxccb-shangyu-service-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-27",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-27",
+        "excerpt": "2027年绍兴银行校园招聘：客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业；嘉兴分行客服经理4名、上虞支行客服经理1名、绍兴市区支行客服经理7名。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "live-sxccb-jiaxing-service-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-27",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-27",
+        "excerpt": "2027年绍兴银行校园招聘：客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业；嘉兴分行客服经理4名、上虞支行客服经理1名、绍兴市区支行客服经理7名。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "live-sxccb-shaoxing-marketing-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-27",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-27",
+        "excerpt": "2027年绍兴银行校园招聘：客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业；嘉兴分行客服经理4名、上虞支行客服经理1名、绍兴市区支行客服经理7名。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "live-sxccb-shangyu-marketing-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-27",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-27",
+        "excerpt": "2027年绍兴银行校园招聘：客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业；嘉兴分行客服经理4名、上虞支行客服经理1名、绍兴市区支行客服经理7名。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "云尖信息2027届财务专员",
+      "url": "https://wecruit.hotjob.cn/SU6298e4f10dcad45229985fd0/pb/posDetail.html?postId=6aeaf0d3e520070c28cb6257&postType=campus",
+      "group": "enterprise"
+    },
+    {
+      "name": "致同2027全国校园招聘",
+      "url": "https://www.grantthornton.cn/campus-recruitment/",
+      "group": "accounting-firm"
+    },
+    {
+      "name": "绍兴银行2027年校园招聘启事",
+      "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "group": "bank"
+    }
+  ],
+  "updates": [
+    {
+      "date": "2026-11-27",
+      "type": "high-value-new",
+      "title": "新增杭州云尖信息2027届财务专员待核岗位",
+      "detail": "官方校园招聘页显示岗位位于杭州萧山，职责覆盖核算、成本、资金、税务、预算和经营分析；要求本科及以上、会计/财管/审计/税务/财政/金融相关专业、英语四级及以上。因未明确会计专硕125300且未见截止日期，新增为watch/需咨询，不作为已确认可投。"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "qualification-change",
+      "title": "致同宁波/杭州2027校园招聘资格已由官网复核",
+      "detail": "致同官网明确面向2027年毕业的本科及以上国家统招生及留学生，宁波、杭州办公室均参与，网申只能选择一个办公室并可填两条业务线。官网未列具体专业目录和内地截止日期，仍保留watch并提示确认125300；本次以完整官方资格证据刷新checkedAt。"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "near-deadline",
+      "title": "绍兴银行目标岗位距11月30日17时截止3天",
+      "detail": "今日再次实读官方公告，绍兴市区、上虞、嘉兴客服经理仍为专业不限，报名截止仍为2026年11月30日17时；管培生和客户经理专业目录未明确125300，仍需咨询。本次只刷新期限观察日期，不刷新完整资格checkedAt。"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "limited-source",
+      "title": "宁波金投明日截止线索及中国外运J32492仍缺可读官方正文",
+      "detail": "宁波金投官方招聘深链今日仍只能读取集团官网介绍，转载所称财务管理、内部审计岗位及2026年11月28日截止未作为官方证据；中国外运宁波太平财务部会计J32492官方详情仍不可读。两条线索均未激活，宁波金投因据称明日截止应立即电话确认。"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "research-scope",
+      "title": "11月27日核验近3日截止、待核财会线索和新官方校招",
+      "detail": "本次实读致同、绍兴银行官方原文，核验云尖信息官方招聘页，并复查宁波金投、中国外运、宁波通商银行和宁波银行入口；同时主动检索宁波、杭州、绍兴、嘉兴、台州、舟山等目标地区财务会计审计新公告。对脚本空页和转载仅记录受限，不推断无新增、截止、延期或专业适配。"
+    }
+  ],
+  "summary": "2026-11-27按Asia/Shanghai云端核验：新增杭州云尖信息2027届财务专员为watch；用致同官网刷新宁波/杭州2027校招资格；官方确认绍兴银行6个目标岗位仍于11月30日17时截止；宁波金投明日截止及中国外运J32492因官方正文不可读未激活。"
+}
