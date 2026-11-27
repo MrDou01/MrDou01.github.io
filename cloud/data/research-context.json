@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "purpose": "供云端研究任务核验官方招聘。页面可读/哈希变化并不表示资格已复核。收件规则见 cloud/README.md。",
   "profile": {
     "graduation": "2027届",
@@ -9,18 +9,18 @@
     "region": "宁波全域、舟山、绍兴、杭州、台州、嘉兴",
     "screen": "暂按女性、应届、无基层定向身份；不推定专业包含125300"
   },
-  "dataUpdatedAt": "2026-11-26",
-  "lastResearchAt": "2026-11-26",
+  "dataUpdatedAt": "2026-11-27",
+  "lastResearchAt": "2026-11-27",
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-26T08:39:52.022Z",
-    "completedAt": "2026-11-26T08:41:22.847Z",
-    "lastSuccessfulAt": "2026-11-26T08:41:22.847Z",
-    "fetchedSources": 47,
+    "checkedAt": "2026-11-27T00:33:16.858Z",
+    "completedAt": "2026-11-27T00:34:44.590Z",
+    "lastSuccessfulAt": "2026-11-27T00:34:44.590Z",
+    "fetchedSources": 48,
     "failedSources": 68,
     "changedSources": 2,
     "pendingLeads": 17,
-    "lastResearchAt": "2026-11-26",
+    "lastResearchAt": "2026-11-27",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
   },
@@ -574,6 +574,36 @@
       "match": "专业不限"
     },
     {
+      "id": "live-cmb-winter-dz-2027-1-1-2027",
+      "employer": "招商银行杭州分行",
+      "role": "定向培养生（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "23:59",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=D9F73A27-9DA9-4F6E-BC96-BB40824DAE51",
+      "checkedAt": "2026-11-09",
+      "match": "较高匹配"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270103-2027",
+      "employer": "招商银行宁波分行",
+      "role": "公司、零售金融方向定向培养生（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=CE718516-C0C8-4BE2-8B31-DBB508301E1E",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270803-2027",
+      "employer": "招商银行宁波分行",
+      "role": "公司、零售金融方向定向培养生（台州分行）（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=96C3AA66-4E60-4F64-AB6C-B6D2B91E3B61",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
       "id": "live-nbcb-2041-2027",
       "employer": "宁波银行宁波地区",
       "role": "宁波地区综合柜员",
@@ -590,6 +620,46 @@
       "deadline": "2026-11-30",
       "deadlineTime": "17:00:00",
       "source": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "live-cmb-winter-dz-2027-1-4-2027",
+      "employer": "招商银行杭州分行",
+      "role": "运营支持岗（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "23:59",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=E12ABBA4-214E-4389-AEFE-2849F208E5DB",
+      "checkedAt": "2026-11-09",
+      "match": "较高匹配"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270403-2027",
+      "employer": "招商银行宁波分行",
+      "role": "运营支持岗（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=8518A717-10BF-45B3-8232-8E07CDCD097B",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270503-2027",
+      "employer": "招商银行宁波分行",
+      "role": "运营支持岗（县域支行）（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=B5870183-65CC-45AC-9388-18CCDDF95384",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20271003-2027",
+      "employer": "招商银行宁波分行",
+      "role": "运营支持岗（台州分行）（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=D5513C9D-D6B0-4BCA-AE7B-9908B07E6A7E",
       "checkedAt": "2026-11-09",
       "match": "需咨询"
     },
@@ -624,6 +694,76 @@
       "match": "专业不限"
     },
     {
+      "id": "live-cmb-winter-dz-2027-1-3-2027",
+      "employer": "招商银行杭州分行",
+      "role": "市场营销岗（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "23:59",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=DAC805B6-D588-4A7B-9CCD-24678927BC80",
+      "checkedAt": "2026-11-09",
+      "match": "较高匹配"
+    },
+    {
+      "id": "live-cmb-winter-dz-2027-1-5-2027",
+      "employer": "招商银行杭州分行",
+      "role": "综合培养生（绍兴分行）（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "23:59",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=6C375AF6-03D0-4518-829F-42397F12088F",
+      "checkedAt": "2026-11-09",
+      "match": "较高匹配"
+    },
+    {
+      "id": "live-cmb-winter-dz-2027-1-6-2027",
+      "employer": "招商银行杭州分行",
+      "role": "综合培养生（嘉兴分行）（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "23:59",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=1DBE40B8-3105-441C-A40D-73B63BFF3532",
+      "checkedAt": "2026-11-09",
+      "match": "较高匹配"
+    },
+    {
+      "id": "live-cmb-winter-dz-2027-1-10-2027",
+      "employer": "招商银行杭州分行",
+      "role": "综合培养生（舟山分行）（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "23:59",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=F998A136-46ED-433A-A1A2-71E9EF60365B",
+      "checkedAt": "2026-11-09",
+      "match": "较高匹配"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270203-2027",
+      "employer": "招商银行宁波分行",
+      "role": "市场营销岗（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=12C654CD-5DCA-4B98-BB1A-C9BF0593933C",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270303-2027",
+      "employer": "招商银行宁波分行",
+      "role": "市场营销岗（县域支行）（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=D43975EF-450C-4FE4-9C7D-EDA8DE3F66CE",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
+      "id": "watch-cmb-winter-nbxz20270903-2027",
+      "employer": "招商银行宁波分行",
+      "role": "市场营销岗（台州分行）（冬季校招）",
+      "deadline": "2026-12-04",
+      "deadlineTime": "",
+      "source": "https://career.cmbchina.com/positionDetail/school?publishId=DDBBDDFD-E76E-4659-9C90-3AB74C679D42",
+      "checkedAt": "2026-11-09",
+      "match": "需咨询"
+    },
+    {
       "id": "watch-nbcb-5450-2027",
       "employer": "宁波银行杭州分行",
       "role": "杭州分行运营培训生",
@@ -655,6 +795,43 @@
     }
   ],
   "recentUpdates": [
+    {
+      "date": "2026-11-27",
+      "type": "云端检查",
+      "title": "云端每日检查：48项来源可读，68项待重试",
+      "detail": "已保留全部历史岗位与人工状态；1条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
+      "cloudOperational": true
+    },
+    {
+      "date": "2026-11-27",
+      "type": "research-scope",
+      "title": "11月27日核验近3日截止、待核财会线索和新官方校招",
+      "detail": "本次实读致同、绍兴银行官方原文，核验云尖信息官方招聘页，并复查宁波金投、中国外运、宁波通商银行和宁波银行入口；同时主动检索宁波、杭州、绍兴、嘉兴、台州、舟山等目标地区财务会计审计新公告。对脚本空页和转载仅记录受限，不推断无新增、截止、延期或专业适配。"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "limited-source",
+      "title": "宁波金投明日截止线索及中国外运J32492仍缺可读官方正文",
+      "detail": "宁波金投官方招聘深链今日仍只能读取集团官网介绍，转载所称财务管理、内部审计岗位及2026年11月28日截止未作为官方证据；中国外运宁波太平财务部会计J32492官方详情仍不可读。两条线索均未激活，宁波金投因据称明日截止应立即电话确认。"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "near-deadline",
+      "title": "绍兴银行目标岗位距11月30日17时截止3天",
+      "detail": "今日再次实读官方公告，绍兴市区、上虞、嘉兴客服经理仍为专业不限，报名截止仍为2026年11月30日17时；管培生和客户经理专业目录未明确125300，仍需咨询。本次只刷新期限观察日期，不刷新完整资格checkedAt。"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "qualification-change",
+      "title": "致同宁波/杭州2027校园招聘资格已由官网复核",
+      "detail": "致同官网明确面向2027年毕业的本科及以上国家统招生及留学生，宁波、杭州办公室均参与，网申只能选择一个办公室并可填两条业务线。官网未列具体专业目录和内地截止日期，仍保留watch并提示确认125300；本次以完整官方资格证据刷新checkedAt。"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "high-value-new",
+      "title": "新增杭州云尖信息2027届财务专员待核岗位",
+      "detail": "官方校园招聘页显示岗位位于杭州萧山，职责覆盖核算、成本、资金、税务、预算和经营分析；要求本科及以上、会计/财管/审计/税务/财政/金融相关专业、英语四级及以上。因未明确会计专硕125300且未见截止日期，新增为watch/需咨询，不作为已确认可投。"
+    },
     {
       "date": "2026-11-26",
       "type": "云端检查",
@@ -691,44 +868,6 @@
       "type": "research-scope",
       "title": "11月26日复核两条临近截止线索并检索宁波国企新公告",
       "detail": "本次优先复核宁波金融开发投资控股集团、中国外运宁波太平财务部会计J32492，并主动检索宁波市及鄞州区国企、目标城市2027届财务会计审计岗位。转载仅作线索；未把页面抓取失败或搜索无结果写成无新增、截止、延期或专业适配。"
-    },
-    {
-      "date": "2026-11-25",
-      "type": "云端检查",
-      "title": "云端每日检查：48项来源可读，67项待重试",
-      "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
-      "cloudOperational": true
-    },
-    {
-      "date": "2026-11-25",
-      "type": "research-scope",
-      "title": "11月25日优先核验待核变化、近7日截止和新财会公告",
-      "detail": "本次复核新华保险页面变化、绍兴银行11月30日截止岗位，并主动检索宁波市属国企、中国外运、国家电网及目标城市2027届财会岗位。对无法实读官方正文的线索仅记录受限情况，未推断在招、截止、延期或专业适配。"
-    },
-    {
-      "date": "2026-11-25",
-      "type": "limited-source",
-      "title": "中国外运宁波财务岗、宁波金投及国网浙江线索未以转载激活",
-      "detail": "中国外运宁波太平财务部会计J32492已定位官方投递深链，但官方详情正文未成功读取；宁波金投官网招聘深链仍只能读取官网首页，指定报名平台不可读；转载所称宁波金投11月28日截止及岗位资格未采用。另有转载线索称国网浙江第一批11月25日截止并涉及财会类，但本次未读到国家电网官方同一公告和精确专业目录，不新增或修改岗位。"
-    },
-    {
-      "date": "2026-11-25",
-      "type": "near-deadline",
-      "title": "绍兴银行6个目标岗位距11月30日17时截止5天",
-      "detail": "今日实读绍兴银行官方公告，报名截止仍为2026年11月30日17时。绍兴市区、上虞、嘉兴客服经理专业不限；管培生和客户经理的专业目录未明确125300，仍需咨询。本次仅刷新期限观察日期，不刷新这些岗位的完整资格checkedAt。"
-    },
-    {
-      "date": "2026-11-25",
-      "type": "qualification-change",
-      "title": "新华保险浙江分公司会计核算岗仍需确认届别和专业",
-      "detail": "已实读官方同ID岗位页。岗位为校园招聘、地点杭州，职位名为会计核算岗，但任职资格写大学本科及以上、法律和金融等专业，未明确2027届，也未明确包含会计专硕125300；金融相关行业经历仅为优先。继续保留watch并刷新完整资格核验日期。页面所示2027-06-30未见延期说明，不作为已证实延期。"
-    },
-    {
-      "date": "2026-11-24",
-      "type": "云端检查",
-      "title": "云端每日检查：46项来源可读，69项待重试",
-      "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
-      "cloudOperational": true
     }
   ],
   "rejectedInbox": [],
@@ -806,7 +945,8 @@
       "employer": "致同会计师事务所",
       "role": "审计、税务、咨询、评估与估值",
       "source": "https://www.grantthornton.cn/campus-recruitment/",
-      "stage": "watch"
+      "stage": "watch",
+      "checkedAt": "2026-11-27"
     },
     {
       "id": "live-deloitte-2027-7285",
@@ -1583,6 +1723,14 @@
       "source": "https://app.mokahr.com/campus-recruitment/zjshc/56209#/job/092f984e-aeae-471a-b854-8d232304af38",
       "stage": "watch",
       "checkedAt": "2026-11-23"
+    },
+    {
+      "id": "watch-yunjian-hz-finance-2027",
+      "employer": "云尖信息",
+      "role": "2027届财务专员",
+      "source": "https://wecruit.hotjob.cn/SU6298e4f10dcad45229985fd0/pb/posDetail.html?postId=6aeaf0d3e520070c28cb6257&postType=campus",
+      "stage": "watch",
+      "checkedAt": "2026-11-27"
     }
   ]
 }
