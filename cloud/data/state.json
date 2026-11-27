@@ -17,7 +17,7 @@
       "name": "中国银行2027全球校园招聘公告"
     },
     "https://www.grantthornton.cn/campus-recruitment/": {
-      "sha256": "832acf08bacb330f9bfccd19bb865121df937fd7d2508b5586ec7c3b96b65344",
+      "sha256": "bab9daca6313f57f04d28395f41384365cbc9d93758fc0aa1dbcfa02e90994ce",
       "lastFetchedAt": "2026-11-27",
       "name": "致同2027校园招聘"
     },
@@ -27,7 +27,7 @@
       "name": "国家能源集团2027统招公告"
     },
     "https://www.chinatax.gov.cn/": {
-      "sha256": "24c4d2ca3f67e62d26ebbdfc19a71d99ec4b5bc34b50c4efaf44f811e372cc53",
+      "sha256": "0048404081d580d08f395e7ab7b0b54ecbcd0d4c9d21f20ca511f67a73c46e41",
       "lastFetchedAt": "2026-11-27",
       "name": "国家税务总局"
     },
@@ -143,7 +143,7 @@
     },
     "https://job.10086.cn/": {
       "sha256": "a4224fc037e9e09d8d651caf73e0e52c4029eeaaf1ee8d3c19972822e5628fb8",
-      "lastFetchedAt": "2026-11-26",
+      "lastFetchedAt": "2026-11-27",
       "name": "中国移动通信集团浙江有限公司 宁波／余姚财务管理岗位监控"
     },
     "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html": {
@@ -277,7 +277,7 @@
       "name": "浙江省海港投资运营集团/宁波舟山港集团 金融投资（2027）及综合管理（2027）方向跟踪"
     },
     "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9": {
-      "sha256": "3fe1174bc91ff9a947b9822b62e0e4a4ca08f4276699a9d0b845e400984e4505",
+      "sha256": "643071848962ed2106bd47cce4aca105a8771c808546c19f17e992ad03a6fc76",
       "lastFetchedAt": "2026-11-27",
       "name": "新华人寿保险股份有限公司浙江分公司 浙江分公司—会计核算岗（J16824）"
     },
@@ -483,6 +483,15 @@
       "firstSeenAt": "2026-11-24",
       "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板",
       "resolvedAt": "2026-11-25"
+    },
+    "8f95cdfec36c76722b3ae4f3ef3affa1dfb8e46b898103b8237b0555070f0ca2": {
+      "key": "8f95cdfec36c76722b3ae4f3ef3affa1dfb8e46b898103b8237b0555070f0ca2",
+      "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
+      "title": "新华人寿保险股份有限公司浙江分公司 浙江分公司—会计核算岗（J16824）",
+      "jobId": "watch-nci-zj-accounting-j16824-2027",
+      "source": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
+      "firstSeenAt": "2026-11-27",
+      "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
     }
   },
   "processed": {
