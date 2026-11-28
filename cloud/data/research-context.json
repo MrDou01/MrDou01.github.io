@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "purpose": "供云端研究任务核验官方招聘。页面可读/哈希变化并不表示资格已复核。收件规则见 cloud/README.md。",
   "profile": {
     "graduation": "2027届",
@@ -9,18 +9,18 @@
     "region": "宁波全域、舟山、绍兴、杭州、台州、嘉兴",
     "screen": "暂按女性、应届、无基层定向身份；不推定专业包含125300"
   },
-  "dataUpdatedAt": "2026-11-27",
-  "lastResearchAt": "2026-11-27",
+  "dataUpdatedAt": "2026-11-28",
+  "lastResearchAt": "2026-11-28",
   "cloudStatus": {
     "mode": "cloud",
-    "checkedAt": "2026-11-27T08:50:22.417Z",
-    "completedAt": "2026-11-27T08:51:53.763Z",
-    "lastSuccessfulAt": "2026-11-27T08:51:53.763Z",
-    "fetchedSources": 49,
-    "failedSources": 67,
+    "checkedAt": "2026-11-28T00:34:04.990Z",
+    "completedAt": "2026-11-28T00:35:35.234Z",
+    "lastSuccessfulAt": "2026-11-28T00:35:35.234Z",
+    "fetchedSources": 50,
+    "failedSources": 66,
     "changedSources": 3,
-    "pendingLeads": 18,
-    "lastResearchAt": "2026-11-27",
+    "pendingLeads": 23,
+    "lastResearchAt": "2026-11-28",
     "scope": "官方公开页面/接口检查及新线索发现；抓取成功不等同完整资格复核，失败来源保留旧数据",
     "rejectedInbox": 0
   },
@@ -376,12 +376,52 @@
   ],
   "pendingLeads": [
     {
-      "key": "8f95cdfec36c76722b3ae4f3ef3affa1dfb8e46b898103b8237b0555070f0ca2",
-      "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
-      "title": "新华人寿保险股份有限公司浙江分公司 浙江分公司—会计核算岗（J16824）",
-      "jobId": "watch-nci-zj-accounting-j16824-2027",
-      "source": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
-      "firstSeenAt": "2026-11-27",
+      "url": "https://job1.ccb.com/cn/job/index.html",
+      "title": "招聘首页",
+      "key": "264819d345b7243c72394dc0c83000691e5f683a578069df5350999484967b1b",
+      "source": "https://job1.ccb.com/cn/job/plan_index.html?planType=XY",
+      "firstSeenAt": "2026-11-28",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://job1.ccb.com/cn/job/plan_index.html?planType=XY",
+      "title": "校园招聘",
+      "key": "4d2f9699109015c9788a8cea8f6f990da98d4e15c49e8a91d8c76f664731cc2b",
+      "source": "https://job1.ccb.com/cn/job/plan_index.html?planType=XY",
+      "firstSeenAt": "2026-11-28",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://job1.ccb.com/cn/job/plan_index.html?planType=SX",
+      "title": "实习生招聘",
+      "key": "9642b30e99ac0a70dd1474dae962bf29b7eb24fbe211994b462d3b12eb088638",
+      "source": "https://job1.ccb.com/cn/job/plan_index.html?planType=XY",
+      "firstSeenAt": "2026-11-28",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://job1.ccb.com/cn/job/plan_index.html?planType=SH",
+      "title": "社会招聘",
+      "key": "a636e38e9ccd249de4bec242e64048f02d7999d661be3064baeef9876885f72c",
+      "source": "https://job1.ccb.com/cn/job/plan_index.html?planType=XY",
+      "firstSeenAt": "2026-11-28",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "url": "https://job1.ccb.com/cn/job/plan_index.html?planType=DX",
+      "title": "专项招聘",
+      "key": "aab9a09f66a25ca90c791524f0793b77c0533ff74b8bb91fdb16b74fe89306fe",
+      "source": "https://job1.ccb.com/cn/job/plan_index.html?planType=XY",
+      "firstSeenAt": "2026-11-28",
+      "status": "待核验：仅发现官方链接，未确认2027届/专业/期限"
+    },
+    {
+      "key": "19e6698b83a9c46559b17b07f556ecdab3654a5b0352db85ead291d1a5383efa",
+      "url": "https://wecruit.hotjob.cn/SU6298e4f10dcad45229985fd0/pb/posDetail.html?postId=6aeaf0d3e520070c28cb6257&postType=campus",
+      "title": "云尖信息 2027届财务专员",
+      "jobId": "watch-yunjian-hz-finance-2027",
+      "source": "https://wecruit.hotjob.cn/SU6298e4f10dcad45229985fd0/pb/posDetail.html?postId=6aeaf0d3e520070c28cb6257&postType=campus",
+      "firstSeenAt": "2026-11-28",
       "status": "具体岗位页面内容变化，须复核条件；页面变化也可能来自模板"
     },
     {
@@ -805,6 +845,37 @@
   ],
   "recentUpdates": [
     {
+      "date": "2026-11-28",
+      "type": "云端检查",
+      "title": "云端每日检查：50项来源可读，66项待重试",
+      "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
+      "cloudOperational": true
+    },
+    {
+      "date": "2026-11-28",
+      "type": "research-scope",
+      "title": "11月28日复核今日截止线索、待核页面变化和近两日银行期限",
+      "detail": "本次实读新华保险J16824和绍兴银行官方原文，复查宁波金投、中国外运及宁波银行等入口，并主动检索宁波、杭州、绍兴、嘉兴、台州、舟山的财务、会计、审计新公告。新检索到的容诚等转载仅作线索；未读到目标城市同一岗位官方详情时不入库。"
+    },
+    {
+      "date": "2026-11-28",
+      "type": "limited-source",
+      "title": "宁波金投今日截止线索仍不能作为官方岗位状态",
+      "detail": "今日再次访问宁波金融开发投资控股集团官方招聘深链，只能读取集团官网介绍和联系方式，未成功读取招聘正文或报名平台。转载继续显示财务管理、内部审计等岗位于2026年11月28日截止，但本次不据转载激活、关闭或判断专业适配；如尚未确认，应今日直接电话咨询。中国外运J32492官方详情也仍不可读。"
+    },
+    {
+      "date": "2026-11-28",
+      "type": "near-deadline",
+      "title": "绍兴银行专业不限客服经理距11月30日17时截止2天",
+      "detail": "官方公告今日仍可读，绍兴市区7名、上虞1名、嘉兴4名客服经理均为专业不限、2027届初次就业，报名截止仍为2026年11月30日17时。管培生和客户经理专业目录未明确125300。本次仅刷新期限观察日期。"
+    },
+    {
+      "date": "2026-11-28",
+      "type": "qualification-check",
+      "title": "新华保险J16824页面变化未形成资格变化",
+      "detail": "今日针对待核页面变化实读官方同ID详情。岗位仍为杭州会计核算岗、校园招聘，本科及以上，任职资格仍列法律、金融等专业及金融行业经历优先；仍未明确2027届和会计专硕125300。继续保留watch/需咨询，并以完整官方原文刷新checkedAt。"
+    },
+    {
       "date": "2026-11-27",
       "type": "云端检查",
       "title": "云端每日检查：49项来源可读，67项待重试",
@@ -847,36 +918,6 @@
       "title": "云端每日检查：47项来源可读，68项待重试",
       "detail": "已保留全部历史岗位与人工状态；0条新增候选，0条按已知截止转为已截止。官网新链接及内容变化保留待核验，未将访问成功写作岗位资格通过。访问失败来源不作无新增或下线判断。",
       "cloudOperational": true
-    },
-    {
-      "date": "2026-11-26",
-      "type": "publication-retry",
-      "title": "云端研究已入库，重新触发独立发布运行",
-      "detail": "上一运行已成功接收11月26日研究增量、更新云端数据并保存每日历史，但GitHub Pages发布阶段因同一运行的产物查询异常未完成公开校验。本增量不新增或修改岗位，仅触发独立发布运行并保留该受限情况。"
-    },
-    {
-      "date": "2026-11-26",
-      "type": "qualification-exclusion",
-      "title": "鄞润商管新公告无目标财会岗位",
-      "detail": "主动检索到宁波市鄞润商业管理有限公司招聘3人线索；可读转载正文仅列副总经理、物业及信息化管理岗，前者要求多年运营管理及中层经历，后者限电气、建筑学、管理科学与工程类，均不适合作为2027届会计专硕岗位。因未实读官方发布页，本次仅作排除线索，不新增岗位。"
-    },
-    {
-      "date": "2026-11-26",
-      "type": "limited-source",
-      "title": "中国外运宁波财务部会计J32492仍未以转载激活",
-      "detail": "今日再次访问中国外运官方岗位深链，官方详情仍不可读；官方招聘列表搜索结果未提供同一岗位的完整资格正文。转载继续显示“宁波太平-财务部会计（2027届秋招）(J32492)”，但未据转载确认专业、证书、期限或当前在招状态，不新增或修改岗位。"
-    },
-    {
-      "date": "2026-11-26",
-      "type": "limited-source",
-      "title": "宁波金投11月28日线索仍未取得可读官方招聘正文",
-      "detail": "今日再次访问宁波金融开发投资控股集团官方招聘深链，只能读取集团官网介绍和联系方式，未能读取招聘正文；搜索转载仍称报名截至2026年11月28日，并出现财务管理、内部审计等岗位及应届毕业生口径，但均未作为官方证据。未新增岗位、未判断125300适配，保留待核并提示临近截止需直接向单位确认。"
-    },
-    {
-      "date": "2026-11-26",
-      "type": "research-scope",
-      "title": "11月26日复核两条临近截止线索并检索宁波国企新公告",
-      "detail": "本次优先复核宁波金融开发投资控股集团、中国外运宁波太平财务部会计J32492，并主动检索宁波市及鄞州区国企、目标城市2027届财务会计审计岗位。转载仅作线索；未把页面抓取失败或搜索无结果写成无新增、截止、延期或专业适配。"
     }
   ],
   "rejectedInbox": [],
@@ -1379,7 +1420,7 @@
       "role": "浙江分公司—会计核算岗（J16824）",
       "source": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&c=-1&p=1%5E9",
       "stage": "watch",
-      "checkedAt": "2026-11-25"
+      "checkedAt": "2026-11-28"
     },
     {
       "id": "live-sxccb-shaoxing-service-2027",
