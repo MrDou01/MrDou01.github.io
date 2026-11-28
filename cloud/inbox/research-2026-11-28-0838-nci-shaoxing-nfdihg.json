@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "research-2026-11-28-0838-nci-shaoxing-nfdihg",
+  "date": "2026-11-28",
+  "jobs": [],
+  "patches": [
+    {
+      "id": "watch-nci-zj-accounting-j16824-2027",
+      "requirements": "大学本科及以上；官方任职资格列“法律、金融等专业”，金融相关行业从业经历优先；职位名虽为会计核算岗，但未明确会计专业硕士125300，且岗位页未明确2027届，需向招聘方确认。",
+      "match": "需咨询",
+      "stage": "watch",
+      "status": "官方页仍显示校园招聘和“现在申请”，但未注明2027届；任职资格专业与岗位名称存在错位，125300不能自行认定。",
+      "audience": "校园招聘；岗位页未明确2027届",
+      "note": "官方页显示截止时间2027-06-30，但未见延期或长期招聘说明，不将该日期作为已证实延期；职位名为会计核算岗，任职资格仍列法律、金融等专业。",
+      "action": "投递前向新华保险招聘方确认是否面向2027届、会计专硕125300是否可报，以及页面截止时间是否为真实网申期限。",
+      "checkedAt": "2026-11-28",
+      "evidence": {
+        "kind": "official",
+        "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
+        "observedAt": "2026-11-28",
+        "excerpt": "浙江分公司-会计核算岗(J16824)；招聘类别：校园招聘；工作地点：浙江省-杭州市；截止时间：2027-06-30。任职资格：大学本科及以上学历；法律、金融等专业；有金融相关行业从业经历者优先；具有良好的组织协调能力，有较强的沟通能力、责任心。",
+        "scope": "qualification"
+      }
+    },
+    {
+      "id": "live-sxccb-trainee-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-28",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-28",
+        "excerpt": "2027年绍兴银行校园招聘：绍兴市区客服经理7名、上虞支行客服经理1名、嘉兴分行客服经理4名；客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "live-sxccb-shaoxing-service-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-28",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-28",
+        "excerpt": "2027年绍兴银行校园招聘：绍兴市区客服经理7名、上虞支行客服经理1名、嘉兴分行客服经理4名；客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "live-sxccb-shangyu-service-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-28",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-28",
+        "excerpt": "2027年绍兴银行校园招聘：绍兴市区客服经理7名、上虞支行客服经理1名、嘉兴分行客服经理4名；客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "live-sxccb-jiaxing-service-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-28",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-28",
+        "excerpt": "2027年绍兴银行校园招聘：绍兴市区客服经理7名、上虞支行客服经理1名、嘉兴分行客服经理4名；客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "live-sxccb-shaoxing-marketing-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-28",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-28",
+        "excerpt": "2027年绍兴银行校园招聘：绍兴市区客服经理7名、上虞支行客服经理1名、嘉兴分行客服经理4名；客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    },
+    {
+      "id": "live-sxccb-shangyu-marketing-2027",
+      "deadline": "2026-11-30",
+      "deadlineTime": "17:00:00",
+      "deadlineCheckedAt": "2026-11-28",
+      "evidence": {
+        "kind": "official",
+        "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+        "observedAt": "2026-11-28",
+        "excerpt": "2027年绍兴银行校园招聘：绍兴市区客服经理7名、上虞支行客服经理1名、嘉兴分行客服经理4名；客服经理要求全日制本科及以上学历、专业不限、2027届应届毕业生且为初次就业。报名截止时间：2026年11月30日17时。",
+        "scope": "deadline"
+      }
+    }
+  ],
+  "sources": [
+    {
+      "name": "新华保险浙江分公司会计核算岗（J16824）",
+      "url": "https://nci.zhiye.com/zpdetail/621151142?PageIndex=0&p=1%5E9",
+      "group": "insurance"
+    },
+    {
+      "name": "绍兴银行2027年校园招聘启事",
+      "url": "https://www.sxccb.com/cn/RCZP/rczp/rczpZ/38771.html",
+      "group": "bank"
+    }
+  ],
+  "updates": [
+    {
+      "date": "2026-11-28",
+      "type": "qualification-check",
+      "title": "新华保险J16824页面变化未形成资格变化",
+      "detail": "今日针对待核页面变化实读官方同ID详情。岗位仍为杭州会计核算岗、校园招聘，本科及以上，任职资格仍列法律、金融等专业及金融行业经历优先；仍未明确2027届和会计专硕125300。继续保留watch/需咨询，并以完整官方原文刷新checkedAt。"
+    },
+    {
+      "date": "2026-11-28",
+      "type": "near-deadline",
+      "title": "绍兴银行专业不限客服经理距11月30日17时截止2天",
+      "detail": "官方公告今日仍可读，绍兴市区7名、上虞1名、嘉兴4名客服经理均为专业不限、2027届初次就业，报名截止仍为2026年11月30日17时。管培生和客户经理专业目录未明确125300。本次仅刷新期限观察日期。"
+    },
+    {
+      "date": "2026-11-28",
+      "type": "limited-source",
+      "title": "宁波金投今日截止线索仍不能作为官方岗位状态",
+      "detail": "今日再次访问宁波金融开发投资控股集团官方招聘深链，只能读取集团官网介绍和联系方式，未成功读取招聘正文或报名平台。转载继续显示财务管理、内部审计等岗位于2026年11月28日截止，但本次不据转载激活、关闭或判断专业适配；如尚未确认，应今日直接电话咨询。中国外运J32492官方详情也仍不可读。"
+    },
+    {
+      "date": "2026-11-28",
+      "type": "research-scope",
+      "title": "11月28日复核今日截止线索、待核页面变化和近两日银行期限",
+      "detail": "本次实读新华保险J16824和绍兴银行官方原文，复查宁波金投、中国外运及宁波银行等入口，并主动检索宁波、杭州、绍兴、嘉兴、台州、舟山的财务、会计、审计新公告。新检索到的容诚等转载仅作线索；未读到目标城市同一岗位官方详情时不入库。"
+    }
+  ],
+  "summary": "2026-11-28按Asia/Shanghai云端核验：新华保险J16824页面变化经官方复核无资格变化，仍需确认届别和125300；绍兴银行专业不限客服经理距11月30日17时截止2天；宁波金投据称今日截止但官方正文仍不可读，未据转载激活或关闭。"
+}
